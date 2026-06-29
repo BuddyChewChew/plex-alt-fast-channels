@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-22T20:31:43.920419+00:00",
+  "generated": "2026-06-29T02:08:45.451194+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3044,19 +3044,6 @@
         ],
         "region": "us"
       },
-      "666e1a2bce73ed6023b55a13": {
-        "id": "6a1610bebdf296985fd95603-666e1a2bce73ed6023b55a13",
-        "slug": "jade-fever",
-        "gridKey": "666e1a2bce73ed6023b55a13",
-        "name": "Jade Fever",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/abef57ed-8084-4da0-bf57-cf52edf919f7/channel_logo_1500x1000_light.png.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-666e1a2bce73ed6023b55a13.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
       "63c1ec0e0aa23f984207af82": {
         "id": "6a1610bebdf296985fd95603-63c1ec0e0aa23f984207af82",
         "slug": "ax-men-by-history",
@@ -3083,6 +3070,19 @@
         ],
         "region": "us"
       },
+      "60de0520281b17002cd1d4c4": {
+        "id": "6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4",
+        "slug": "all-weddings-we-tv",
+        "gridKey": "60de0520281b17002cd1d4c4",
+        "name": "All Weddings We TV",
+        "logo": "https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png",
+        "callSign": "ALLWED",
+        "key": "/library/parts/6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "63ec126f9866d8d2120ac75b": {
         "id": "6a1610bebdf296985fd95603-63ec126f9866d8d2120ac75b",
         "slug": "matched-married-meet",
@@ -3096,6 +3096,19 @@
         ],
         "region": "us"
       },
+      "666e1a2bce73ed6023b55a13": {
+        "id": "6a1610bebdf296985fd95603-666e1a2bce73ed6023b55a13",
+        "slug": "jade-fever",
+        "gridKey": "666e1a2bce73ed6023b55a13",
+        "name": "Jade Fever",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/abef57ed-8084-4da0-bf57-cf52edf919f7/channel_logo_1500x1000_light.png.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-666e1a2bce73ed6023b55a13.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "666e1820ce73ed6023b55a11": {
         "id": "6a1610bebdf296985fd95603-666e1820ce73ed6023b55a11",
         "slug": "ice-pilots-nwt",
@@ -3104,19 +3117,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-666e1820ce73ed6023b55a11.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "60de0520281b17002cd1d4c4": {
-        "id": "6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4",
-        "slug": "all-weddings-we-tv",
-        "gridKey": "60de0520281b17002cd1d4c4",
-        "name": "All Weddings We TV",
-        "logo": "https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b170e1d41eabd27d6372fcc257813ff7.png",
-        "callSign": "ALLWED",
-        "key": "/library/parts/6a1610bebdf296985fd95603-60de0520281b17002cd1d4c4.m3u8",
         "genres": [
           "Reality"
         ],
@@ -4201,6 +4201,32 @@
         ],
         "region": "us"
       },
+      "648095b14e104622d093d902": {
+        "id": "6a1610bebdf296985fd95603-648095b14e104622d093d902",
+        "slug": "laff-more",
+        "gridKey": "648095b14e104622d093d902",
+        "name": "Laff More",
+        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/299cf5577f1c895c5485425867f63d52.png",
+        "callSign": "LAFFTV",
+        "key": "/library/parts/6a1610bebdf296985fd95603-648095b14e104622d093d902.m3u8",
+        "genres": [
+          "Comedy"
+        ],
+        "region": "us"
+      },
+      "6707d359da81682f2d1e683c": {
+        "id": "6a1610bebdf296985fd95603-6707d359da81682f2d1e683c",
+        "slug": "kims-convenience",
+        "gridKey": "6707d359da81682f2d1e683c",
+        "name": "Kim's Convenience",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/73521d5b-09c4-4652-a121-049903035635/KimsConvenience_Color_LogoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6707d359da81682f2d1e683c.m3u8",
+        "genres": [
+          "Comedy"
+        ],
+        "region": "us"
+      },
       "64704954e536e0faaf10be9f": {
         "id": "6a1610bebdf296985fd95603-64704954e536e0faaf10be9f",
         "slug": "just-for-laughs-gags",
@@ -4214,19 +4240,6 @@
         ],
         "region": "us"
       },
-      "5ef11486d33ab9004048a1cd": {
-        "id": "6a1610bebdf296985fd95603-5ef11486d33ab9004048a1cd",
-        "slug": "always-funny",
-        "gridKey": "5ef11486d33ab9004048a1cd",
-        "name": "Always Funny",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-5ef11486d33ab9004048a1cd.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
       "670858335b42d01c9391e325": {
         "id": "6a1610bebdf296985fd95603-670858335b42d01c9391e325",
         "slug": "the-kids-in-the-hall",
@@ -4235,19 +4248,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-670858335b42d01c9391e325.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "6a1610bebdf296985fd95603-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-5fd115b7b7ef8d002dcf1814.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4287,6 +4287,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-650b5bb3f4b2d9579946a500.m3u8",
+        "genres": [
+          "Comedy"
+        ],
+        "region": "us"
+      },
+      "6a3b0dab6766376fae696fa6": {
+        "id": "6a1610bebdf296985fd95603-6a3b0dab6766376fae696fa6",
+        "slug": "fluffy-tv",
+        "gridKey": "6a3b0dab6766376fae696fa6",
+        "name": "Fluffy TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/04475a86-bf28-4cd0-9197-6b87ea4fecfc/Fluffy_TV_Logo_Color_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a3b0dab6766376fae696fa6.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4357,6 +4370,19 @@
         ],
         "region": "us"
       },
+      "5ef11486d33ab9004048a1cd": {
+        "id": "6a1610bebdf296985fd95603-5ef11486d33ab9004048a1cd",
+        "slug": "always-funny",
+        "gridKey": "5ef11486d33ab9004048a1cd",
+        "name": "Always Funny",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1bfcb8e4-9593-4914-aa02-14b966a2ec7e/AF_Logo_for_Light_BG__transparent__-_Jose_RiveraRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-5ef11486d33ab9004048a1cd.m3u8",
+        "genres": [
+          "Comedy"
+        ],
+        "region": "us"
+      },
       "5fc705eea2236e002d69f5ae": {
         "id": "6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae",
         "slug": "slightly-off-ifc",
@@ -4365,19 +4391,6 @@
         "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/836ae5bf33d76b6a6bbb10e510978b11.png",
         "callSign": "IFCOFF",
         "key": "/library/parts/6a1610bebdf296985fd95603-5fc705eea2236e002d69f5ae.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
-      "6707d359da81682f2d1e683c": {
-        "id": "6a1610bebdf296985fd95603-6707d359da81682f2d1e683c",
-        "slug": "kims-convenience",
-        "gridKey": "6707d359da81682f2d1e683c",
-        "name": "Kim's Convenience",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/73521d5b-09c4-4652-a121-049903035635/KimsConvenience_Color_LogoRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6707d359da81682f2d1e683c.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4409,6 +4422,19 @@
         ],
         "region": "us"
       },
+      "5fd115b7b7ef8d002dcf1814": {
+        "id": "6a1610bebdf296985fd95603-5fd115b7b7ef8d002dcf1814",
+        "slug": "humor-mill",
+        "gridKey": "5fd115b7b7ef8d002dcf1814",
+        "name": "Humor Mill",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-5fd115b7b7ef8d002dcf1814.m3u8",
+        "genres": [
+          "Comedy"
+        ],
+        "region": "us"
+      },
       "671a924b79fce6628115432c": {
         "id": "6a1610bebdf296985fd95603-671a924b79fce6628115432c",
         "slug": "mr-bean-live-action",
@@ -4417,19 +4443,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1360f1ba-3ea1-4cc1-9ab9-6e99776c1a89/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-671a924b79fce6628115432c.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
-      "648095b14e104622d093d902": {
-        "id": "6a1610bebdf296985fd95603-648095b14e104622d093d902",
-        "slug": "laff-more",
-        "gridKey": "648095b14e104622d093d902",
-        "name": "Laff More",
-        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/299cf5577f1c895c5485425867f63d52.png",
-        "callSign": "LAFFTV",
-        "key": "/library/parts/6a1610bebdf296985fd95603-648095b14e104622d093d902.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4643,6 +4656,19 @@
         ],
         "region": "us"
       },
+      "69271fa57faaeed71b910ac2": {
+        "id": "6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2",
+        "slug": "tvone-stars-and-stories",
+        "gridKey": "69271fa57faaeed71b910ac2",
+        "name": "TVOne Stars & Stories",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b49a0dc-de17-4ea4-9833-f739b546244b/Plex-SAS-1500x1000-DarkBG.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "64b719768ec13d5dcb7e6bb4": {
         "id": "6a1610bebdf296985fd95603-64b719768ec13d5dcb7e6bb4",
         "slug": "supermarket-sweep",
@@ -4846,19 +4872,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "69271fa57faaeed71b910ac2": {
-        "id": "6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2",
-        "slug": "tvone-stars-and-stories",
-        "gridKey": "69271fa57faaeed71b910ac2",
-        "name": "TVOne Stars & Stories",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1b49a0dc-de17-4ea4-9833-f739b546244b/Plex-SAS-1500x1000-DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69271fa57faaeed71b910ac2.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -5150,6 +5163,19 @@
         ],
         "region": "us"
       },
+      "6414a73254c537d12d8073d7": {
+        "id": "6a1610bebdf296985fd95603-6414a73254c537d12d8073d7",
+        "slug": "bbc-earth",
+        "gridKey": "6414a73254c537d12d8073d7",
+        "name": "BBC Earth",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6414a73254c537d12d8073d7.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
       "64f101b1c4b308f2fe3e7c0c": {
         "id": "6a1610bebdf296985fd95603-64f101b1c4b308f2fe3e7c0c",
         "slug": "beyond-belief-2",
@@ -5189,6 +5215,19 @@
         ],
         "region": "us"
       },
+      "63506e7747b2355a27e76e7f": {
+        "id": "6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f",
+        "slug": "pbs-nature",
+        "gridKey": "63506e7747b2355a27e76e7f",
+        "name": "PBS Nature",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
       "66a294d3e1a2934adfe851f5": {
         "id": "6a1610bebdf296985fd95603-66a294d3e1a2934adfe851f5",
         "slug": "ghosts-are-real",
@@ -5210,6 +5249,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f3a8ee4c-6123-4f42-97fe-a07e0b38acad/Space_Beyond_Logo_Dark_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-69d93c22a5c870fb1e88f871.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "65622eddb7d737841f30a4fd": {
+        "id": "6a1610bebdf296985fd95603-65622eddb7d737841f30a4fd",
+        "slug": "bbc-travel",
+        "gridKey": "65622eddb7d737841f30a4fd",
+        "name": "BBC Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-65622eddb7d737841f30a4fd.m3u8",
         "genres": [
           "Explore"
         ],
@@ -5345,6 +5397,19 @@
         ],
         "region": "us"
       },
+      "63d6f799a9e88ee909e7ee21": {
+        "id": "6a1610bebdf296985fd95603-63d6f799a9e88ee909e7ee21",
+        "slug": "alien-nation-by-dust-2",
+        "gridKey": "63d6f799a9e88ee909e7ee21",
+        "name": "Alien Nation by DUST",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63d6f799a9e88ee909e7ee21.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
       "64d2c6acb18b113e0c61012a": {
         "id": "6a1610bebdf296985fd95603-64d2c6acb18b113e0c61012a",
         "slug": "beyond-paranormal",
@@ -5436,14 +5501,53 @@
         ],
         "region": "us"
       },
-      "63d6f799a9e88ee909e7ee21": {
-        "id": "6a1610bebdf296985fd95603-63d6f799a9e88ee909e7ee21",
-        "slug": "alien-nation-by-dust-2",
-        "gridKey": "63d6f799a9e88ee909e7ee21",
-        "name": "Alien Nation by DUST",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7d5598a6-e100-4fab-979a-cbf775aa8aa7/Alien-Nation_logo_blue_1500x1000.png",
+      "60d324f59adce5002c41dbc5": {
+        "id": "6a1610bebdf296985fd95603-60d324f59adce5002c41dbc5",
+        "slug": "stingray-naturescape",
+        "gridKey": "60d324f59adce5002c41dbc5",
+        "name": "Stingray Naturescape",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png",
+        "callSign": "NESCAPP",
+        "key": "/library/parts/6a1610bebdf296985fd95603-60d324f59adce5002c41dbc5.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "66a2818ce1a2934adfe851e5": {
+        "id": "6a1610bebdf296985fd95603-66a2818ce1a2934adfe851e5",
+        "slug": "paws-and-claws",
+        "gridKey": "66a2818ce1a2934adfe851e5",
+        "name": "Paws & Claws",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a5761270-da5c-4076-b49a-3f09876c7c7d/Paws_Claws_Logo_Dark_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63d6f799a9e88ee909e7ee21.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-66a2818ce1a2934adfe851e5.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "63fe7d7eb6312779f56504d3": {
+        "id": "6a1610bebdf296985fd95603-63fe7d7eb6312779f56504d3",
+        "slug": "love-pets",
+        "gridKey": "63fe7d7eb6312779f56504d3",
+        "name": "Love Pets",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2cdf51b9-c535-4795-836d-ec1e97b124e9/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63fe7d7eb6312779f56504d3.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "5f170d61b898490041b49369": {
+        "id": "6a1610bebdf296985fd95603-5f170d61b898490041b49369",
+        "slug": "the-pet-collective-2",
+        "gridKey": "5f170d61b898490041b49369",
+        "name": "The Pet Collective",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/29129b53-2f46-425d-ac3f-3a76dc2d147f/TPC_PLEX_CHANNEL-LOGOS_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-5f170d61b898490041b49369.m3u8",
         "genres": [
           "Explore"
         ],
@@ -5475,32 +5579,6 @@
         ],
         "region": "us"
       },
-      "6414a73254c537d12d8073d7": {
-        "id": "6a1610bebdf296985fd95603-6414a73254c537d12d8073d7",
-        "slug": "bbc-earth",
-        "gridKey": "6414a73254c537d12d8073d7",
-        "name": "BBC Earth",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0694fd21-4459-41d9-b49d-cef804553424/PLEX_BBCEarth_Logo_Light_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6414a73254c537d12d8073d7.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "63506e7747b2355a27e76e7f": {
-        "id": "6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f",
-        "slug": "pbs-nature",
-        "gridKey": "63506e7747b2355a27e76e7f",
-        "name": "PBS Nature",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
       "60d4edddb2fdec002c141135": {
         "id": "6a1610bebdf296985fd95603-60d4edddb2fdec002c141135",
         "slug": "wildearth",
@@ -5509,19 +5587,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60d4edddb2fdec002c141135.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "65622eddb7d737841f30a4fd": {
-        "id": "6a1610bebdf296985fd95603-65622eddb7d737841f30a4fd",
-        "slug": "bbc-travel",
-        "gridKey": "65622eddb7d737841f30a4fd",
-        "name": "BBC Travel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/66897ead-8625-455a-aaa9-2962f7c26315/BBC_TRAVEL_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65622eddb7d737841f30a4fd.m3u8",
         "genres": [
           "Explore"
         ],
@@ -5631,45 +5696,6 @@
         ],
         "region": "us"
       },
-      "63fe7d7eb6312779f56504d3": {
-        "id": "6a1610bebdf296985fd95603-63fe7d7eb6312779f56504d3",
-        "slug": "love-pets",
-        "gridKey": "63fe7d7eb6312779f56504d3",
-        "name": "Love Pets",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2cdf51b9-c535-4795-836d-ec1e97b124e9/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63fe7d7eb6312779f56504d3.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "5f170d61b898490041b49369": {
-        "id": "6a1610bebdf296985fd95603-5f170d61b898490041b49369",
-        "slug": "the-pet-collective-2",
-        "gridKey": "5f170d61b898490041b49369",
-        "name": "The Pet Collective",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/29129b53-2f46-425d-ac3f-3a76dc2d147f/TPC_PLEX_CHANNEL-LOGOS_WHITE.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-5f170d61b898490041b49369.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "66a2818ce1a2934adfe851e5": {
-        "id": "6a1610bebdf296985fd95603-66a2818ce1a2934adfe851e5",
-        "slug": "paws-and-claws",
-        "gridKey": "66a2818ce1a2934adfe851e5",
-        "name": "Paws & Claws",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a5761270-da5c-4076-b49a-3f09876c7c7d/Paws_Claws_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66a2818ce1a2934adfe851e5.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
       "60a53634126de9002e694bc2": {
         "id": "6a1610bebdf296985fd95603-60a53634126de9002e694bc2",
         "slug": "gotraveler",
@@ -5756,19 +5782,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-654eb862dde2222e8ba551f1.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "us"
-      },
-      "60d324f59adce5002c41dbc5": {
-        "id": "6a1610bebdf296985fd95603-60d324f59adce5002c41dbc5",
-        "slug": "stingray-naturescape",
-        "gridKey": "60d324f59adce5002c41dbc5",
-        "name": "Stingray Naturescape",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c01ebda0-1d80-4935-ad6a-a5d3c3ef108e/Stingray-Naturescape_Logo_Lightrdx.png",
-        "callSign": "NESCAPP",
-        "key": "/library/parts/6a1610bebdf296985fd95603-60d324f59adce5002c41dbc5.m3u8",
         "genres": [
           "Explore"
         ],
@@ -6554,6 +6567,19 @@
         ],
         "region": "us"
       },
+      "69a1f84e8d9f2822f6f50639": {
+        "id": "6a1610bebdf296985fd95603-69a1f84e8d9f2822f6f50639",
+        "slug": "beyblade-4",
+        "gridKey": "69a1f84e8d9f2822f6f50639",
+        "name": "Beyblade",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69a1f84e8d9f2822f6f50639.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "us"
+      },
       "65fb337f00433c8a0799ce98": {
         "id": "6a1610bebdf296985fd95603-65fb337f00433c8a0799ce98",
         "slug": "pbs-retro",
@@ -7334,19 +7360,6 @@
         ],
         "region": "us"
       },
-      "67367a2d9564224797d5b59c": {
-        "id": "6a1610bebdf296985fd95603-67367a2d9564224797d5b59c",
-        "slug": "butaca-tv-2",
-        "gridKey": "67367a2d9564224797d5b59c",
-        "name": "Butaca TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ebdc98b6-adde-4e50-b1e9-ab7b3bfecd23/Butaca_Tv_pack_1500X1000_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-67367a2d9564224797d5b59c.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "688cf47e324d7b6bc116198d": {
         "id": "6a1610bebdf296985fd95603-688cf47e324d7b6bc116198d",
         "slug": "teleonce-america",
@@ -7459,19 +7472,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f6a0825c-3f05-421a-a733-f5eb53c37f2a/Plex_FilmRise_MisteriosSinResolver_White_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-64d79408e5f67b0fab47ff24.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "64f0db77c2bc9b9001d46eaa": {
-        "id": "6a1610bebdf296985fd95603-64f0db77c2bc9b9001d46eaa",
-        "slug": "oro-tv",
-        "gridKey": "64f0db77c2bc9b9001d46eaa",
-        "name": "Oro TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64f0db77c2bc9b9001d46eaa.m3u8",
         "genres": [
           "En Español"
         ],
@@ -7815,19 +7815,6 @@
         ],
         "region": "us"
       },
-      "64f0d9a7c2bc9b9001d46ea6": {
-        "id": "6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6",
-        "slug": "saborear-tv",
-        "gridKey": "64f0d9a7c2bc9b9001d46ea6",
-        "name": "Saborear TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d9a7c2bc9b9001d46ea6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "65f0de01046e6131ecc31845": {
         "id": "6a1610bebdf296985fd95603-65f0de01046e6131ecc31845",
         "slug": "un-tv",
@@ -8049,6 +8036,19 @@
         ],
         "region": "us"
       },
+      "63dea56a2a2abb171ff6dadf": {
+        "id": "6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf",
+        "slug": "anime-x-hidive-2",
+        "gridKey": "63dea56a2a2abb171ff6dadf",
+        "name": "ANIME x HIDIVE",
+        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png",
+        "callSign": "ANIMEH",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
       "60d4eddab2fdec002c141131": {
         "id": "6a1610bebdf296985fd95603-60d4eddab2fdec002c141131",
         "slug": "new-k-movies",
@@ -8192,19 +8192,6 @@
         ],
         "region": "us"
       },
-      "63dea56a2a2abb171ff6dadf": {
-        "id": "6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf",
-        "slug": "anime-x-hidive-2",
-        "gridKey": "63dea56a2a2abb171ff6dadf",
-        "name": "ANIME x HIDIVE",
-        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png",
-        "callSign": "ANIMEH",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
       "5ef4e1b40d9ad000423c442a": {
         "id": "6a1610bebdf296985fd95603-5ef4e1b40d9ad000423c442a",
         "slug": "retrocrush",
@@ -8226,19 +8213,6 @@
         "logo": "https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e3211438a281fb1c80af066e3e2f9355.png",
         "callSign": "YUGIOH",
         "key": "/library/parts/6a1610bebdf296985fd95603-6617f52f0049fcb8e2b0d5b8.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
-      "69a1f84e8d9f2822f6f50639": {
-        "id": "6a1610bebdf296985fd95603-69a1f84e8d9f2822f6f50639",
-        "slug": "beyblade-4",
-        "gridKey": "69a1f84e8d9f2822f6f50639",
-        "name": "Beyblade",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69a1f84e8d9f2822f6f50639.m3u8",
         "genres": [
           "Global"
         ],
@@ -13680,6 +13654,19 @@
         ],
         "region": "ca"
       },
+      "69a1f84e8d9f2822f6f50639": {
+        "id": "647f8d22a2fc3fadb4721685-69a1f84e8d9f2822f6f50639",
+        "slug": "beyblade-4",
+        "gridKey": "69a1f84e8d9f2822f6f50639",
+        "name": "Beyblade",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-69a1f84e8d9f2822f6f50639.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "ca"
+      },
       "67182cd9d321899c5dc8a00c": {
         "id": "647f8d22a2fc3fadb4721685-67182cd9d321899c5dc8a00c",
         "slug": "my-little-pony",
@@ -14260,19 +14247,6 @@
         "logo": "https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e3211438a281fb1c80af066e3e2f9355.png",
         "callSign": "YUGIOH",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6617f52f0049fcb8e2b0d5b8.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "ca"
-      },
-      "69a1f84e8d9f2822f6f50639": {
-        "id": "647f8d22a2fc3fadb4721685-69a1f84e8d9f2822f6f50639",
-        "slug": "beyblade-4",
-        "gridKey": "69a1f84e8d9f2822f6f50639",
-        "name": "Beyblade",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69a1f84e8d9f2822f6f50639.m3u8",
         "genres": [
           "Global"
         ],
@@ -22680,6 +22654,19 @@
         ],
         "region": "au"
       },
+      "69a1f84e8d9f2822f6f50639": {
+        "id": "697140a85d851f5e69414688-69a1f84e8d9f2822f6f50639",
+        "slug": "beyblade-4",
+        "gridKey": "69a1f84e8d9f2822f6f50639",
+        "name": "Beyblade",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-69a1f84e8d9f2822f6f50639.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "au"
+      },
       "62ba4aaff663580a7238f327": {
         "id": "697140a85d851f5e69414688-62ba4aaff663580a7238f327",
         "slug": "sonic-tv",
@@ -23117,19 +23104,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6615522e50e81fa51eb0df60.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "au"
-      },
-      "69a1f84e8d9f2822f6f50639": {
-        "id": "697140a85d851f5e69414688-69a1f84e8d9f2822f6f50639",
-        "slug": "beyblade-4",
-        "gridKey": "69a1f84e8d9f2822f6f50639",
-        "name": "Beyblade",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69a1f84e8d9f2822f6f50639.m3u8",
         "genres": [
           "Global"
         ],
@@ -26335,6 +26309,19 @@
         ],
         "region": "nz"
       },
+      "69a1f84e8d9f2822f6f50639": {
+        "id": "5e20b730f2f8d5003d739db7-69a1f84e8d9f2822f6f50639",
+        "slug": "beyblade-4",
+        "gridKey": "69a1f84e8d9f2822f6f50639",
+        "name": "Beyblade",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a1f84e8d9f2822f6f50639.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "nz"
+      },
       "62ba4aaff663580a7238f327": {
         "id": "5e20b730f2f8d5003d739db7-62ba4aaff663580a7238f327",
         "slug": "sonic-tv",
@@ -26720,19 +26707,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "nz"
-      },
-      "69a1f84e8d9f2822f6f50639": {
-        "id": "5e20b730f2f8d5003d739db7-69a1f84e8d9f2822f6f50639",
-        "slug": "beyblade-4",
-        "gridKey": "69a1f84e8d9f2822f6f50639",
-        "name": "Beyblade",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41698267-3ad1-44b3-935c-def90028303a/Beyblade_Logo_1500x1000_LightAndDark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a1f84e8d9f2822f6f50639.m3u8",
         "genres": [
           "Global"
         ],
@@ -30107,19 +30081,6 @@
         ],
         "region": "mx"
       },
-      "64f0db77c2bc9b9001d46eaa": {
-        "id": "608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa",
-        "slug": "oro-tv",
-        "gridKey": "64f0db77c2bc9b9001d46eaa",
-        "name": "Oro TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-64f0db77c2bc9b9001d46eaa.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
       "64a355697d24564fba37bab8": {
         "id": "608049aefa2b8ae93c2c3a63-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -30297,19 +30258,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/d468b64b-c6a3-427f-a5c0-331bb6478407/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-666e15a3ce73ed6023b55a0f.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
-      "64f0d9a7c2bc9b9001d46ea6": {
-        "id": "608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6",
-        "slug": "saborear-tv",
-        "gridKey": "64f0d9a7c2bc9b9001d46ea6",
-        "name": "Saborear TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-64f0d9a7c2bc9b9001d46ea6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -33762,19 +33710,6 @@
         ],
         "region": "es"
       },
-      "64f0db77c2bc9b9001d46eaa": {
-        "id": "643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa",
-        "slug": "oro-tv",
-        "gridKey": "64f0db77c2bc9b9001d46eaa",
-        "name": "Oro TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ecf0c463-9ff8-4d9d-b756-0e9913c8ed60/Oro_TV_1500x1000-_For_dark_backgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-64f0db77c2bc9b9001d46eaa.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "es"
-      },
       "63f0ca427b78030ed9990309": {
         "id": "643054b1fc3be59477853717-63f0ca427b78030ed9990309",
         "slug": "combatv",
@@ -33874,19 +33809,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "es"
-      },
-      "64f0d9a7c2bc9b9001d46ea6": {
-        "id": "643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6",
-        "slug": "saborear-tv",
-        "gridKey": "64f0d9a7c2bc9b9001d46ea6",
-        "name": "Saborear TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3b0e8cad-4177-4427-90c2-dad12ed8e5c5/Saboreartv_1500x1000-_For_light_backgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-64f0d9a7c2bc9b9001d46ea6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -34453,6 +34375,19 @@
         ],
         "region": "fr"
       },
+      "68e03beea4f2aa9b08ed5281": {
+        "id": "6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281",
+        "slug": "les-filles-da-cotes-tv",
+        "gridKey": "68e03beea4f2aa9b08ed5281",
+        "name": "Les filles d’à côtés TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8bb7c0f6-b0d3-447f-afaa-0afe20691452/Logo_suitable_for_dark_backgrounds_Les-Filles-d_a-cote.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "fr"
+      },
       "63ac5e95c7cce47c86164bca": {
         "id": "6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca",
         "slug": "motus-la-chaine",
@@ -34479,19 +34414,6 @@
         ],
         "region": "fr"
       },
-      "6490e6ae18a55242eea95997": {
-        "id": "6430aa45fc3be5947780904e-6490e6ae18a55242eea95997",
-        "slug": "frequence-novelas",
-        "gridKey": "6490e6ae18a55242eea95997",
-        "name": "Fréquence Novelas",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-6490e6ae18a55242eea95997.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "fr"
-      },
       "68e03d842cbc7a5d3189394a": {
         "id": "6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a",
         "slug": "generation-sitcoms-tv",
@@ -34505,14 +34427,14 @@
         ],
         "region": "fr"
       },
-      "6490e06718a55242eea9598f": {
-        "id": "6430aa45fc3be5947780904e-6490e06718a55242eea9598f",
-        "slug": "emotion-l-2",
-        "gridKey": "6490e06718a55242eea9598f",
-        "name": "Emotion' L",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/699cff89-9106-4de6-b340-3852cc1ec444/EMOTION_L_-_Logo_1500x1000.png",
+      "6490e6ae18a55242eea95997": {
+        "id": "6430aa45fc3be5947780904e-6490e6ae18a55242eea95997",
+        "slug": "frequence-novelas",
+        "gridKey": "6490e6ae18a55242eea95997",
+        "name": "Fréquence Novelas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f61db6fd-8b5e-41c9-bbcb-0135d9d9635d/FREQUENCE_NOVELAS_-_Logo_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6490e6ae18a55242eea95997.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -34526,6 +34448,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b9c9fbf-b52f-4a69-8a94-c73329507bcd/TopSciFi_Logo_1500x1000_White.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "fr"
+      },
+      "68e03cb418c739b4d91a6a59": {
+        "id": "6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59",
+        "slug": "alerte-a-malibu-tv",
+        "gridKey": "68e03cb418c739b4d91a6a59",
+        "name": "Alerte à Malibu TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "fr"
+      },
+      "6490e06718a55242eea9598f": {
+        "id": "6430aa45fc3be5947780904e-6490e06718a55242eea9598f",
+        "slug": "emotion-l-2",
+        "gridKey": "6490e06718a55242eea9598f",
+        "name": "Emotion' L",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/699cff89-9106-4de6-b340-3852cc1ec444/EMOTION_L_-_Logo_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6490e06718a55242eea9598f.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -34557,19 +34505,6 @@
         ],
         "region": "fr"
       },
-      "68e03cb418c739b4d91a6a59": {
-        "id": "6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59",
-        "slug": "alerte-a-malibu-tv",
-        "gridKey": "68e03cb418c739b4d91a6a59",
-        "name": "Alerte à Malibu TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "fr"
-      },
       "65e9d0ad8fe4ef7053c3c870": {
         "id": "6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870",
         "slug": "filmrise-serie-populaire",
@@ -34578,19 +34513,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cc0951e8-548c-48ef-afcd-82d7eca657c0/Plex_FilmRise_S__ries_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-65e9d0ad8fe4ef7053c3c870.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "fr"
-      },
-      "68e03beea4f2aa9b08ed5281": {
-        "id": "6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281",
-        "slug": "les-filles-da-cotes-tv",
-        "gridKey": "68e03beea4f2aa9b08ed5281",
-        "name": "Les filles d’à côtés TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8bb7c0f6-b0d3-447f-afaa-0afe20691452/Logo_suitable_for_dark_backgrounds_Les-Filles-d_a-cote.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -34799,6 +34721,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/82ee42cc-ff1b-4faa-97df-d99ff9b9b7e2/INTOCRIMELRED_WHITE_TEXTRDX.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-67db068f92cb453db28ab017.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "fr"
+      },
+      "6a285269915c7c0d3211be8b": {
+        "id": "6430aa45fc3be5947780904e-6a285269915c7c0d3211be8b",
+        "slug": "adrenaline-spica-life",
+        "gridKey": "6a285269915c7c0d3211be8b",
+        "name": "ADRENALINE SPICA LIFE",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8fb17498-49c7-4b4b-9149-dd92d51a8516/Adrenaline_logo_1500x1000_all_white_for_attribution.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a285269915c7c0d3211be8b.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -36203,6 +36138,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b65d39bb-f29d-4045-8571-401b0c1862a9/Logo_Voyages_Saveurs_1500x1000_DarkBackground_-_David_Mar__n.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-671ff50c922f0674c9398afb.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "fr"
+      },
+      "6a2325c47928efd63cf15995": {
+        "id": "6430aa45fc3be5947780904e-6a2325c47928efd63cf15995",
+        "slug": "jds-tv",
+        "gridKey": "6a2325c47928efd63cf15995",
+        "name": "JDS.TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/581aae0f-37f6-43c7-94f0-1540d904b45b/1500_x_1000_PNG_w_transparent_backgroundRDX_white_green_.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a2325c47928efd63cf15995.m3u8",
         "genres": [
           "Explore"
         ],
