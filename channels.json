@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T15:26:29.411069+00:00",
+  "generated": "2026-06-29T19:31:59.098062+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1848,32 +1848,6 @@
         ],
         "region": "us"
       },
-      "695d6d7908f2e5ca97bc2a1d": {
-        "id": "6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d",
-        "slug": "victory",
-        "gridKey": "695d6d7908f2e5ca97bc2a1d",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e0643c5a-eb0b-4aee-b23f-12a143fc6da1/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
-      "69c2a33b77977728f4e71cbd": {
-        "id": "6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd",
-        "slug": "slvr-sports-and-entertainment-slvr-socal",
-        "gridKey": "69c2a33b77977728f4e71cbd",
-        "name": "SLVR Sports and Entertainment (SLVR SOCAL)",
-        "logo": "https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b40335b6132c9953c62b689e0a11a25c.png",
-        "callSign": "SLVRSC",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "66b2a9acc0ebb601ab4b1e73": {
         "id": "6a1610bebdf296985fd95603-66b2a9acc0ebb601ab4b1e73",
         "slug": "the-jim-rome-show",
@@ -1900,6 +1874,19 @@
         ],
         "region": "us"
       },
+      "65944d40cbc51b25e5070a18": {
+        "id": "6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18",
+        "slug": "tennis-channel-2",
+        "gridKey": "65944d40cbc51b25e5070a18",
+        "name": "Tennis Channel 2",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
       "5f6b8e7900b0950040d0f2b2": {
         "id": "6a1610bebdf296985fd95603-5f6b8e7900b0950040d0f2b2",
         "slug": "the-world-poker-tour",
@@ -1908,6 +1895,45 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
+      "6571186d9a46917c0a8f2ddd": {
+        "id": "6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd",
+        "slug": "cbs-sports-golazo-network-2",
+        "gridKey": "6571186d9a46917c0a8f2ddd",
+        "name": "CBS Sports Golazo Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/22f0bb47-b71f-4d58-baf8-c8edaf4ef800/Golazo_colorRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
+      "695d6d7908f2e5ca97bc2a1d": {
+        "id": "6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d",
+        "slug": "victory",
+        "gridKey": "695d6d7908f2e5ca97bc2a1d",
+        "name": "Victory+",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e0643c5a-eb0b-4aee-b23f-12a143fc6da1/Victory_plus_WHT.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
+      "69c2a33b77977728f4e71cbd": {
+        "id": "6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd",
+        "slug": "slvr-sports-and-entertainment-slvr-socal",
+        "gridKey": "69c2a33b77977728f4e71cbd",
+        "name": "SLVR Sports and Entertainment (SLVR SOCAL)",
+        "logo": "https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b40335b6132c9953c62b689e0a11a25c.png",
+        "callSign": "SLVRSC",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd.m3u8",
         "genres": [
           "Sports"
         ],
@@ -1934,19 +1960,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6334a8e48a7b2a349d903b8c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
-      "65944d40cbc51b25e5070a18": {
-        "id": "6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18",
-        "slug": "tennis-channel-2",
-        "gridKey": "65944d40cbc51b25e5070a18",
-        "name": "Tennis Channel 2",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a4713cf8-8897-41c2-bab4-132f733d3f5f/TC2_Logo_Plex_1500X1000_LightRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65944d40cbc51b25e5070a18.m3u8",
         "genres": [
           "Sports"
         ],
@@ -2259,19 +2272,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-608a2c722957c9002c6a617b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
-      "6571186d9a46917c0a8f2ddd": {
-        "id": "6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd",
-        "slug": "cbs-sports-golazo-network-2",
-        "gridKey": "6571186d9a46917c0a8f2ddd",
-        "name": "CBS Sports Golazo Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/22f0bb47-b71f-4d58-baf8-c8edaf4ef800/Golazo_colorRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd.m3u8",
         "genres": [
           "Sports"
         ],
