@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T19:31:59.098062+00:00",
+  "generated": "2026-07-06T01:54:47.545148+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -2511,19 +2511,6 @@
         ],
         "region": "us"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "6a1610bebdf296985fd95603-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "6227c215c9f485cc7afe8c41": {
         "id": "6a1610bebdf296985fd95603-6227c215c9f485cc7afe8c41",
         "slug": "surfer-tv",
@@ -4898,19 +4885,6 @@
         "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png",
         "callSign": "365BLKF",
         "key": "/library/parts/6a1610bebdf296985fd95603-6745dca72832b870acf53220.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "6a1610bebdf296985fd95603-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -7360,6 +7334,19 @@
         ],
         "region": "us"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "6a1610bebdf296985fd95603-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
       "688cf47e324d7b6bc116198d": {
         "id": "6a1610bebdf296985fd95603-688cf47e324d7b6bc116198d",
         "slug": "teleonce-america",
@@ -8153,6 +8140,19 @@
         ],
         "region": "us"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "6a1610bebdf296985fd95603-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
       "65621947b7d737841f30a4f7": {
         "id": "6a1610bebdf296985fd95603-65621947b7d737841f30a4f7",
         "slug": "tvb-pearl-drama",
@@ -8785,6 +8785,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/d6fba6a2-2650-487f-ab1b-1eb034bd11c7/trace_urban_light_-_Nathan_BECKER.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6322658be67cf9cd9011fcda.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "us"
+      },
+      "5fc705e47c6557002ee1e769": {
+        "id": "6a1610bebdf296985fd95603-5fc705e47c6557002ee1e769",
+        "slug": "tarima-tv",
+        "gridKey": "5fc705e47c6557002ee1e769",
+        "name": "Tarima TV",
+        "logo": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d62015bd6ac8210dd3c09b87410367fd.png",
+        "callSign": "TARIMA",
+        "key": "/library/parts/6a1610bebdf296985fd95603-5fc705e47c6557002ee1e769.m3u8",
         "genres": [
           "Music"
         ],
@@ -10807,19 +10820,6 @@
         ],
         "region": "ca"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "647f8d22a2fc3fadb4721685-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "ca"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "647f8d22a2fc3fadb4721685-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -12323,19 +12323,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "ca"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "647f8d22a2fc3fadb4721685-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -14109,6 +14096,19 @@
         ],
         "region": "ca"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "647f8d22a2fc3fadb4721685-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "ca"
+      },
       "65d90ec99c7a6da8c3ce57eb": {
         "id": "647f8d22a2fc3fadb4721685-65d90ec99c7a6da8c3ce57eb",
         "slug": "movieitaly-channel",
@@ -14988,6 +14988,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/04b0a12e-b393-4456-9927-a48b793b623a/trace_latina_light_-_Nathan_BECKER.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-63226c03e67cf9cd9011fcdf.m3u8",
+        "genres": [
+          "Music"
+        ],
+        "region": "ca"
+      },
+      "5fc705e47c6557002ee1e769": {
+        "id": "647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769",
+        "slug": "tarima-tv",
+        "gridKey": "5fc705e47c6557002ee1e769",
+        "name": "Tarima TV",
+        "logo": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/d62015bd6ac8210dd3c09b87410367fd.png",
+        "callSign": "TARIMA",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-5fc705e47c6557002ee1e769.m3u8",
         "genres": [
           "Music"
         ],
@@ -16373,19 +16386,6 @@
         ],
         "region": "gb"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "64305451fc3be5947773c339-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "gb"
-      },
       "68caada21fabab6eb2e99331": {
         "id": "64305451fc3be5947773c339-68caada21fabab6eb2e99331",
         "slug": "bassmaster",
@@ -17525,19 +17525,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "gb"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "64305451fc3be5947773c339-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -19181,6 +19168,19 @@
         ],
         "region": "gb"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "64305451fc3be5947773c339-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "gb"
+      },
       "674f6a6cf44561420465f9f3": {
         "id": "64305451fc3be5947773c339-674f6a6cf44561420465f9f3",
         "slug": "animation",
@@ -20704,19 +20704,6 @@
         ],
         "region": "au"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "697140a85d851f5e69414688-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "au"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "697140a85d851f5e69414688-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -21609,19 +21596,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "au"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "697140a85d851f5e69414688-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -23044,6 +23018,19 @@
         ],
         "region": "au"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "697140a85d851f5e69414688-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "au"
+      },
       "65d90ec99c7a6da8c3ce57eb": {
         "id": "697140a85d851f5e69414688-65d90ec99c7a6da8c3ce57eb",
         "slug": "movieitaly-channel",
@@ -24398,19 +24385,6 @@
         ],
         "region": "nz"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -25303,19 +25277,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "nz"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -26712,6 +26673,19 @@
         ],
         "region": "nz"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "nz"
+      },
       "674f6a6cf44561420465f9f3": {
         "id": "5e20b730f2f8d5003d739db7-674f6a6cf44561420465f9f3",
         "slug": "animation",
@@ -28040,19 +28014,6 @@
         ],
         "region": "mx"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "608049aefa2b8ae93c2c3a63-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "mx"
-      },
       "63ec0b739866d8d2120ac759": {
         "id": "608049aefa2b8ae93c2c3a63-63ec0b739866d8d2120ac759",
         "slug": "pickletv",
@@ -28854,19 +28815,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "mx"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "608049aefa2b8ae93c2c3a63-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -30310,6 +30258,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-65d90ec99c7a6da8c3ce57eb.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "mx"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "608049aefa2b8ae93c2c3a63-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
@@ -32020,19 +31981,6 @@
         ],
         "region": "es"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "es"
-      },
       "652875586425fdb1f32d2169": {
         "id": "643054b1fc3be59477853717-652875586425fdb1f32d2169",
         "slug": "world-surf-league-24-7",
@@ -32652,19 +32600,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "es"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "643054b1fc3be59477853717-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -33837,6 +33772,19 @@
         "key": "/library/parts/643054b1fc3be59477853717-69d6d88b1790acff6189dea5.m3u8",
         "genres": [
           "En Español"
+        ],
+        "region": "es"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "643054b1fc3be59477853717-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
         ],
         "region": "es"
       },
@@ -35532,19 +35480,6 @@
         ],
         "region": "fr"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "6430aa45fc3be5947780904e-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fr"
-      },
       "652875586425fdb1f32d2169": {
         "id": "6430aa45fc3be5947780904e-652875586425fdb1f32d2169",
         "slug": "world-surf-league-24-7",
@@ -36034,19 +35969,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "fr"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "6430aa45fc3be5947780904e-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -37035,6 +36957,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e3d4d89-3050-4928-a125-85710fcd1762/Wasabi_Logo_1500x1000_LightAndDark.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-69a1fa1a0f8d297b3f6ac0ea.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "fr"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "6430aa45fc3be5947780904e-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
@@ -38706,19 +38641,6 @@
         ],
         "region": "de"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "635177ecff6cd5445d7f9b0b-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "68dcb71467386a41d59918dd": {
         "id": "635177ecff6cd5445d7f9b0b-68dcb71467386a41d59918dd",
         "slug": "fluss-monster",
@@ -39221,19 +39143,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "de"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "635177ecff6cd5445d7f9b0b-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -40339,6 +40248,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/4d7c5e34-9335-479e-8d6a-e7a80565e45b/Asian_Drama_whtLogo.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-685f27cca7111a932d28f1ae.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "de"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "635177ecff6cd5445d7f9b0b-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
@@ -41750,19 +41672,6 @@
         ],
         "region": "br"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "646546f35db8ada4c8edd7e5-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "br"
-      },
       "64ac687b4192b4e1bab96279": {
         "id": "646546f35db8ada4c8edd7e5-64ac687b4192b4e1bab96279",
         "slug": "pokergo",
@@ -42473,19 +42382,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "br"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -43817,6 +43713,19 @@
         ],
         "region": "br"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "br"
+      },
       "65d90ec99c7a6da8c3ce57eb": {
         "id": "646546f35db8ada4c8edd7e5-65d90ec99c7a6da8c3ce57eb",
         "slug": "movieitaly-channel",
@@ -44872,19 +44781,6 @@
         ],
         "region": "in"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "698f7631338300003d436270-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "in"
-      },
       "6970fdabbde579fb71262401": {
         "id": "698f7631338300003d436270-6970fdabbde579fb71262401",
         "slug": "bowling-tv",
@@ -45400,19 +45296,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "in"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "698f7631338300003d436270-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -46419,6 +46302,19 @@
         ],
         "region": "in"
       },
+      "69bb1f002028859eafc637e1": {
+        "id": "698f7631338300003d436270-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "in"
+      },
       "674f6a6cf44561420465f9f3": {
         "id": "698f7631338300003d436270-674f6a6cf44561420465f9f3",
         "slug": "animation",
@@ -47396,19 +47292,6 @@
         ],
         "region": "jp"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
       "6970fdabbde579fb71262401": {
         "id": "5e20b730f2f8d5003d739db7-6970fdabbde579fb71262401",
         "slug": "bowling-tv",
@@ -47885,19 +47768,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "jp"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -48769,6 +48639,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "jp"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
@@ -50232,19 +50115,6 @@
         ],
         "region": "kr"
       },
-      "69bb1f002028859eafc637e1": {
-        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "kr"
-      },
       "6582a1316b91be4547aa153c": {
         "id": "5e20b730f2f8d5003d739db7-6582a1316b91be4547aa153c",
         "slug": "hot-ones-2",
@@ -51098,6 +50968,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "kr"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
@@ -52314,19 +52197,6 @@
         ],
         "region": "se"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -53102,19 +52972,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "se"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -54285,6 +54142,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "se"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
@@ -55462,19 +55332,6 @@
         ],
         "region": "nl"
       },
-      "682dff1fdfc9c452b8f9842a": {
-        "id": "5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a",
-        "slug": "k-baseball-tv",
-        "gridKey": "682dff1fdfc9c452b8f9842a",
-        "name": "K-Baseball TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/023b2ee3-edc6-4096-a15d-7455ac06203d/K-Baseball_TV_logo_dark_-_Jason_Hwang.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-682dff1fdfc9c452b8f9842a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "5e20b730f2f8d5003d739db7-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -56107,19 +55964,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67d9a3d663c5439aeaf61305.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "nl"
-      },
-      "69bb1f002028859eafc637e1": {
-        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
-        "slug": "legacy",
-        "gridKey": "69bb1f002028859eafc637e1",
-        "name": "Legacy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -57251,6 +57095,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60e737a4ebef9d002c4d0a0c.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "nl"
+      },
+      "69bb1f002028859eafc637e1": {
+        "id": "5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1",
+        "slug": "legacy",
+        "gridKey": "69bb1f002028859eafc637e1",
+        "name": "Legacy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69bb1f002028859eafc637e1.m3u8",
         "genres": [
           "Global"
         ],
