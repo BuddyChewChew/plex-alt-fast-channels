@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T01:54:47.545148+00:00",
+  "generated": "2026-07-06T07:19:08.462358+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -13862,6 +13862,19 @@
         ],
         "region": "ca"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "647f8d22a2fc3fadb4721685-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "ca"
+      },
       "67a1a8ef2358ef4dd5c3018e": {
         "id": "647f8d22a2fc3fadb4721685-67a1a8ef2358ef4dd5c3018e",
         "slug": "lucha-plus",
@@ -19025,6 +19038,19 @@
         ],
         "region": "gb"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "64305451fc3be5947773c339-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "gb"
+      },
       "63f0ca427b78030ed9990309": {
         "id": "64305451fc3be5947773c339-63f0ca427b78030ed9990309",
         "slug": "combatv",
@@ -22875,6 +22901,19 @@
         ],
         "region": "au"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "697140a85d851f5e69414688-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "au"
+      },
       "656fa24bdbcce28c3a417415": {
         "id": "697140a85d851f5e69414688-656fa24bdbcce28c3a417415",
         "slug": "the-world-poker-tour-3",
@@ -26512,6 +26551,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "nz"
+      },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a.m3u8",
         "genres": [
           "En Español"
         ],
@@ -30211,6 +30263,19 @@
         ],
         "region": "mx"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "608049aefa2b8ae93c2c3a63-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "mx"
+      },
       "6018913ea15130002b284191": {
         "id": "608049aefa2b8ae93c2c3a63-6018913ea15130002b284191",
         "slug": "freetv-hits",
@@ -33762,6 +33827,19 @@
         ],
         "region": "es"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "es"
+      },
       "69d6d88b1790acff6189dea5": {
         "id": "643054b1fc3be59477853717-69d6d88b1790acff6189dea5",
         "slug": "addictatv",
@@ -36803,6 +36881,19 @@
         "key": "/library/parts/6430aa45fc3be5947780904e-69a529f77c245b3390e8a4de.m3u8",
         "genres": [
           "Kids & Family"
+        ],
+        "region": "fr"
+      },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "6430aa45fc3be5947780904e-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
         ],
         "region": "fr"
       },
@@ -40016,6 +40107,19 @@
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-69a529f77c245b3390e8a4de.m3u8",
         "genres": [
           "Kids & Family"
+        ],
+        "region": "de"
+      },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "635177ecff6cd5445d7f9b0b-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
         ],
         "region": "de"
       },
@@ -43427,6 +43531,19 @@
         ],
         "region": "br"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "646546f35db8ada4c8edd7e5-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "br"
+      },
       "688cf47e324d7b6bc116198d": {
         "id": "646546f35db8ada4c8edd7e5-688cf47e324d7b6bc116198d",
         "slug": "teleonce-america",
@@ -46120,6 +46237,19 @@
         ],
         "region": "in"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "698f7631338300003d436270-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "in"
+      },
       "67db3546d66f778a752f7eaa": {
         "id": "698f7631338300003d436270-67db3546d66f778a752f7eaa",
         "slug": "pelimex",
@@ -48501,6 +48631,19 @@
         ],
         "region": "jp"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "jp"
+      },
       "67a1a8ef2358ef4dd5c3018e": {
         "id": "5e20b730f2f8d5003d739db7-67a1a8ef2358ef4dd5c3018e",
         "slug": "lucha-plus",
@@ -50825,6 +50968,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "kr"
+      },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a.m3u8",
         "genres": [
           "En Español"
         ],
@@ -53978,6 +54134,19 @@
         ],
         "region": "se"
       },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "se"
+      },
       "67a1a8ef2358ef4dd5c3018e": {
         "id": "5e20b730f2f8d5003d739db7-67a1a8ef2358ef4dd5c3018e",
         "slug": "lucha-plus",
@@ -56939,6 +57108,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a158aa7c-26b6-4c00-af9d-6fe52cab555a/iTV_LOGO-DarkBG_-_Alejandro_N.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-688d3402a6fe30698ab42007.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "nl"
+      },
+      "6a3c2c8c14e447db7984cc3a": {
+        "id": "5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a",
+        "slug": "billboard-espanol-tv",
+        "gridKey": "6a3c2c8c14e447db7984cc3a",
+        "name": "Billboard Español TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a3c2c8c14e447db7984cc3a.m3u8",
         "genres": [
           "En Español"
         ],
