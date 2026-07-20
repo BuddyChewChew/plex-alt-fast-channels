@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-13T19:09:32.607031+00:00",
+  "generated": "2026-07-20T01:26:07.115072+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1718,19 +1718,6 @@
         ],
         "region": "us"
       },
-      "657107dc56226238740fcc2d": {
-        "id": "6a1610bebdf296985fd95603-657107dc56226238740fcc2d",
-        "slug": "cbs-sports-hq-2",
-        "gridKey": "657107dc56226238740fcc2d",
-        "name": "CBS Sports HQ",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c819c2a2-3331-4d36-984c-fe957b843dbe/CBS_SPORTS_Color_Logo.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-657107dc56226238740fcc2d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "69bda77eccad88fe7741f67c": {
         "id": "6a1610bebdf296985fd95603-69bda77eccad88fe7741f67c",
         "slug": "cw-presents-wwe-nxt",
@@ -1895,19 +1882,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f6b8e7900b0950040d0f2b2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
-      "6571186d9a46917c0a8f2ddd": {
-        "id": "6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd",
-        "slug": "cbs-sports-golazo-network-2",
-        "gridKey": "6571186d9a46917c0a8f2ddd",
-        "name": "CBS Sports Golazo Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/22f0bb47-b71f-4d58-baf8-c8edaf4ef800/Golazo_colorRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6571186d9a46917c0a8f2ddd.m3u8",
         "genres": [
           "Sports"
         ],
@@ -6996,6 +6970,19 @@
         ],
         "region": "us"
       },
+      "6a4afa08410e0eea561f76b1": {
+        "id": "6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1",
+        "slug": "adn-noticias",
+        "gridKey": "6a4afa08410e0eea561f76b1",
+        "name": "ADN NOTICIAS",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
       "64fba469bb3e0baa5dcc0947": {
         "id": "6a1610bebdf296985fd95603-64fba469bb3e0baa5dcc0947",
         "slug": "canela-tv-clasicos",
@@ -7316,6 +7303,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f0f82a9b-52a8-48ae-8964-846c15cd22b9/WB_Plex_LogoPackage_1500x1000_Light_LAS_-_Megan_Jones.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-693ebecae2cae3f1bc73ae45.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a4af4e895c72f33f18ad29d": {
+        "id": "6a1610bebdf296985fd95603-6a4af4e895c72f33f18ad29d",
+        "slug": "mera-mera-tv",
+        "gridKey": "6a4af4e895c72f33f18ad29d",
+        "name": "Mera Mera TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/77a458d9-d6e4-4b04-acb3-e4554c6a93eb/Dark_Logo_1500X1000_PNGRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a4af4e895c72f33f18ad29d.m3u8",
         "genres": [
           "En Español"
         ],
@@ -23605,19 +23605,6 @@
         ],
         "region": "nz"
       },
-      "66fd3a76216b603e031725fc": {
-        "id": "5e20b730f2f8d5003d739db7-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fd3a76216b603e031725fc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "nz"
-      },
       "69ad9e60e657bab5f7a9b7e6": {
         "id": "5e20b730f2f8d5003d739db7-69ad9e60e657bab5f7a9b7e6",
         "slug": "intervention-2",
@@ -28804,6 +28791,19 @@
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8",
         "genres": [
           "Comedy"
+        ],
+        "region": "mx"
+      },
+      "6a3b12103c90c489ea1f17e0": {
+        "id": "608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0",
+        "slug": "deal-or-no-deal-4",
+        "gridKey": "6a3b12103c90c489ea1f17e0",
+        "name": "Deal Or No Deal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/14bef4ec-a974-42e7-b499-474a71978f65/DOND_Logo_White_1500x1000_-_Harry_Marshall__1_.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0.m3u8",
+        "genres": [
+          "Daytime TV & Games"
         ],
         "region": "mx"
       },
