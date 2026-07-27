@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T19:22:47.488496+00:00",
+  "generated": "2026-07-27T01:32:04.683005+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1434,10 +1434,10 @@
       },
       "6571f43a1d2aae780d597196": {
         "id": "6a1610bebdf296985fd95603-6571f43a1d2aae780d597196",
-        "slug": "cbs-news",
+        "slug": "cbs-news-24-7",
         "gridKey": "6571f43a1d2aae780d597196",
-        "name": "CBS News",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7c7be41d-477b-447c-baaf-61be24cf44fc/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
+        "name": "CBS News 24/7",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/87b48057-7bc7-45af-bae8-d3b713a8733d/CBS-News-24-7-WHITE-1500x1000Vert_Stack__1_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6571f43a1d2aae780d597196.m3u8",
         "genres": [
@@ -6996,6 +6996,19 @@
         ],
         "region": "us"
       },
+      "6a56bff72ad9d298044c58f8": {
+        "id": "6a1610bebdf296985fd95603-6a56bff72ad9d298044c58f8",
+        "slug": "deal-or-no-deal-5",
+        "gridKey": "6a56bff72ad9d298044c58f8",
+        "name": "Deal Or No Deal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/01fa9a7e-a969-4ac7-b092-afc565133345/DOND_Logo_blktextDark_1500x1000_-_Harry_Marshall__1_WHTTEXT.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a56bff72ad9d298044c58f8.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
       "5f5132e362fe160040f26c18": {
         "id": "6a1610bebdf296985fd95603-5f5132e362fe160040f26c18",
         "slug": "canela-tv-novelas-y-dramas",
@@ -7141,10 +7154,10 @@
       },
       "6478acb5c83f56da796f1670": {
         "id": "6a1610bebdf296985fd95603-6478acb5c83f56da796f1670",
-        "slug": "telemundo-accion",
+        "slug": "el-senor-de-los-cielos",
         "gridKey": "6478acb5c83f56da796f1670",
-        "name": "Telemundo Acción",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5425aa06-a551-4773-9896-184289bd5311/telemundo-acci-n-fclogo-72-dpi-1500-x-1000-3-2-channel-logo-dark-plex-1.png",
+        "name": "El Señor de los Cielos",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e927f0f5-a833-4000-b9b9-5a408aab4cda/ElSenorDeLosCielos_logo_1500x1000_light.png.png",
         "callSign": "TLMDACC",
         "key": "/library/parts/6a1610bebdf296985fd95603-6478acb5c83f56da796f1670.m3u8",
         "genres": [
@@ -7178,19 +7191,6 @@
         ],
         "region": "us"
       },
-      "64e6df6e4a5e9b4cedc6d529": {
-        "id": "6a1610bebdf296985fd95603-64e6df6e4a5e9b4cedc6d529",
-        "slug": "canela-tv-narco-drama",
-        "gridKey": "64e6df6e4a5e9b4cedc6d529",
-        "name": "Canela.TV Narco-Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64e6df6e4a5e9b4cedc6d529.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "6434540bf43c8cfbfdc6e600": {
         "id": "6a1610bebdf296985fd95603-6434540bf43c8cfbfdc6e600",
         "slug": "electricnow-en-espanol",
@@ -7212,6 +7212,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b2a18d55-c1c1-47d9-8bfc-50f002b4c030/DelitoLight_Logo__4__RED_RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-69a516217c245b3390e8a4d2.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a4af875410e0eea561f76af": {
+        "id": "6a1610bebdf296985fd95603-6a4af875410e0eea561f76af",
+        "slug": "azteca-deportes-network-2",
+        "gridKey": "6a4af875410e0eea561f76af",
+        "name": "Azteca Deportes Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3e151213-c794-4086-a772-92722251da39/Az_dep_blanco.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a4af875410e0eea561f76af.m3u8",
         "genres": [
           "En Español"
         ],
@@ -13277,6 +13290,19 @@
         ],
         "region": "ca"
       },
+      "66173ae27105ca5aacb0685d": {
+        "id": "647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d",
+        "slug": "outflix-proud",
+        "gridKey": "66173ae27105ca5aacb0685d",
+        "name": "OUTflix Proud",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/399d8851-ddfa-43c8-90e2-18f60c42353c/outflix-proud-plex-wh_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-66173ae27105ca5aacb0685d.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "ca"
+      },
       "6707cfa5da81682f2d1e6837": {
         "id": "647f8d22a2fc3fadb4721685-6707cfa5da81682f2d1e6837",
         "slug": "iron-chef-2",
@@ -13402,19 +13428,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
-      "64aed1e9c6085b5faf20ee1f": {
-        "id": "647f8d22a2fc3fadb4721685-64aed1e9c6085b5faf20ee1f",
-        "slug": "outflix-movies",
-        "gridKey": "64aed1e9c6085b5faf20ee1f",
-        "name": "OUTFLIX MOVIES",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f95fc27d-0f98-4097-bce5-1ea35a0ce0f0/OUTflix-MOVIES_Logo_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-64aed1e9c6085b5faf20ee1f.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -13859,6 +13872,19 @@
         "key": "/library/parts/647f8d22a2fc3fadb4721685-69333216ac5b3f9f53442374.m3u8",
         "genres": [
           "Kids & Family"
+        ],
+        "region": "ca"
+      },
+      "6a56bff72ad9d298044c58f8": {
+        "id": "647f8d22a2fc3fadb4721685-6a56bff72ad9d298044c58f8",
+        "slug": "deal-or-no-deal-5",
+        "gridKey": "6a56bff72ad9d298044c58f8",
+        "name": "Deal Or No Deal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/01fa9a7e-a969-4ac7-b092-afc565133345/DOND_Logo_blktextDark_1500x1000_-_Harry_Marshall__1_WHTTEXT.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a56bff72ad9d298044c58f8.m3u8",
+        "genres": [
+          "En Español"
         ],
         "region": "ca"
       },
@@ -19038,6 +19064,19 @@
         ],
         "region": "gb"
       },
+      "6a56bff72ad9d298044c58f8": {
+        "id": "64305451fc3be5947773c339-6a56bff72ad9d298044c58f8",
+        "slug": "deal-or-no-deal-5",
+        "gridKey": "6a56bff72ad9d298044c58f8",
+        "name": "Deal Or No Deal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/01fa9a7e-a969-4ac7-b092-afc565133345/DOND_Logo_blktextDark_1500x1000_-_Harry_Marshall__1_WHTTEXT.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a56bff72ad9d298044c58f8.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "gb"
+      },
       "6a3c2c8c14e447db7984cc3a": {
         "id": "64305451fc3be5947773c339-6a3c2c8c14e447db7984cc3a",
         "slug": "billboard-espanol-tv",
@@ -19202,6 +19241,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/10926a84-a943-418b-bd8f-885c7b212ef8/LEgacy_Light_Logo__4_RDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-69bb1f002028859eafc637e1.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "gb"
+      },
+      "6a5d48cabfb60c398ce03cd5": {
+        "id": "64305451fc3be5947773c339-6a5d48cabfb60c398ce03cd5",
+        "slug": "inazuma-eleven",
+        "gridKey": "6a5d48cabfb60c398ce03cd5",
+        "name": "Inazuma Eleven",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2414fae-fe37-4df7-b898-59e1ddd9c8a1/Logo_InazumaEleven_1500x1000_DarkBackground.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d48cabfb60c398ce03cd5.m3u8",
         "genres": [
           "Global"
         ],
@@ -27858,6 +27910,19 @@
         ],
         "region": "mx"
       },
+      "6a4af78195c72f33f18ad29f": {
+        "id": "608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f",
+        "slug": "azteca-deportes-network",
+        "gridKey": "6a4af78195c72f33f18ad29f",
+        "name": "Azteca Deportes Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a4af78195c72f33f18ad29f.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "mx"
+      },
       "606605549dbfca002d2ae873": {
         "id": "608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873",
         "slug": "tna-wrestling-channel",
@@ -29959,19 +30024,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/08be4d01-35de-46c7-b600-546316cbaf4a/corazon_logo_light_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-64694d52f73356567a64ce8c.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
-      "64e6df6e4a5e9b4cedc6d529": {
-        "id": "608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529",
-        "slug": "canela-tv-narco-drama",
-        "gridKey": "64e6df6e4a5e9b4cedc6d529",
-        "name": "Canela.TV Narco-Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-64e6df6e4a5e9b4cedc6d529.m3u8",
         "genres": [
           "En Español"
         ],
@@ -37040,6 +37092,19 @@
         ],
         "region": "fr"
       },
+      "6a5d50fe5830ca1b11df3c4f": {
+        "id": "6430aa45fc3be5947780904e-6a5d50fe5830ca1b11df3c4f",
+        "slug": "inazuma-eleven-2",
+        "gridKey": "6a5d50fe5830ca1b11df3c4f",
+        "name": "Inazuma Eleven",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1f4b2564-fc79-4c3a-bc79-56eb8ea7f06c/Logo_InazumaEleven_1500x1000_DarkBackground.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a5d50fe5830ca1b11df3c4f.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "fr"
+      },
       "69a1fa1a0f8d297b3f6ac0ea": {
         "id": "6430aa45fc3be5947780904e-69a1fa1a0f8d297b3f6ac0ea",
         "slug": "wasabi",
@@ -41815,6 +41880,19 @@
         ],
         "region": "br"
       },
+      "6a4af78195c72f33f18ad29f": {
+        "id": "646546f35db8ada4c8edd7e5-6a4af78195c72f33f18ad29f",
+        "slug": "azteca-deportes-network",
+        "gridKey": "6a4af78195c72f33f18ad29f",
+        "name": "Azteca Deportes Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd600751-74ec-4aa1-a9c7-b0dabbf87677/Az_dep_blanco.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a4af78195c72f33f18ad29f.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "br"
+      },
       "5f90ebc726350a002d40b136": {
         "id": "646546f35db8ada4c8edd7e5-5f90ebc726350a002d40b136",
         "slug": "racer-international",
@@ -43474,19 +43552,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/afe5cd54-0d6d-4b60-a4df-91a8d7ac7960/TodoCine_-_White_Fernando_Fraderdx.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-644c446d7472b186783f359e.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "br"
-      },
-      "64e6df6e4a5e9b4cedc6d529": {
-        "id": "646546f35db8ada4c8edd7e5-64e6df6e4a5e9b4cedc6d529",
-        "slug": "canela-tv-narco-drama",
-        "gridKey": "64e6df6e4a5e9b4cedc6d529",
-        "name": "Canela.TV Narco-Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1a0bf145-a80f-4dd5-8134-ecb3975c389f/CM-Plex-dark_logo-CanelaTV-narco_drama_-_Natalia_Rodriguez.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-64e6df6e4a5e9b4cedc6d529.m3u8",
         "genres": [
           "En Español"
         ],
