@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T14:08:15.362824+00:00",
+  "generated": "2026-07-27T19:08:34.865666+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -12913,14 +12913,14 @@
         ],
         "region": "ca"
       },
-      "61f0489a3f2259f988094ddb": {
-        "id": "647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb",
-        "slug": "journy-ca",
-        "gridKey": "61f0489a3f2259f988094ddb",
+      "60a9d105d162b9002d05a60c": {
+        "id": "647f8d22a2fc3fadb4721685-60a9d105d162b9002d05a60c",
+        "slug": "journy-2",
+        "gridKey": "60a9d105d162b9002d05a60c",
         "name": "Journy",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fb89d72-5b7f-4814-a1fb-ac688ca7f03d/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-61f0489a3f2259f988094ddb.m3u8",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -12947,19 +12947,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6470477fe536e0faaf10be9d.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "ca"
-      },
-      "60a9d105d162b9002d05a60c": {
-        "id": "647f8d22a2fc3fadb4721685-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
-        "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
           "Explore"
         ],
@@ -18156,10 +18143,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "64305451fc3be5947773c339-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -22110,10 +22097,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "697140a85d851f5e69414688-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -25804,10 +25791,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -29160,10 +29147,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -32971,10 +32958,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "643054b1fc3be59477853717-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -36379,10 +36366,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "6430aa45fc3be5947780904e-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -39579,10 +39566,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "635177ecff6cd5445d7f9b0b-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -42792,10 +42779,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -45719,10 +45706,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "698f7631338300003d436270-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -48165,10 +48152,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -50520,10 +50507,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -53538,10 +53525,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
@@ -56530,10 +56517,10 @@
       },
       "60a9d105d162b9002d05a60c": {
         "id": "5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c",
-        "slug": "gousa-tv",
+        "slug": "journy-2",
         "gridKey": "60a9d105d162b9002d05a60c",
-        "name": "GoUSA TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/77657b78-d874-418d-a831-b7aa3a5eb955/gousa-tvWHITE_RDX1500x1000.png",
+        "name": "Journy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60a9d105d162b9002d05a60c.m3u8",
         "genres": [
