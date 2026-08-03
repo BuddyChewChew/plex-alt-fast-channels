@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T19:08:34.865666+00:00",
+  "generated": "2026-08-03T01:27:15.864900+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -990,6 +990,19 @@
         ],
         "region": "us"
       },
+      "69d80ed5db43551137a2ff86": {
+        "id": "6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86",
+        "slug": "on-patrol-live",
+        "gridKey": "69d80ed5db43551137a2ff86",
+        "name": "On Patrol: Live",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e0f96512-d06e-4573-bbb1-6a7a0e4f866b/1500x1000_OnPatrolLive_Logo_Color.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "us"
+      },
       "5f74cf7effbe690040689f41": {
         "id": "6a1610bebdf296985fd95603-5f74cf7effbe690040689f41",
         "slug": "aande-crime-360",
@@ -998,6 +1011,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/06c3d1f2-d57d-438d-a589-049a07abc5a0/AE_Crime_360_color_WHT_TXT.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f74cf7effbe690040689f41.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "us"
+      },
+      "6449369f243fbe342a9c0b4d": {
+        "id": "6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d",
+        "slug": "forensic-files",
+        "gridKey": "6449369f243fbe342a9c0b4d",
+        "name": "Forensic Files",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -1024,19 +1050,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3dfda714-2c2e-409d-a54a-c386f8110a3d/FilmRise_UnsolvedMysteries_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5816.m3u8",
-        "genres": [
-          "True Crime"
-        ],
-        "region": "us"
-      },
-      "6449369f243fbe342a9c0b4d": {
-        "id": "6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d",
-        "slug": "forensic-files",
-        "gridKey": "6449369f243fbe342a9c0b4d",
-        "name": "Forensic Files",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3f79b58a-d938-4555-bed6-f64107110e63/FilmRise_ForensicFiles_Color_Logo.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -1089,19 +1102,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f73474ef-6388-4d5e-ade8-5f81f78cb5f8/WomenBehindBars_Logo_Colorrdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6502891e8ebe90c9ed73f7a0.m3u8",
-        "genres": [
-          "True Crime"
-        ],
-        "region": "us"
-      },
-      "69d80ed5db43551137a2ff86": {
-        "id": "6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86",
-        "slug": "on-patrol-live",
-        "gridKey": "69d80ed5db43551137a2ff86",
-        "name": "On Patrol: Live",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e0f96512-d06e-4573-bbb1-6a7a0e4f866b/1500x1000_OnPatrolLive_Logo_Color.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -2087,8 +2087,8 @@
         "slug": "nesn-nation",
         "gridKey": "6759a32270e41582b1b7a236",
         "name": "NESN NATION",
-        "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/99bf05dfe25874877cf2251a760f76c2.png",
-        "callSign": "NESNNAT",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ccd78f14-bcae-425b-8e81-0570914550b0/NESN_Logo_WHTRDX2.png",
+        "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6759a32270e41582b1b7a236.m3u8",
         "genres": [
           "Sports"
@@ -2706,14 +2706,14 @@
         ],
         "region": "us"
       },
-      "684059c5f36ba25bbd7fb81d": {
-        "id": "6a1610bebdf296985fd95603-684059c5f36ba25bbd7fb81d",
-        "slug": "love-after-lockup-we-tv",
-        "gridKey": "684059c5f36ba25bbd7fb81d",
-        "name": "Love After Lockup We TV",
-        "logo": "https://provider-static.plex.tv/5/epg/channels/logos/gracenote/523ba8f27e7a00c542f555eee93ddbb4.png",
-        "callSign": "LALU",
-        "key": "/library/parts/6a1610bebdf296985fd95603-684059c5f36ba25bbd7fb81d.m3u8",
+      "63c9724c5feb7b9655cb1950": {
+        "id": "6a1610bebdf296985fd95603-63c9724c5feb7b9655cb1950",
+        "slug": "deal-zone-presented-by-history",
+        "gridKey": "63c9724c5feb7b9655cb1950",
+        "name": "Deal Zone Presented By History",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cfcbbde8-f58b-48d0-bcd4-d5165a737d4b/DealZone_channel_logo_4c_RDEX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63c9724c5feb7b9655cb1950.m3u8",
         "genres": [
           "Reality"
         ],
@@ -2732,14 +2732,53 @@
         ],
         "region": "us"
       },
-      "63c9724c5feb7b9655cb1950": {
-        "id": "6a1610bebdf296985fd95603-63c9724c5feb7b9655cb1950",
-        "slug": "deal-zone-presented-by-history",
-        "gridKey": "63c9724c5feb7b9655cb1950",
-        "name": "Deal Zone Presented By History",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cfcbbde8-f58b-48d0-bcd4-d5165a737d4b/DealZone_channel_logo_4c_RDEX.png",
+      "684059c5f36ba25bbd7fb81d": {
+        "id": "6a1610bebdf296985fd95603-684059c5f36ba25bbd7fb81d",
+        "slug": "love-after-lockup-we-tv",
+        "gridKey": "684059c5f36ba25bbd7fb81d",
+        "name": "Love After Lockup We TV",
+        "logo": "https://provider-static.plex.tv/5/epg/channels/logos/gracenote/523ba8f27e7a00c542f555eee93ddbb4.png",
+        "callSign": "LALU",
+        "key": "/library/parts/6a1610bebdf296985fd95603-684059c5f36ba25bbd7fb81d.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "69d938388061ebfbca58c322": {
+        "id": "6a1610bebdf296985fd95603-69d938388061ebfbca58c322",
+        "slug": "survive-or-die",
+        "gridKey": "69d938388061ebfbca58c322",
+        "name": "Survive or Die",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/56a65f88-7aa4-4dcd-86ca-f9dfdca4d0be/SurviveOrDie_Logo_Dark_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63c9724c5feb7b9655cb1950.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69d938388061ebfbca58c322.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "66a1ae9e77649467da169f0e": {
+        "id": "6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e",
+        "slug": "say-yes-to-the-dress",
+        "gridKey": "66a1ae9e77649467da169f0e",
+        "name": "Say Yes to the Dress",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9298385b-b248-4e3b-87ee-fba261db99f9/SYTTD_Logo_Dark_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "645e328e3ea1d2d705ef8ab2": {
+        "id": "6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2",
+        "slug": "e-keeping-up",
+        "gridKey": "645e328e3ea1d2d705ef8ab2",
+        "name": "E! Keeping Up",
+        "logo": "https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4d7860467260498b2b98fb2f2b554793.png",
+        "callSign": "EKEEPUP",
+        "key": "/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2.m3u8",
         "genres": [
           "Reality"
         ],
@@ -2823,19 +2862,6 @@
         ],
         "region": "us"
       },
-      "66a1ae9e77649467da169f0e": {
-        "id": "6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e",
-        "slug": "say-yes-to-the-dress",
-        "gridKey": "66a1ae9e77649467da169f0e",
-        "name": "Say Yes to the Dress",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9298385b-b248-4e3b-87ee-fba261db99f9/SYTTD_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66a1ae9e77649467da169f0e.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
       "69ae4f38e657bab5f7a9b7ec": {
         "id": "6a1610bebdf296985fd95603-69ae4f38e657bab5f7a9b7ec",
         "slug": "bondi-rescue",
@@ -2857,19 +2883,6 @@
         "logo": "https://provider-static.plex.tv/e/epg/channels/logos/gracenote/ed574c37e1144f182cd6643b0c871629.png",
         "callSign": "MDLV",
         "key": "/library/parts/6a1610bebdf296985fd95603-670694b4836808fbb1561c91.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "69d938388061ebfbca58c322": {
-        "id": "6a1610bebdf296985fd95603-69d938388061ebfbca58c322",
-        "slug": "survive-or-die",
-        "gridKey": "69d938388061ebfbca58c322",
-        "name": "Survive or Die",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/56a65f88-7aa4-4dcd-86ca-f9dfdca4d0be/SurviveOrDie_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69d938388061ebfbca58c322.m3u8",
         "genres": [
           "Reality"
         ],
@@ -2966,19 +2979,6 @@
         ],
         "region": "us"
       },
-      "690ce1d0718f73527d832927": {
-        "id": "6a1610bebdf296985fd95603-690ce1d0718f73527d832927",
-        "slug": "extreme-jobs",
-        "gridKey": "690ce1d0718f73527d832927",
-        "name": "Extreme Jobs",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7e6d1c65-984f-4293-8a4c-9ddd8a425202/Logo_ExtremeJobs_White_1500x1000_-_Kyle_Van_VonderenRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-690ce1d0718f73527d832927.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
       "63c97610187b3c9f3581fdf6": {
         "id": "6a1610bebdf296985fd95603-63c97610187b3c9f3581fdf6",
         "slug": "ice-road-truckers",
@@ -2987,19 +2987,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2162050a-0737-4a33-b2a2-c3e8135d7504/IRT_channel_logo_4c_RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63c97610187b3c9f3581fdf6.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "645e328e3ea1d2d705ef8ab2": {
-        "id": "6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2",
-        "slug": "e-keeping-up",
-        "gridKey": "645e328e3ea1d2d705ef8ab2",
-        "name": "E! Keeping Up",
-        "logo": "https://provider-static.plex.tv/4/epg/channels/logos/gracenote/4d7860467260498b2b98fb2f2b554793.png",
-        "callSign": "EKEEPUP",
-        "key": "/library/parts/6a1610bebdf296985fd95603-645e328e3ea1d2d705ef8ab2.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3065,6 +3052,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/abef57ed-8084-4da0-bf57-cf52edf919f7/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-666e1a2bce73ed6023b55a13.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "690ce1d0718f73527d832927": {
+        "id": "6a1610bebdf296985fd95603-690ce1d0718f73527d832927",
+        "slug": "extreme-jobs",
+        "gridKey": "690ce1d0718f73527d832927",
+        "name": "Extreme Jobs",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7e6d1c65-984f-4293-8a4c-9ddd8a425202/Logo_ExtremeJobs_White_1500x1000_-_Kyle_Van_VonderenRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-690ce1d0718f73527d832927.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "66a2d97c94b6a49cb5054d77": {
+        "id": "6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77",
+        "slug": "rig-tv",
+        "gridKey": "66a2d97c94b6a49cb5054d77",
+        "name": "Rig TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3174,19 +3187,6 @@
         ],
         "region": "us"
       },
-      "66a2d97c94b6a49cb5054d77": {
-        "id": "6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77",
-        "slug": "rig-tv",
-        "gridKey": "66a2d97c94b6a49cb5054d77",
-        "name": "Rig TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
       "6933441e4b745570462f3d34": {
         "id": "6a1610bebdf296985fd95603-6933441e4b745570462f3d34",
         "slug": "get",
@@ -3265,19 +3265,6 @@
         ],
         "region": "us"
       },
-      "66f6b947515e742745f5ca34": {
-        "id": "6a1610bebdf296985fd95603-66f6b947515e742745f5ca34",
-        "slug": "21-jump-street-2",
-        "gridKey": "66f6b947515e742745f5ca34",
-        "name": "21 Jump Street",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66f6b947515e742745f5ca34.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "us"
-      },
       "62b45f15b4508e0eedacdf25": {
         "id": "6a1610bebdf296985fd95603-62b45f15b4508e0eedacdf25",
         "slug": "grit-xtra",
@@ -3291,6 +3278,19 @@
         ],
         "region": "us"
       },
+      "689fb2c329e3c9f1368c04a3": {
+        "id": "6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3",
+        "slug": "green-acres",
+        "gridKey": "689fb2c329e3c9f1368c04a3",
+        "name": "Green Acres",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "us"
+      },
       "66ce3fc059062698a13c39e1": {
         "id": "6a1610bebdf296985fd95603-66ce3fc059062698a13c39e1",
         "slug": "the-sherlock-holmes-channel",
@@ -3299,6 +3299,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c69f7df3-5f6d-4fa2-b111-0f96df7b7a07/SherlockHolmesChannelThe_Logo_White.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66ce3fc059062698a13c39e1.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "us"
+      },
+      "66f6b947515e742745f5ca34": {
+        "id": "6a1610bebdf296985fd95603-66f6b947515e742745f5ca34",
+        "slug": "21-jump-street-2",
+        "gridKey": "66f6b947515e742745f5ca34",
+        "name": "21 Jump Street",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a93dc428-87b4-49ce-834c-94bcad531802/21JS_Logo_Dark.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-66f6b947515e742745f5ca34.m3u8",
         "genres": [
           "Classics"
         ],
@@ -3429,19 +3442,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68c98e7460586565cc56baab.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "us"
-      },
-      "689fb2c329e3c9f1368c04a3": {
-        "id": "6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3",
-        "slug": "green-acres",
-        "gridKey": "689fb2c329e3c9f1368c04a3",
-        "name": "Green Acres",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3.m3u8",
         "genres": [
           "Classics"
         ],
@@ -4188,14 +4188,14 @@
         ],
         "region": "us"
       },
-      "64704954e536e0faaf10be9f": {
-        "id": "6a1610bebdf296985fd95603-64704954e536e0faaf10be9f",
-        "slug": "just-for-laughs-gags",
-        "gridKey": "64704954e536e0faaf10be9f",
-        "name": "Just For Laughs Gags",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png",
+      "60d4eddbb2fdec002c141133": {
+        "id": "6a1610bebdf296985fd95603-60d4eddbb2fdec002c141133",
+        "slug": "mst3k",
+        "gridKey": "60d4eddbb2fdec002c141133",
+        "name": "MST3K",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/mst3k_logo_dark.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64704954e536e0faaf10be9f.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-60d4eddbb2fdec002c141133.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4209,19 +4209,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/60b4e759-0db0-40cc-ac85-8f0a1d3e2628/FilmRise_KidsInTheHall_Logo_WhiteRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-670858335b42d01c9391e325.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
-      "60d4eddbb2fdec002c141133": {
-        "id": "6a1610bebdf296985fd95603-60d4eddbb2fdec002c141133",
-        "slug": "mst3k",
-        "gridKey": "60d4eddbb2fdec002c141133",
-        "name": "MST3K",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/mst3k_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-60d4eddbb2fdec002c141133.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4261,6 +4248,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/04475a86-bf28-4cd0-9197-6b87ea4fecfc/Fluffy_TV_Logo_Color_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6a3b0dab6766376fae696fa6.m3u8",
+        "genres": [
+          "Comedy"
+        ],
+        "region": "us"
+      },
+      "64704954e536e0faaf10be9f": {
+        "id": "6a1610bebdf296985fd95603-64704954e536e0faaf10be9f",
+        "slug": "just-for-laughs-gags",
+        "gridKey": "64704954e536e0faaf10be9f",
+        "name": "Just For Laughs Gags",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a3d02bc9-13e3-4263-aff8-6a8512501b80/1500x1500_Just_for_laughs_CARLOS_PACHECO.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64704954e536e0faaf10be9f.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4378,19 +4378,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/91ac7a3c-8224-439f-83e9-f6c37eb186da/FilmRise_Comedy_1500x1000_Dark_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68db6a852be6c4ceb7947b9a.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "6a1610bebdf296985fd95603-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-5fd115b7b7ef8d002dcf1814.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -4544,7 +4531,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -4708,6 +4695,19 @@
         ],
         "region": "us"
       },
+      "64275805efc65caa7e9514d6": {
+        "id": "6a1610bebdf296985fd95603-64275805efc65caa7e9514d6",
+        "slug": "mayday-air-disaster-2",
+        "gridKey": "64275805efc65caa7e9514d6",
+        "name": "Mayday: Air Disaster",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64275805efc65caa7e9514d6.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "6876f82754325376973fd316": {
         "id": "6a1610bebdf296985fd95603-6876f82754325376973fd316",
         "slug": "paternity-court",
@@ -4726,7 +4726,7 @@
         "slug": "confess-by-nosey",
         "gridKey": "6438ee5a83766488c3bc9d4d",
         "name": "Confess by Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0383307d-1dd5-46cc-8972-08fd5cc2e6d5/NoseyConfess_Logo_Color_Dark_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/48adab71-cd9a-4f87-8a77-e0b687825727/NoseyConfess_Logo_Color_Dark_1500x1000RDXwhitetext.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6438ee5a83766488c3bc9d4d.m3u8",
         "genres": [
@@ -4739,7 +4739,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -4911,19 +4911,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6582a1316b91be4547aa153c.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "64275805efc65caa7e9514d6": {
-        "id": "6a1610bebdf296985fd95603-64275805efc65caa7e9514d6",
-        "slug": "mayday-air-disaster-2",
-        "gridKey": "64275805efc65caa7e9514d6",
-        "name": "Mayday: Air Disaster",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64275805efc65caa7e9514d6.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -6078,7 +6065,7 @@
         "slug": "the-great-british-baking-channel",
         "gridKey": "698a78e0d77c25ac0d681bbb",
         "name": "The Great British Baking Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/efff7ca0-6d31-4b67-a0f1-c71d35ac972a/GBBC_Logo-BWHTRDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/99a71e1f-6a9a-45ec-9a50-3b630ebb6fe7/GBBC_Logo-BWHTRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-698a78e0d77c25ac0d681bbb.m3u8",
         "genres": [
@@ -6424,32 +6411,6 @@
         ],
         "region": "us"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "6a1610bebdf296985fd95603-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "us"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-5efe1de6e0b3f5003f5d9f82.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "us"
-      },
       "6685a97b59703916799193a5": {
         "id": "6a1610bebdf296985fd95603-6685a97b59703916799193a5",
         "slug": "latv",
@@ -6627,45 +6588,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68e0371d8bbd79d66c631ab2.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
-      "67448316c583cfbd5f0e1d99": {
-        "id": "6a1610bebdf296985fd95603-67448316c583cfbd5f0e1d99",
-        "slug": "hot-wheels-action",
-        "gridKey": "67448316c583cfbd5f0e1d99",
-        "name": "Hot Wheels Action",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fc2b8535-d62d-4094-a140-7d5ab37d234f/PLEX_Hot_Wheels_Action_Dark_Background_Color_LogoRDX_white_Text.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-67448316c583cfbd5f0e1d99.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
-      "674486a3c583cfbd5f0e1da7": {
-        "id": "6a1610bebdf296985fd95603-674486a3c583cfbd5f0e1da7",
-        "slug": "mattel-jr",
-        "gridKey": "674486a3c583cfbd5f0e1da7",
-        "name": "Mattel Jr.",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8f97e5e3-7bc1-41ad-a997-b27d74ce9ed2/transparentColor_Logo__Light_Mattel_JR_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-674486a3c583cfbd5f0e1da7.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
-      "674487c3c583cfbd5f0e1da9": {
-        "id": "6a1610bebdf296985fd95603-674487c3c583cfbd5f0e1da9",
-        "slug": "barbie-and-friends-by-mattel",
-        "gridKey": "674487c3c583cfbd5f0e1da9",
-        "name": "Barbie and Friends by Mattel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5b812cca-c2cc-4020-996f-d5bc3c87ea9c/PLEX_BarbieandFriends_ColorLogo_Dark_Background__1500_x_1000__-_Ana_C_Garcia_white_textrdx.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-674487c3c583cfbd5f0e1da9.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -7573,7 +7495,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -8447,19 +8369,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
         "callSign": "SM047D",
         "key": "/library/parts/6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "us"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "6a1610bebdf296985fd95603-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -12120,19 +12029,6 @@
         ],
         "region": "ca"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "647f8d22a2fc3fadb4721685-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "ca"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "647f8d22a2fc3fadb4721685-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -12255,7 +12151,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -12476,7 +12372,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -13420,19 +13316,6 @@
         ],
         "region": "ca"
       },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-5efe1de6e0b3f5003f5d9f82.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
       "67642f277c5e3b38af72dcdb": {
         "id": "647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb",
         "slug": "cirque-du-soleil",
@@ -13480,19 +13363,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-666e1bc2d91d13cb4c8cbb6f.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
-      "66ea0e029502c5778b828d45": {
-        "id": "647f8d22a2fc3fadb4721685-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-66ea0e029502c5778b828d45.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -13958,7 +13828,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -14442,19 +14312,6 @@
         "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/2776f5f6ea5b97b45d515c603a1e810f.png",
         "callSign": "SMUS68",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5fe27da28c198b002d179199.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "ca"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -16594,6 +16451,45 @@
         ],
         "region": "gb"
       },
+      "6a5d4a825830ca1b11df3c4b": {
+        "id": "64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b",
+        "slug": "love-after-lockup-2",
+        "gridKey": "6a5d4a825830ca1b11df3c4b",
+        "name": "Love after Lockup",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/de1c07c9-c023-41c1-ad1b-6b84c58358ac/LOVE_AFTER_LOCKUP_1500x1000_LOGO_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "6a5d4c8fbfb60c398ce03cd7": {
+        "id": "64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7",
+        "slug": "amc-reality-2",
+        "gridKey": "6a5d4c8fbfb60c398ce03cd7",
+        "name": "AMC Reality",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/81b22af9-7a76-45f1-b13b-1d3ff39c2c33/AMC_REALITY_1500x1000_LOGO_LIGHT.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "6a5d4dde5830ca1b11df3c4d": {
+        "id": "64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d",
+        "slug": "amc-cupid-2",
+        "gridKey": "6a5d4dde5830ca1b11df3c4d",
+        "name": "AMC Cupid",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf793ad1-fa4c-4dc5-ad43-73faa32e5355/AMC_CUPID_1500x1000_LOGO_LIGHT.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
       "68dcb62667386a41d59918db": {
         "id": "64305451fc3be5947773c339-68dcb62667386a41d59918db",
         "slug": "river-monsters-2",
@@ -17426,19 +17322,6 @@
         ],
         "region": "gb"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "64305451fc3be5947773c339-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "gb"
-      },
       "68d7f9b53b1f329cea126993": {
         "id": "64305451fc3be5947773c339-68d7f9b53b1f329cea126993",
         "slug": "dude-perfect",
@@ -17522,7 +17405,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -17626,7 +17509,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -18505,19 +18388,6 @@
         ],
         "region": "gb"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "64305451fc3be5947773c339-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "gb"
-      },
       "67642f277c5e3b38af72dcdb": {
         "id": "64305451fc3be5947773c339-67642f277c5e3b38af72dcdb",
         "slug": "cirque-du-soleil",
@@ -18656,19 +18526,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f9b44328-8571-4e8a-9066-022bd8665082/cinepride-logo.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-62167144ab2095ca85353ad6.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "gb"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "64305451fc3be5947773c339-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -19186,7 +19043,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -19501,19 +19358,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a28301e1-00c2-4783-9a44-1e822be96cb9/11810_MMS_Plex-TV_Channel-Logo_1500x1000_V01-Color-Rev.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-62fbf197c67d52bddf74cc87.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "gb"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "64305451fc3be5947773c339-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -21497,19 +21341,6 @@
         ],
         "region": "au"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "697140a85d851f5e69414688-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "au"
-      },
       "5f170d62b898490041b4936e": {
         "id": "697140a85d851f5e69414688-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -21632,7 +21463,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -21723,7 +21554,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -22446,19 +22277,6 @@
         ],
         "region": "au"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "697140a85d851f5e69414688-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "au"
-      },
       "5ef11487d33ab9004048a1d9": {
         "id": "697140a85d851f5e69414688-5ef11487d33ab9004048a1d9",
         "slug": "revry",
@@ -22584,19 +22402,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-666e1bc2d91d13cb4c8cbb6f.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "au"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "697140a85d851f5e69414688-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -23010,7 +22815,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -23247,19 +23052,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
         "callSign": "SM047D",
         "key": "/library/parts/697140a85d851f5e69414688-61aa97d4113e1e5137fd5325.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "au"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "697140a85d851f5e69414688-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -25165,19 +24957,6 @@
         ],
         "region": "nz"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "nz"
-      },
       "5f170d62b898490041b4936e": {
         "id": "5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -25274,7 +25053,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -25365,7 +25144,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -26244,19 +26023,6 @@
         ],
         "region": "nz"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nz"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -26278,19 +26044,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c61624db-2926-433a-850c-a9ce4a359336/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-666e1bc2d91d13cb4c8cbb6f.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nz"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -26613,7 +26366,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -26824,19 +26577,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "nz"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -28833,19 +28573,6 @@
         ],
         "region": "mx"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "mx"
-      },
       "6a3b12103c90c489ea1f17e0": {
         "id": "608049aefa2b8ae93c2c3a63-6a3b12103c90c489ea1f17e0",
         "slug": "deal-or-no-deal-4",
@@ -28877,7 +28604,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -28903,7 +28630,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -29392,19 +29119,6 @@
         ],
         "region": "mx"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "608049aefa2b8ae93c2c3a63-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "mx"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "608049aefa2b8ae93c2c3a63-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -29439,19 +29153,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c35e9252-aaa7-4198-8902-c9a1e22a5f4e/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-68c87137679609f139e6cbe0.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "mx"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -29917,7 +29618,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -30583,19 +30284,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/4171a6a6-6d73-481a-ad91-15166befee06/Channel_Logo_MetalRocks_Color_-_Ricardo_RivasRDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-68e9436dda6bb987138625c7.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "mx"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -32592,19 +32280,6 @@
         ],
         "region": "es"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "es"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "643054b1fc3be59477853717-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -32688,7 +32363,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -32714,7 +32389,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -33099,19 +32774,6 @@
         ],
         "region": "es"
       },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-5efe1de6e0b3f5003f5d9f82.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "es"
-      },
       "6349ed0eb1adc4cfa571fd37": {
         "id": "643054b1fc3be59477853717-6349ed0eb1adc4cfa571fd37",
         "slug": "speedvision",
@@ -33315,19 +32977,6 @@
         "logo": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png",
         "callSign": "GUSTOTV",
         "key": "/library/parts/643054b1fc3be59477853717-5f8746eabd529300418246d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "es"
-      },
-      "66ea0e029502c5778b828d45": {
-        "id": "643054b1fc3be59477853717-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-66ea0e029502c5778b828d45.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -33676,7 +33325,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -33993,19 +33642,6 @@
         "key": "/library/parts/643054b1fc3be59477853717-68b9f5a3d60e5dd29263c7ac.m3u8",
         "genres": [
           "Global"
-        ],
-        "region": "es"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "643054b1fc3be59477853717-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-6196c8c01d310bf925e02615.m3u8",
-        "genres": [
-          "Music"
         ],
         "region": "es"
       },
@@ -35974,19 +35610,6 @@
         ],
         "region": "fr"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "6430aa45fc3be5947780904e-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "fr"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "6430aa45fc3be5947780904e-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -36057,7 +35680,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -36109,7 +35732,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -36559,32 +36182,6 @@
         ],
         "region": "fr"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "6430aa45fc3be5947780904e-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "fr"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "6430aa45fc3be5947780904e-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-5efe1de6e0b3f5003f5d9f82.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "fr"
-      },
       "5ef11487d33ab9004048a1d9": {
         "id": "6430aa45fc3be5947780904e-5ef11487d33ab9004048a1d9",
         "slug": "revry",
@@ -36967,7 +36564,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -37308,19 +36905,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/bf09a995-48fe-45f6-abb3-56b442494c12/Rock_alternatives_Rdx.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-62efbb8652f7d73061eec498.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "fr"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "6430aa45fc3be5947780904e-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -39213,19 +38797,6 @@
         ],
         "region": "de"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "635177ecff6cd5445d7f9b0b-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "de"
-      },
       "68d7f9b53b1f329cea126993": {
         "id": "635177ecff6cd5445d7f9b0b-68d7f9b53b1f329cea126993",
         "slug": "dude-perfect",
@@ -39270,7 +38841,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -39322,7 +38893,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -39772,19 +39343,6 @@
         ],
         "region": "de"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "635177ecff6cd5445d7f9b0b-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "635177ecff6cd5445d7f9b0b-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -39819,19 +39377,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -40219,7 +39764,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -40521,19 +40066,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b0655223-8876-4ca6-be40-7886947328d8/remember_the_80s.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-61aa9f50784a2161d3caf7fb.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "de"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "635177ecff6cd5445d7f9b0b-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -42478,19 +42010,6 @@
         ],
         "region": "br"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "646546f35db8ada4c8edd7e5-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "br"
-      },
       "68d7f9b53b1f329cea126993": {
         "id": "646546f35db8ada4c8edd7e5-68d7f9b53b1f329cea126993",
         "slug": "dude-perfect",
@@ -42535,7 +42054,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -42587,7 +42106,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -42998,19 +42517,6 @@
         ],
         "region": "br"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "br"
-      },
       "5f0641d3e8ffda004033b16e": {
         "id": "646546f35db8ada4c8edd7e5-5f0641d3e8ffda004033b16e",
         "slug": "the-design-network",
@@ -43084,19 +42590,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "br"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "646546f35db8ada4c8edd7e5-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -43471,7 +42964,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -43983,19 +43476,6 @@
         "key": "/library/parts/646546f35db8ada4c8edd7e5-64b1e1217d4037206787f384.m3u8",
         "genres": [
           "Global"
-        ],
-        "region": "br"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "646546f35db8ada4c8edd7e5-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-6196c8c01d310bf925e02615.m3u8",
-        "genres": [
-          "Music"
         ],
         "region": "br"
       },
@@ -45366,19 +44846,6 @@
         ],
         "region": "in"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "698f7631338300003d436270-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "in"
-      },
       "5f170d62b898490041b4936e": {
         "id": "698f7631338300003d436270-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -45449,7 +44916,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -45488,7 +44955,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -46042,19 +45509,6 @@
         ],
         "region": "in"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "698f7631338300003d436270-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "in"
-      },
       "67294a601055ef3897c73477": {
         "id": "698f7631338300003d436270-67294a601055ef3897c73477",
         "slug": "the-emeril-lagasse-channel",
@@ -46076,19 +45530,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "in"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "698f7631338300003d436270-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -46398,7 +45839,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -46557,19 +45998,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
         "callSign": "SM047D",
         "key": "/library/parts/698f7631338300003d436270-61aa97d4113e1e5137fd5325.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "in"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "698f7631338300003d436270-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -47851,19 +47279,6 @@
         ],
         "region": "jp"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "jp"
-      },
       "5f170d62b898490041b4936e": {
         "id": "5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -47934,7 +47349,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -47973,7 +47388,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -48410,19 +47825,6 @@
         ],
         "region": "jp"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "jp"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -48431,19 +47833,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "jp"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -48714,7 +48103,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -48912,19 +48301,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "jp"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -50206,19 +49582,6 @@
         ],
         "region": "kr"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "kr"
-      },
       "5f170d62b898490041b4936e": {
         "id": "5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -50289,7 +49652,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -50328,7 +49691,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -50752,19 +50115,6 @@
         ],
         "region": "kr"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "kr"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -50773,19 +50123,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "kr"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -51056,7 +50393,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -51254,19 +50591,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "kr"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -53081,19 +52405,6 @@
         ],
         "region": "se"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "se"
-      },
       "5f170d62b898490041b4936e": {
         "id": "5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -53164,7 +52475,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -53203,7 +52514,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -53887,19 +53198,6 @@
         ],
         "region": "se"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "se"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -53908,19 +53206,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "se"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -54217,7 +53502,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -54467,19 +53752,6 @@
         "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png",
         "callSign": "SQELEUE",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7c.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "se"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
@@ -56086,19 +55358,6 @@
         ],
         "region": "nl"
       },
-      "5fd115b7b7ef8d002dcf1814": {
-        "id": "5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814",
-        "slug": "humor-mill",
-        "gridKey": "5fd115b7b7ef8d002dcf1814",
-        "name": "Humor Mill",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/humormill_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115b7b7ef8d002dcf1814.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "nl"
-      },
       "5f170d62b898490041b4936e": {
         "id": "5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e",
         "slug": "failarmy-2",
@@ -56169,7 +55428,7 @@
         "slug": "nosey",
         "gridKey": "5f0ff262d71dcb00449ec015",
         "name": "Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/881d4e9f-10ec-4ca8-9309-17cc1126b768/nosey_green.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9c928b-8bf5-408f-b640-a6d1b97a6a69/nosey_green.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015.m3u8",
         "genres": [
@@ -56208,7 +55467,7 @@
         "slug": "judge-nosey",
         "gridKey": "5f0ff262d71dcb00449ec018",
         "name": "Judge Nosey",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69e3c98e-4f11-4857-875b-6c76ffc77c5c/JudgeNosey_Logo_Color-Dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec018.m3u8",
         "genres": [
@@ -56853,19 +56112,6 @@
         ],
         "region": "nl"
       },
-      "66ea0e029502c5778b828d45": {
-        "id": "5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45",
-        "slug": "drool",
-        "gridKey": "66ea0e029502c5778b828d45",
-        "name": "Drool",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7fff0047-9828-4ce4-b5b4-e49cf7e120bb/DroolLight_Logo__3_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66ea0e029502c5778b828d45.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nl"
-      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -56874,19 +56120,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nl"
-      },
-      "5efe1de6e0b3f5003f5d9f82": {
-        "id": "5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82",
-        "slug": "the-boat-show",
-        "gridKey": "5efe1de6e0b3f5003f5d9f82",
-        "name": "The Boat Show",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/vitor_theboatshow_1.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5efe1de6e0b3f5003f5d9f82.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -57196,7 +56429,7 @@
         "slug": "nosey-escandalos",
         "gridKey": "6154a863e3e4d9577f96b31a",
         "name": "Nosey Escándalos",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/nosey_escandalos_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53d7cc91-9e94-4192-9b0b-c13e05c8e09d/nosey-escandalos_color.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6154a863e3e4d9577f96b31a.m3u8",
         "genres": [
@@ -57524,19 +56757,6 @@
         "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/26655d04221a66d105b317c0bba65113.png",
         "callSign": "SQELEUE",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-62d7f68fb19cbf65dc7bef7c.m3u8",
-        "genres": [
-          "Music"
-        ],
-        "region": "nl"
-      },
-      "6196c8c01d310bf925e02615": {
-        "id": "5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615",
-        "slug": "music-legends",
-        "gridKey": "6196c8c01d310bf925e02615",
-        "name": "Music Legends",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/318f5578-72c7-4398-932f-1d993fc9d5f2/Music_Legends_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6196c8c01d310bf925e02615.m3u8",
         "genres": [
           "Music"
         ],
