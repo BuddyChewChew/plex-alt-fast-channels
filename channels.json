@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T12:22:41.666997+00:00",
+  "generated": "2026-08-24T18:23:20.318757+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -7973,10 +7973,10 @@
       },
       "611152a48f945c002c40021a": {
         "id": "6a1610bebdf296985fd95603-611152a48f945c002c40021a",
-        "slug": "mhz-now",
+        "slug": "mhz-mysteries",
         "gridKey": "611152a48f945c002c40021a",
-        "name": "MHz Now",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/mhz_now_logo_dark.png",
+        "name": "MHz Mysteries",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8",
         "genres": [
@@ -14085,10 +14085,10 @@
       },
       "611152a48f945c002c40021a": {
         "id": "647f8d22a2fc3fadb4721685-611152a48f945c002c40021a",
-        "slug": "mhz-now",
+        "slug": "mhz-mysteries",
         "gridKey": "611152a48f945c002c40021a",
-        "name": "MHz Now",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/mhz_now_logo_dark.png",
+        "name": "MHz Mysteries",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-611152a48f945c002c40021a.m3u8",
         "genres": [
