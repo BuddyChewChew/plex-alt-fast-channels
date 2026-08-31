@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T18:23:20.318757+00:00",
+  "generated": "2026-08-31T01:56:57.481865+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -2329,19 +2329,6 @@
         ],
         "region": "us"
       },
-      "603fb593a99efc002dbf90e4": {
-        "id": "6a1610bebdf296985fd95603-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-603fb593a99efc002dbf90e4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "61a945156547ba4d6d238dc9": {
         "id": "6a1610bebdf296985fd95603-61a945156547ba4d6d238dc9",
         "slug": "racing-america",
@@ -3156,6 +3143,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cf5b9071-33cc-4eab-a25d-1b291bbde740/Chaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6a8768f8c0e9ea735da07fdb": {
+        "id": "6a1610bebdf296985fd95603-6a8768f8c0e9ea735da07fdb",
+        "slug": "ryan-trahan",
+        "gridKey": "6a8768f8c0e9ea735da07fdb",
+        "name": "Ryan Trahan",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e6de24d5-368a-4458-a1ba-f6aa177872d3/Plex_RyanTrahan_ChannelLogo_ColorRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8768f8c0e9ea735da07fdb.m3u8",
         "genres": [
           "Reality"
         ],
@@ -4708,6 +4708,19 @@
         ],
         "region": "us"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "68d15e51c80ec69e0bd8965b": {
         "id": "6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b",
         "slug": "mrbeast",
@@ -6229,19 +6242,6 @@
         ],
         "region": "us"
       },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "6a1610bebdf296985fd95603-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/6a1610bebdf296985fd95603-67642f277c5e3b38af72dcdb.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "us"
-      },
       "62c47062085f5c338b9c6360": {
         "id": "6a1610bebdf296985fd95603-62c47062085f5c338b9c6360",
         "slug": "vice-2",
@@ -6874,6 +6874,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/estrellanews_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60089d97f682a3002c34829b.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a8744fdb1b3d334c851bbc5": {
+        "id": "6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5",
+        "slug": "entravision-ahora",
+        "gridKey": "6a8744fdb1b3d334c851bbc5",
+        "name": "Entravision Ahora",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/92a36ae3-eb96-4a92-97ad-a9ba5cbc7813/3_1500X1000_transparent_background_white_Logo_for_Attribution.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
         "genres": [
           "En Español"
         ],
@@ -9624,6 +9637,19 @@
         ],
         "region": "ca"
       },
+      "6a8cc101fc51826f5301a160": {
+        "id": "647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "ca"
+      },
       "6448ba1baf92c31f4a190c27": {
         "id": "647f8d22a2fc3fadb4721685-6448ba1baf92c31f4a190c27",
         "slug": "jail",
@@ -10386,19 +10412,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/76978d32-d638-4ef6-a167-a4b87a600f70/Game-Fish-TV_logo_allwhite_-_Daniel_Soane.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-67a147a7114554261db9e45d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "ca"
-      },
-      "603fb593a99efc002dbf90e4": {
-        "id": "647f8d22a2fc3fadb4721685-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-603fb593a99efc002dbf90e4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -12224,6 +12237,19 @@
         ],
         "region": "ca"
       },
+      "6876f82754325376973fd316": {
+        "id": "647f8d22a2fc3fadb4721685-6876f82754325376973fd316",
+        "slug": "paternity-court",
+        "gridKey": "6876f82754325376973fd316",
+        "name": "Paternity Court",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b4108fe4-e876-41a3-904d-39148f3e2e30/PaternityCourt_logo_dark_-_Carl_HoffelderRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6876f82754325376973fd316.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
       "66b13a1f4893b3d48c72db19": {
         "id": "647f8d22a2fc3fadb4721685-66b13a1f4893b3d48c72db19",
         "slug": "primetime-soaps",
@@ -12263,14 +12289,27 @@
         ],
         "region": "ca"
       },
-      "6876f82754325376973fd316": {
-        "id": "647f8d22a2fc3fadb4721685-6876f82754325376973fd316",
-        "slug": "paternity-court",
-        "gridKey": "6876f82754325376973fd316",
-        "name": "Paternity Court",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b4108fe4-e876-41a3-904d-39148f3e2e30/PaternityCourt_logo_dark_-_Carl_HoffelderRDX.png",
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "647f8d22a2fc3fadb4721685-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
         "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6876f82754325376973fd316.m3u8",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
+      "652a8b001b5c74bc83cf727c": {
+        "id": "647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c",
+        "slug": "dog-whisperer",
+        "gridKey": "652a8b001b5c74bc83cf727c",
+        "name": "Dog Whisperer",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
+        "callSign": "DOGWHSP",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -12388,19 +12427,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5f0ff262d71dcb00449ec018.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "ca"
-      },
-      "652a8b001b5c74bc83cf727c": {
-        "id": "647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c",
-        "slug": "dog-whisperer",
-        "gridKey": "652a8b001b5c74bc83cf727c",
-        "name": "Dog Whisperer",
-        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7c58aad36639018b2b88c6ef55abf98a.png",
-        "callSign": "DOGWHSP",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-652a8b001b5c74bc83cf727c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -13324,19 +13350,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -15424,6 +15437,19 @@
         ],
         "region": "gb"
       },
+      "6a8cc101fc51826f5301a160": {
+        "id": "64305451fc3be5947773c339-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
       "6448ba1baf92c31f4a190c27": {
         "id": "64305451fc3be5947773c339-6448ba1baf92c31f4a190c27",
         "slug": "jail",
@@ -16069,19 +16095,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/57fe10fd-e61b-4796-9afa-1cb853548709/channel_logo_dark.png_-_Ingrid_Barresi.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-69011e71d320237a5a2d9f63.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "gb"
-      },
-      "603fb593a99efc002dbf90e4": {
-        "id": "64305451fc3be5947773c339-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-603fb593a99efc002dbf90e4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -17478,6 +17491,19 @@
         ],
         "region": "gb"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
       "6582a1316b91be4547aa153c": {
         "id": "64305451fc3be5947773c339-6582a1316b91be4547aa153c",
         "slug": "hot-ones-2",
@@ -17525,19 +17551,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f0ff262d71dcb00449ec018.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "gb"
-      },
-      "65621cad5dbccec83a87b63f": {
-        "id": "64305451fc3be5947773c339-65621cad5dbccec83a87b63f",
-        "slug": "the-talk-show-channel",
-        "gridKey": "65621cad5dbccec83a87b63f",
-        "name": "The Talk Show Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/916f4af0-91c4-4501-b233-0216354ae982/TheTalkShowChannelLogo_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-65621cad5dbccec83a87b63f.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -18396,19 +18409,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "gb"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "64305451fc3be5947773c339-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/64305451fc3be5947773c339-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -19898,6 +19898,19 @@
         ],
         "region": "au"
       },
+      "6a8cc101fc51826f5301a160": {
+        "id": "697140a85d851f5e69414688-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "au"
+      },
       "6448ba1baf92c31f4a190c27": {
         "id": "697140a85d851f5e69414688-6448ba1baf92c31f4a190c27",
         "slug": "jail",
@@ -20504,19 +20517,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-608a2c722957c9002c6a617b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "au"
-      },
-      "603fb593a99efc002dbf90e4": {
-        "id": "697140a85d851f5e69414688-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-603fb593a99efc002dbf90e4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -21536,6 +21536,19 @@
         ],
         "region": "au"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "697140a85d851f5e69414688-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "au"
+      },
       "652a8b001b5c74bc83cf727c": {
         "id": "697140a85d851f5e69414688-652a8b001b5c74bc83cf727c",
         "slug": "dog-whisperer",
@@ -22298,19 +22311,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "au"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "697140a85d851f5e69414688-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/697140a85d851f5e69414688-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -23605,6 +23605,19 @@
         ],
         "region": "nz"
       },
+      "6a8cc101fc51826f5301a160": {
+        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "nz"
+      },
       "6502891e8ebe90c9ed73f7a0": {
         "id": "5e20b730f2f8d5003d739db7-6502891e8ebe90c9ed73f7a0",
         "slug": "women-behind-bars",
@@ -24185,19 +24198,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
-      "603fb593a99efc002dbf90e4": {
-        "id": "5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -25056,6 +25056,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "nz"
+      },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -25940,19 +25953,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nz"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -26935,19 +26935,6 @@
         ],
         "region": "mx"
       },
-      "6623c03b28a167c6e5b3079a": {
-        "id": "608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a",
-        "slug": "spark-tv-luz-y-amor-3",
-        "gridKey": "6623c03b28a167c6e5b3079a",
-        "name": "Spark TV Luz y Amor",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/46beb261-d92b-4f86-965f-3ec3bd222f7a/Plex_SparkTV_key-art_Spanish-RDX.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "mx"
-      },
       "67d4b095c792102dd8ec6c5b": {
         "id": "608049aefa2b8ae93c2c3a63-67d4b095c792102dd8ec6c5b",
         "slug": "z-nation-6",
@@ -27182,6 +27169,19 @@
         ],
         "region": "mx"
       },
+      "6623c03b28a167c6e5b3079a": {
+        "id": "608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a",
+        "slug": "spark-tv-luz-y-amor-3",
+        "gridKey": "6623c03b28a167c6e5b3079a",
+        "name": "Spark TV Luz y Amor",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/46beb261-d92b-4f86-965f-3ec3bd222f7a/Plex_SparkTV_key-art_Spanish-RDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6623c03b28a167c6e5b3079a.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "mx"
+      },
       "668434f6a017b7e51aeb28d3": {
         "id": "608049aefa2b8ae93c2c3a63-668434f6a017b7e51aeb28d3",
         "slug": "runtime-crimen-2",
@@ -27346,6 +27346,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2a8afd09-cee5-42af-aa6f-ddb9918abd19/Sangre_Fria_Dark_Mode_Logordx.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "mx"
+      },
+      "6a8cbec6fc51826f5301a15e": {
+        "id": "608049aefa2b8ae93c2c3a63-6a8cbec6fc51826f5301a15e",
+        "slug": "jail-3",
+        "gridKey": "6a8cbec6fc51826f5301a15e",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b5fceee7-7621-4d5a-9012-92841799b250/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a8cbec6fc51826f5301a15e.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -27671,19 +27684,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png",
         "callSign": "IMPACTW",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-606605549dbfca002d2ae873.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "mx"
-      },
-      "60da3a5c0d1cc1002c38370e": {
-        "id": "608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e",
-        "slug": "motorvision-tv-en-espanol",
-        "gridKey": "60da3a5c0d1cc1002c38370e",
-        "name": "Motorvision TV en Español",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-60da3a5c0d1cc1002c38370e.m3u8",
         "genres": [
           "Sports"
         ],
@@ -28391,6 +28391,19 @@
         ],
         "region": "mx"
       },
+      "6a6a83ad7c207c80661b6c1e": {
+        "id": "608049aefa2b8ae93c2c3a63-6a6a83ad7c207c80661b6c1e",
+        "slug": "4fangs",
+        "gridKey": "6a6a83ad7c207c80661b6c1e",
+        "name": "4Fangs",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d8588702-7fbf-42ab-85ee-4846ba35f609/4fangs_whiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a6a83ad7c207c80661b6c1e.m3u8",
+        "genres": [
+          "Adrenaline & Sci-Fi"
+        ],
+        "region": "mx"
+      },
       "635195e9ccee3e1547a8831a": {
         "id": "608049aefa2b8ae93c2c3a63-635195e9ccee3e1547a8831a",
         "slug": "farscape",
@@ -28633,6 +28646,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/42b035f7-d085-4605-89e2-fb708c3e1794/JudgeNosey_Logo_Color-whitetxt.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-5f0ff262d71dcb00449ec018.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "mx"
+      },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "608049aefa2b8ae93c2c3a63-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a8786c4fa0d0293e2681b7c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -29153,19 +29179,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c35e9252-aaa7-4198-8902-c9a1e22a5f4e/RevryLatinX_Logo_Plex_1500x1000_dark-backgrounds_-_Joshua_Pettway-Hinton.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-68c87137679609f139e6cbe0.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "mx"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -31019,6 +31032,19 @@
         ],
         "region": "es"
       },
+      "6a8cbec6fc51826f5301a15e": {
+        "id": "643054b1fc3be59477853717-6a8cbec6fc51826f5301a15e",
+        "slug": "jail-3",
+        "gridKey": "6a8cbec6fc51826f5301a15e",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b5fceee7-7621-4d5a-9012-92841799b250/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6a8cbec6fc51826f5301a15e.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "es"
+      },
       "6448ba1baf92c31f4a190c27": {
         "id": "643054b1fc3be59477853717-6448ba1baf92c31f4a190c27",
         "slug": "jail",
@@ -31352,19 +31378,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-6761f91555e174e95ccc4e4c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "es"
-      },
-      "60da3a5c0d1cc1002c38370e": {
-        "id": "643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e",
-        "slug": "motorvision-tv-en-espanol",
-        "gridKey": "60da3a5c0d1cc1002c38370e",
-        "name": "Motorvision TV en Español",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-60da3a5c0d1cc1002c38370e.m3u8",
         "genres": [
           "Sports"
         ],
@@ -32371,6 +32384,19 @@
         ],
         "region": "es"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "es"
+      },
       "5f0ff262d71dcb00449ec018": {
         "id": "643054b1fc3be59477853717-5f0ff262d71dcb00449ec018",
         "slug": "judge-nosey",
@@ -32834,19 +32860,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cc603999-a138-434c-9bd9-ddad49009913/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-65cd316a40ab06259e8168a0.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "es"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "643054b1fc3be59477853717-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/643054b1fc3be59477853717-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -34791,19 +34804,6 @@
         ],
         "region": "fr"
       },
-      "675a3b143c1d4ea8298f8f08": {
-        "id": "6430aa45fc3be5947780904e-675a3b143c1d4ea8298f8f08",
-        "slug": "motorvision-2",
-        "gridKey": "675a3b143c1d4ea8298f8f08",
-        "name": "Motorvision",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/559265de-a25f-478f-835b-9b00e483343a/Marketing_assets_MV_logo_1500X1000_transparent_dark_BGRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-675a3b143c1d4ea8298f8f08.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fr"
-      },
       "5f6b8e7900b0950040d0f2b2": {
         "id": "6430aa45fc3be5947780904e-5f6b8e7900b0950040d0f2b2",
         "slug": "the-world-poker-tour",
@@ -35311,19 +35311,6 @@
         ],
         "region": "fr"
       },
-      "6757689a30e1e3d0bb138d6b": {
-        "id": "6430aa45fc3be5947780904e-6757689a30e1e3d0bb138d6b",
-        "slug": "grjngo-films-de-western",
-        "gridKey": "6757689a30e1e3d0bb138d6b",
-        "name": "Grjngo - Films de Western",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/500c7234-b12c-49a7-80dc-33dee191511a/Plex_channel_logo_Grjngo_bright_Toni_Newesil.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-6757689a30e1e3d0bb138d6b.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "fr"
-      },
       "66f6b947515e742745f5ca34": {
         "id": "6430aa45fc3be5947780904e-66f6b947515e742745f5ca34",
         "slug": "21-jump-street-2",
@@ -35683,6 +35670,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-67d9a3d663c5439aeaf61305.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "fr"
+      },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a8786c4fa0d0293e2681b7c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -36216,19 +36216,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6490c01f3b3ce9e1aaad95be.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "fr"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "6430aa45fc3be5947780904e-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/6430aa45fc3be5947780904e-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -37835,19 +37822,6 @@
         ],
         "region": "de"
       },
-      "675a3c2067838c2b166105d6": {
-        "id": "635177ecff6cd5445d7f9b0b-675a3c2067838c2b166105d6",
-        "slug": "motorvision-classic",
-        "gridKey": "675a3c2067838c2b166105d6",
-        "name": "Motorvision Classic",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6abf16f-0ad3-48f4-8583-c3226eb35c34/Marketing_assets_MV_classic_logo_1500X1000_transparent_dark_BGRDX.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-675a3c2067838c2b166105d6.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "6334a8e48a7b2a349d903b8c": {
         "id": "635177ecff6cd5445d7f9b0b-6334a8e48a7b2a349d903b8c",
         "slug": "billiard-tv",
@@ -38836,6 +38810,19 @@
         ],
         "region": "de"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "635177ecff6cd5445d7f9b0b-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "de"
+      },
       "67d9a3d663c5439aeaf61305": {
         "id": "635177ecff6cd5445d7f9b0b-67d9a3d663c5439aeaf61305",
         "slug": "the-bold-and-the-beautiful",
@@ -39364,19 +39351,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "635177ecff6cd5445d7f9b0b-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -40775,6 +40749,19 @@
         ],
         "region": "br"
       },
+      "6a8cbec6fc51826f5301a15e": {
+        "id": "646546f35db8ada4c8edd7e5-6a8cbec6fc51826f5301a15e",
+        "slug": "jail-3",
+        "gridKey": "6a8cbec6fc51826f5301a15e",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b5fceee7-7621-4d5a-9012-92841799b250/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a8cbec6fc51826f5301a15e.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "br"
+      },
       "6448ba1baf92c31f4a190c27": {
         "id": "646546f35db8ada4c8edd7e5-6448ba1baf92c31f4a190c27",
         "slug": "jail",
@@ -41121,19 +41108,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7a0799ac-c06c-417e-a1d1-3fade474e07d/Plex_billiard__1500x1000__color_rdxfds__1_.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-6334a8e48a7b2a349d903b8c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "br"
-      },
-      "60da3a5c0d1cc1002c383710": {
-        "id": "646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710",
-        "slug": "motorvision-tv-2",
-        "gridKey": "60da3a5c0d1cc1002c383710",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-60da3a5c0d1cc1002c383710.m3u8",
         "genres": [
           "Sports"
         ],
@@ -42114,6 +42088,19 @@
         ],
         "region": "br"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "646546f35db8ada4c8edd7e5-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "br"
+      },
       "60db63d29ec966002c9ea6f0": {
         "id": "646546f35db8ada4c8edd7e5-60db63d29ec966002c9ea6f0",
         "slug": "made-in-hollywood-2",
@@ -42486,19 +42473,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-63894c1965b848bf2c8a7800.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "br"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "646546f35db8ada4c8edd7e5-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -44326,19 +44300,6 @@
         ],
         "region": "in"
       },
-      "603fb593a99efc002dbf90e4": {
-        "id": "698f7631338300003d436270-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-603fb593a99efc002dbf90e4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "in"
-      },
       "68b9f334fc12601028c5651e": {
         "id": "698f7631338300003d436270-68b9f334fc12601028c5651e",
         "slug": "world-billiards-tv",
@@ -44924,6 +44885,19 @@
         ],
         "region": "in"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "698f7631338300003d436270-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "in"
+      },
       "6582a1316b91be4547aa153c": {
         "id": "698f7631338300003d436270-6582a1316b91be4547aa153c",
         "slug": "hot-ones-2",
@@ -45413,19 +45387,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "in"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "698f7631338300003d436270-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/698f7631338300003d436270-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -46798,19 +46759,6 @@
         ],
         "region": "jp"
       },
-      "603fb593a99efc002dbf90e4": {
-        "id": "5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
       "61a945156547ba4d6d238dc9": {
         "id": "5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9",
         "slug": "racing-america",
@@ -47318,6 +47266,19 @@
         ],
         "region": "jp"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "jp"
+      },
       "5f0ff262d71dcb00449ec015": {
         "id": "5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015",
         "slug": "nosey",
@@ -47716,19 +47677,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "jp"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -49101,19 +49049,6 @@
         ],
         "region": "kr"
       },
-      "603fb593a99efc002dbf90e4": {
-        "id": "5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
       "61a945156547ba4d6d238dc9": {
         "id": "5e20b730f2f8d5003d739db7-61a945156547ba4d6d238dc9",
         "slug": "racing-america",
@@ -49603,6 +49538,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "kr"
+      },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -51040,6 +50988,19 @@
         ],
         "region": "se"
       },
+      "6a8cc101fc51826f5301a160": {
+        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "se"
+      },
       "6a2ab5b3fcfe17a33213c418": {
         "id": "5e20b730f2f8d5003d739db7-6a2ab5b3fcfe17a33213c418",
         "slug": "60-days-in-jail-8",
@@ -51594,19 +51555,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
-      "603fb593a99efc002dbf90e4": {
-        "id": "5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -52418,6 +52366,19 @@
         ],
         "region": "se"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "se"
+      },
       "5f0ff262d71dcb00449ec015": {
         "id": "5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015",
         "slug": "nosey",
@@ -53050,19 +53011,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "se"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -54149,6 +54097,19 @@
         ],
         "region": "nl"
       },
+      "6a8cc101fc51826f5301a160": {
+        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "nl"
+      },
       "6a2ab653e6a243c85608e4b8": {
         "id": "5e20b730f2f8d5003d739db7-6a2ab653e6a243c85608e4b8",
         "slug": "60-days-in-jail-9",
@@ -54677,19 +54638,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/96dd0531-b500-4bd4-93ca-763cbf46defe/1500x1000_PFL_SHIELD_DARK_BG_-_Allie_Dinsmore.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-643f0ecd76de2b4015ae6c01.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
-      "603fb593a99efc002dbf90e4": {
-        "id": "5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4",
-        "slug": "motorvision-tv",
-        "gridKey": "603fb593a99efc002dbf90e4",
-        "name": "Motorvision TV",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/motorvision_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-603fb593a99efc002dbf90e4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -55345,6 +55293,19 @@
         ],
         "region": "nl"
       },
+      "6a8786c4fa0d0293e2681b7c": {
+        "id": "5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c",
+        "slug": "growthday-network",
+        "gridKey": "6a8786c4fa0d0293e2681b7c",
+        "name": "GrowthDay Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2cf9ac1-5403-4568-b5d5-23f4629f4e71/GrowthDay_Network_1500_1000_ALL_WHITE_logo_Plex_-_Dan_Goodman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8786c4fa0d0293e2681b7c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "nl"
+      },
       "5f0ff262d71dcb00449ec015": {
         "id": "5e20b730f2f8d5003d739db7-5f0ff262d71dcb00449ec015",
         "slug": "nosey",
@@ -55938,19 +55899,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6bafecc0-03d6-4fa3-b4e7-baa241b44f12/Revry_Logo_Plex_1500x1000_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5ef11487d33ab9004048a1d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nl"
-      },
-      "67642f277c5e3b38af72dcdb": {
-        "id": "5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb",
-        "slug": "cirque-du-soleil",
-        "gridKey": "67642f277c5e3b38af72dcdb",
-        "name": "Cirque du Soleil",
-        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/38945a2afcb8ce8ae6b5fe557e908b2f.png",
-        "callSign": "CIDUS",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67642f277c5e3b38af72dcdb.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
