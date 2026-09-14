@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-14T02:01:14.544287+00:00",
+  "generated": "2026-09-14T08:45:27.085368+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -9897,6 +9897,19 @@
         ],
         "region": "ca"
       },
+      "668561babc1490a2f408f30d": {
+        "id": "647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d",
+        "slug": "48-hours-2",
+        "gridKey": "668561babc1490a2f408f30d",
+        "name": "48 Hours",
+        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",
+        "callSign": "48HOURS",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-668561babc1490a2f408f30d.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "ca"
+      },
       "6403c7a95baf3d46d1103770": {
         "id": "647f8d22a2fc3fadb4721685-6403c7a95baf3d46d1103770",
         "slug": "cbc-news-explore",
@@ -15619,6 +15632,19 @@
         ],
         "region": "gb"
       },
+      "668561babc1490a2f408f30d": {
+        "id": "64305451fc3be5947773c339-668561babc1490a2f408f30d",
+        "slug": "48-hours-2",
+        "gridKey": "668561babc1490a2f408f30d",
+        "name": "48 Hours",
+        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",
+        "callSign": "48HOURS",
+        "key": "/library/parts/64305451fc3be5947773c339-668561babc1490a2f408f30d.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
       "6633e35436748638d874dcb2": {
         "id": "64305451fc3be5947773c339-6633e35436748638d874dcb2",
         "slug": "crime-and-justice-2",
@@ -19846,6 +19872,45 @@
         ],
         "region": "au"
       },
+      "6449369eb3ff17382cae5806": {
+        "id": "697140a85d851f5e69414688-6449369eb3ff17382cae5806",
+        "slug": "heartland",
+        "gridKey": "6449369eb3ff17382cae5806",
+        "name": "Heartland",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4f771dfa-0588-46f0-9a02-25dc76dd4abe/Logo_Heartland_White_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6449369eb3ff17382cae5806.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "au"
+      },
+      "69012324d320237a5a2da1bc": {
+        "id": "697140a85d851f5e69414688-69012324d320237a5a2da1bc",
+        "slug": "rookie-blue",
+        "gridKey": "69012324d320237a5a2da1bc",
+        "name": "Rookie Blue",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-69012324d320237a5a2da1bc.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "au"
+      },
+      "6087ff3ae99ff1002ce1465b": {
+        "id": "697140a85d851f5e69414688-6087ff3ae99ff1002ce1465b",
+        "slug": "nashville",
+        "gridKey": "6087ff3ae99ff1002ce1465b",
+        "name": "Nashville",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png",
+        "callSign": "NASH",
+        "key": "/library/parts/697140a85d851f5e69414688-6087ff3ae99ff1002ce1465b.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "au"
+      },
       "6623c78128a167c6e5b3079c": {
         "id": "697140a85d851f5e69414688-6623c78128a167c6e5b3079c",
         "slug": "moviesphere-3",
@@ -23553,6 +23618,19 @@
         ],
         "region": "nz"
       },
+      "6449369eb3ff17382cae5806": {
+        "id": "5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806",
+        "slug": "heartland",
+        "gridKey": "6449369eb3ff17382cae5806",
+        "name": "Heartland",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4f771dfa-0588-46f0-9a02-25dc76dd4abe/Logo_Heartland_White_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6449369eb3ff17382cae5806.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "nz"
+      },
       "626c1753ffda6789d20a452e": {
         "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
         "slug": "cops",
@@ -23561,6 +23639,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "nz"
+      },
+      "6087ff3ae99ff1002ce1465b": {
+        "id": "5e20b730f2f8d5003d739db7-6087ff3ae99ff1002ce1465b",
+        "slug": "nashville",
+        "gridKey": "6087ff3ae99ff1002ce1465b",
+        "name": "Nashville",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png",
+        "callSign": "NASH",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6087ff3ae99ff1002ce1465b.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -23587,6 +23678,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/01661c3b-201e-4085-9c9b-de6d8f06035c/Intervention_COLOR_WIDE_Logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ad9e60e657bab5f7a9b7e6.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "nz"
+      },
+      "69012324d320237a5a2da1bc": {
+        "id": "5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc",
+        "slug": "rookie-blue",
+        "gridKey": "69012324d320237a5a2da1bc",
+        "name": "Rookie Blue",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b4ac9ea-d181-4e8f-8c0d-ae4e726e402b/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69012324d320237a5a2da1bc.m3u8",
         "genres": [
           "Bingeworthy"
         ],
