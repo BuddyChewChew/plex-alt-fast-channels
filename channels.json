@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T20:53:08.849217+00:00",
+  "generated": "2026-09-14T02:01:14.544287+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1016,6 +1016,19 @@
         ],
         "region": "us"
       },
+      "668561babc1490a2f408f30d": {
+        "id": "6a1610bebdf296985fd95603-668561babc1490a2f408f30d",
+        "slug": "48-hours-2",
+        "gridKey": "668561babc1490a2f408f30d",
+        "name": "48 Hours",
+        "logo": "https://provider-static.plex.tv/3/epg/channels/logos/gracenote/3448598d6e7d76222339ebab0fe195fb.png",
+        "callSign": "48HOURS",
+        "key": "/library/parts/6a1610bebdf296985fd95603-668561babc1490a2f408f30d.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "us"
+      },
       "6449369f243fbe342a9c0b4d": {
         "id": "6a1610bebdf296985fd95603-6449369f243fbe342a9c0b4d",
         "slug": "forensic-files",
@@ -1034,7 +1047,7 @@
         "slug": "cold-case-files-by-aande",
         "gridKey": "63f693a3fff2b53dc9ddc8f4",
         "name": "Cold Case Files by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/397a22d3-edbe-4dab-830e-030e4d2b7680/Cold_Case_Files_channel_logo_4c_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7908be53-0dc6-46ee-8a4f-a22506e6fb2a/National_Cold_Case_Month_channel_logo_4c_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4.m3u8",
         "genres": [
@@ -1445,19 +1458,6 @@
         ],
         "region": "us"
       },
-      "6377ea0e13bb6b1757e14695": {
-        "id": "6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695",
-        "slug": "livenow-from-fox",
-        "gridKey": "6377ea0e13bb6b1757e14695",
-        "name": "LiveNOW from FOX",
-        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png",
-        "callSign": "LIVENOW",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "us"
-      },
       "66b4fcc2530e39ea2ee79545": {
         "id": "6a1610bebdf296985fd95603-66b4fcc2530e39ea2ee79545",
         "slug": "cnn-headlines",
@@ -1471,6 +1471,19 @@
         ],
         "region": "us"
       },
+      "668561babc1490a2f408f30c": {
+        "id": "6a1610bebdf296985fd95603-668561babc1490a2f408f30c",
+        "slug": "60-minutes",
+        "gridKey": "668561babc1490a2f408f30c",
+        "name": "60 Minutes",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",
+        "callSign": "60MINS",
+        "key": "/library/parts/6a1610bebdf296985fd95603-668561babc1490a2f408f30c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "us"
+      },
       "646fab0e43d6d6838db81a6a": {
         "id": "6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a",
         "slug": "bbc-news-north-america",
@@ -1479,6 +1492,19 @@
         "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png",
         "callSign": "BBCWDE",
         "key": "/library/parts/6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "us"
+      },
+      "6377ea0e13bb6b1757e14695": {
+        "id": "6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695",
+        "slug": "livenow-from-fox",
+        "gridKey": "6377ea0e13bb6b1757e14695",
+        "name": "LiveNOW from FOX",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png",
+        "callSign": "LIVENOW",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695.m3u8",
         "genres": [
           "News"
         ],
@@ -2012,6 +2038,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "us"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "6a1610bebdf296985fd95603-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -4760,6 +4799,19 @@
         ],
         "region": "us"
       },
+      "6a3c23ef776737893b3d488f": {
+        "id": "6a1610bebdf296985fd95603-6a3c23ef776737893b3d488f",
+        "slug": "judge-judy",
+        "gridKey": "6a3c23ef776737893b3d488f",
+        "name": "Judge Judy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",
+        "callSign": "JDGJUDY",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a3c23ef776737893b3d488f.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "6876f82754325376973fd316": {
         "id": "6a1610bebdf296985fd95603-6876f82754325376973fd316",
         "slug": "paternity-court",
@@ -4781,6 +4833,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/48adab71-cd9a-4f87-8a77-e0b687825727/NoseyConfess_Logo_Color_Dark_1500x1000RDXwhitetext.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6438ee5a83766488c3bc9d4d.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
+      "6a3c23ec97845f69835ac533": {
+        "id": "6a1610bebdf296985fd95603-6a3c23ec97845f69835ac533",
+        "slug": "hot-bench",
+        "gridKey": "6a3c23ec97845f69835ac533",
+        "name": "HOT BENCH",
+        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/687165d324d452de9f3c3f8f35d64ed7.png",
+        "callSign": "HTBENCH",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a3c23ec97845f69835ac533.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -5002,19 +5067,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/104e6194-484e-4e84-823d-9b1e7936361e/xDoctors_Plex_Channel_Logo_v01_John_LopezRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6720271c727d52d7a0e0b495.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "686451cd75b26c0a7c946bcb": {
-        "id": "6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb",
-        "slug": "geraldo-rivera",
-        "gridKey": "686451cd75b26c0a7c946bcb",
-        "name": "Geraldo Rivera",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/971bcaab-304f-493c-b22a-67e866097f83/GeraldoRivera_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-686451cd75b26c0a7c946bcb.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -7121,19 +7173,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/4104a44f-21ec-4ee6-8eca-7d151cfbd85d/Novelas_de_Siempre_Channel-Icon_ColorRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-68e03ae418c739b4d91a6a57.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "69b34723983c968e9cdb2c86": {
-        "id": "6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86",
-        "slug": "caracol-mix",
-        "gridKey": "69b34723983c968e9cdb2c86",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69b34723983c968e9cdb2c86.m3u8",
         "genres": [
           "En Español"
         ],
@@ -10248,6 +10287,19 @@
         ],
         "region": "ca"
       },
+      "6a90b2b5c0870218305e909b": {
+        "id": "647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a90b2b5c0870218305e909b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "ca"
+      },
       "6761f91555e174e95ccc4e4c": {
         "id": "647f8d22a2fc3fadb4721685-6761f91555e174e95ccc4e4c",
         "slug": "tennis",
@@ -13095,19 +13147,6 @@
         ],
         "region": "ca"
       },
-      "69a202f60f8d297b3f6ac0f4": {
-        "id": "647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4",
-        "slug": "taste",
-        "gridKey": "69a202f60f8d297b3f6ac0f4",
-        "name": "Taste",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69a202f60f8d297b3f6ac0f4.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
       "63d6f9b67c3070b6e06e0aad": {
         "id": "647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad",
         "slug": "garden-with-monty-don",
@@ -13922,19 +13961,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "ca"
-      },
-      "69b34723983c968e9cdb2c86": {
-        "id": "647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86",
-        "slug": "caracol-mix",
-        "gridKey": "69b34723983c968e9cdb2c86",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0481d833-0e0b-4aba-88c4-56896b5991c9/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69b34723983c968e9cdb2c86.m3u8",
         "genres": [
           "En Español"
         ],
@@ -16082,6 +16108,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-64ac687b4192b4e1bab96279.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "gb"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "64305451fc3be5947773c339-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -20275,6 +20314,19 @@
         ],
         "region": "au"
       },
+      "6a90b2b5c0870218305e909b": {
+        "id": "697140a85d851f5e69414688-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6a90b2b5c0870218305e909b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "au"
+      },
       "65e0c8c6d899afe817b9d224": {
         "id": "697140a85d851f5e69414688-65e0c8c6d899afe817b9d224",
         "slug": "cricket-gold",
@@ -22277,19 +22329,6 @@
         ],
         "region": "au"
       },
-      "69a202f60f8d297b3f6ac0f4": {
-        "id": "697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4",
-        "slug": "taste",
-        "gridKey": "69a202f60f8d297b3f6ac0f4",
-        "name": "Taste",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8ce74dbc-9546-4203-b2e9-06129ee547ae/Taste_Logo_Colour_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69a202f60f8d297b3f6ac0f4.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "au"
-      },
       "5f0641d3e8ffda004033b16e": {
         "id": "697140a85d851f5e69414688-5f0641d3e8ffda004033b16e",
         "slug": "the-design-network",
@@ -24107,6 +24146,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -27117,19 +27169,6 @@
         ],
         "region": "mx"
       },
-      "69b3481702912c2ce7ad9a3d": {
-        "id": "608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d",
-        "slug": "caracol-mix-2",
-        "gridKey": "69b3481702912c2ce7ad9a3d",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-69b3481702912c2ce7ad9a3d.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "mx"
-      },
       "6490e59918a55242eea95995": {
         "id": "608049aefa2b8ae93c2c3a63-6490e59918a55242eea95995",
         "slug": "todo-novelas",
@@ -27853,6 +27892,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63f914bffe2c3d32e1a7929f.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "mx"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -30811,19 +30863,6 @@
         ],
         "region": "es"
       },
-      "69b3481702912c2ce7ad9a3d": {
-        "id": "643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d",
-        "slug": "caracol-mix-2",
-        "gridKey": "69b3481702912c2ce7ad9a3d",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-69b3481702912c2ce7ad9a3d.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "es"
-      },
       "68864d2d062dc5a487f806e0": {
         "id": "643054b1fc3be59477853717-68864d2d062dc5a487f806e0",
         "slug": "todo-pasion",
@@ -31495,6 +31534,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-6761f91555e174e95ccc4e4c.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "es"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "643054b1fc3be59477853717-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -35012,6 +35064,19 @@
         ],
         "region": "fr"
       },
+      "6a90b2b5c0870218305e909b": {
+        "id": "6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6a90b2b5c0870218305e909b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "fr"
+      },
       "6761f91555e174e95ccc4e4c": {
         "id": "6430aa45fc3be5947780904e-6761f91555e174e95ccc4e4c",
         "slug": "tennis",
@@ -38160,6 +38225,19 @@
         ],
         "region": "de"
       },
+      "6a90b2b5c0870218305e909b": {
+        "id": "635177ecff6cd5445d7f9b0b-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6a90b2b5c0870218305e909b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
       "6761f91555e174e95ccc4e4c": {
         "id": "635177ecff6cd5445d7f9b0b-6761f91555e174e95ccc4e4c",
         "slug": "tennis",
@@ -40814,19 +40892,6 @@
         ],
         "region": "br"
       },
-      "69b3481702912c2ce7ad9a3d": {
-        "id": "646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d",
-        "slug": "caracol-mix-2",
-        "gridKey": "69b3481702912c2ce7ad9a3d",
-        "name": "Caracol Mix",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7cf438f7-5c5e-4140-987b-d93264d02247/Caracol_Mix_WHT_log.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-69b3481702912c2ce7ad9a3d.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "br"
-      },
       "6683f650702b9db9f8177250": {
         "id": "646546f35db8ada4c8edd7e5-6683f650702b9db9f8177250",
         "slug": "runtime-crime",
@@ -41654,6 +41719,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/228a3200-2cb9-44a1-b076-3f12aae543da/PLEX_1500X1000_PNG_tBLUE_RDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-6227c215c9f485cc7afe8c41.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "br"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "646546f35db8ada4c8edd7e5-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -44716,6 +44794,19 @@
         ],
         "region": "in"
       },
+      "6a90b2b5c0870218305e909b": {
+        "id": "698f7631338300003d436270-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6a90b2b5c0870218305e909b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "in"
+      },
       "67828ebf37cd7764c53489b3": {
         "id": "698f7631338300003d436270-67828ebf37cd7764c53489b3",
         "slug": "dfb-play-tv",
@@ -46949,6 +47040,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49265,6 +49369,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -51802,6 +51919,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -54708,6 +54838,19 @@
         ],
         "region": "nl"
       },
+      "6aa04fa6b993101ad3a6b479": {
+        "id": "5e20b730f2f8d5003d739db7-6aa04fa6b993101ad3a6b479",
+        "slug": "nfl-channel-2",
+        "gridKey": "6aa04fa6b993101ad3a6b479",
+        "name": "NFL Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ba297b95-67b2-49a2-9460-7c412e39fa9b/NFL_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa04fa6b993101ad3a6b479.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
       "66629450346b86608532dbd9": {
         "id": "5e20b730f2f8d5003d739db7-66629450346b86608532dbd9",
         "slug": "fifa-14",
@@ -54716,19 +54859,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7e7e18ee-4ee3-4557-bf42-c85b351611d3/FIFA__Logo_Rectangle_1500x1000_WHT.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66629450346b86608532dbd9.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
-      "69f4f6c2647c1d14cc38677b": {
-        "id": "5e20b730f2f8d5003d739db7-69f4f6c2647c1d14cc38677b",
-        "slug": "nfl-channel-3",
-        "gridKey": "69f4f6c2647c1d14cc38677b",
-        "name": "NFL Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f4f6c2647c1d14cc38677b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -54911,6 +55041,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b1c4bff-1077-4ba0-a8d6-f4c39365f126/PickleTV_1500x1000_3_ChannelLogoLight_Casey_Murawskirdx.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "6a90b2b5c0870218305e909b": {
+        "id": "5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b",
+        "slug": "tennis-tv",
+        "gridKey": "6a90b2b5c0870218305e909b",
+        "name": "Tennis TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b0aa99bd-2d1a-4823-a864-7b0fa0d60613/tennis_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a90b2b5c0870218305e909b.m3u8",
         "genres": [
           "Sports"
         ],
