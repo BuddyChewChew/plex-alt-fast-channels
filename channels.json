@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T12:11:26.703170+00:00",
+  "generated": "2026-09-28T22:42:52.558507+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -4635,7 +4635,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -4812,6 +4812,19 @@
         ],
         "region": "us"
       },
+      "67d9a3d663c5439aeaf61305": {
+        "id": "6a1610bebdf296985fd95603-67d9a3d663c5439aeaf61305",
+        "slug": "the-bold-and-the-beautiful",
+        "gridKey": "67d9a3d663c5439aeaf61305",
+        "name": "The Bold and the Beautiful",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-67d9a3d663c5439aeaf61305.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "68d15e51c80ec69e0bd8965b": {
         "id": "6a1610bebdf296985fd95603-68d15e51c80ec69e0bd8965b",
         "slug": "mrbeast",
@@ -4890,14 +4903,40 @@
         ],
         "region": "us"
       },
-      "67d9a3d663c5439aeaf61305": {
-        "id": "6a1610bebdf296985fd95603-67d9a3d663c5439aeaf61305",
-        "slug": "the-bold-and-the-beautiful",
-        "gridKey": "67d9a3d663c5439aeaf61305",
-        "name": "The Bold and the Beautiful",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/761a81a4-bd1e-4250-a143-d5f7359414fd/The_Bold_And_The_Beautiful_TT_WHT_RDX.png",
+      "5f5132da62fe160040f26b5b": {
+        "id": "6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b",
+        "slug": "judge-faith",
+        "gridKey": "5f5132da62fe160040f26b5b",
+        "name": "Judge Faith",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-67d9a3d663c5439aeaf61305.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
+      "685f0f5c593aba51f211823b": {
+        "id": "6a1610bebdf296985fd95603-685f0f5c593aba51f211823b",
+        "slug": "wendy-williams",
+        "gridKey": "685f0f5c593aba51f211823b",
+        "name": "Wendy Williams",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/37b9e1ab-3a6e-4e0e-9979-7eea3a17ace4/WendyWilliams_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-685f0f5c593aba51f211823b.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
+      "6745dca72832b870acf53220": {
+        "id": "6a1610bebdf296985fd95603-6745dca72832b870acf53220",
+        "slug": "365blk",
+        "gridKey": "6745dca72832b870acf53220",
+        "name": "365BLK [FAST]",
+        "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png",
+        "callSign": "365BLKF",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6745dca72832b870acf53220.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -4963,45 +5002,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f351d697-1e1f-4e7d-86c7-5995698e593f/CNN_Originals_ChannelLogo_Dark_1500x1000_2025_-_Grace_Hartwig.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66ad6025cb5d3b7fb5011c2d.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "5f5132da62fe160040f26b5b": {
-        "id": "6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b",
-        "slug": "judge-faith",
-        "gridKey": "5f5132da62fe160040f26b5b",
-        "name": "Judge Faith",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7d32af01-5d94-4992-809c-4dd54b7099ea/judge_faith_White.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-5f5132da62fe160040f26b5b.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "685f0f5c593aba51f211823b": {
-        "id": "6a1610bebdf296985fd95603-685f0f5c593aba51f211823b",
-        "slug": "wendy-williams",
-        "gridKey": "685f0f5c593aba51f211823b",
-        "name": "Wendy Williams",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/37b9e1ab-3a6e-4e0e-9979-7eea3a17ace4/WendyWilliams_Logo_1500x1000_DarkBG_-_Chris_Connors.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-685f0f5c593aba51f211823b.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "6745dca72832b870acf53220": {
-        "id": "6a1610bebdf296985fd95603-6745dca72832b870acf53220",
-        "slug": "365blk",
-        "gridKey": "6745dca72832b870acf53220",
-        "name": "365BLK [FAST]",
-        "logo": "https://provider-static.plex.tv/1/epg/channels/logos/gracenote/15a11cfd0f014785527aa0c87cbf6752.png",
-        "callSign": "365BLKF",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6745dca72832b870acf53220.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -6289,19 +6289,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "us"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "6a1610bebdf296985fd95603-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -12255,7 +12242,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -13558,19 +13545,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/moreu_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6112a9139894c8002c6cb87f.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "ca"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "647f8d22a2fc3fadb4721685-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -17548,7 +17522,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -18565,19 +18539,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/37d8221c-4a9a-4f08-8a54-6d8ce4049181/thedesignnetwork_tdn_5_Color_logo.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f0641d3e8ffda004033b16e.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "gb"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "64305451fc3be5947773c339-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -21684,7 +21645,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -22441,19 +22402,6 @@
         "logo": "https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png",
         "callSign": "GUSTOTV",
         "key": "/library/parts/697140a85d851f5e69414688-5f8746eabd529300418246d9.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "au"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "697140a85d851f5e69414688-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -25287,7 +25235,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -26070,19 +26018,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-68b74890b5b437bf872b6b72.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nz"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -28812,7 +28747,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -29244,19 +29179,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63894c1965b848bf2c8a7800.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "mx"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -32506,7 +32428,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -33042,19 +32964,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cc603999-a138-434c-9bd9-ddad49009913/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-65cd316a40ab06259e8168a0.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "es"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "643054b1fc3be59477853717-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -35836,7 +35745,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -36281,19 +36190,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-63894c1965b848bf2c8a7800.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "fr"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "6430aa45fc3be5947780904e-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -39062,7 +38958,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -39546,19 +39442,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/52b33d5e-f48e-472d-896c-94759eccc1e4/5-Minute_Crafts_1500x1000_White.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-63894c1965b848bf2c8a7800.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "635177ecff6cd5445d7f9b0b-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -42288,7 +42171,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -42785,19 +42668,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/47127441-d5b6-42a3-b641-a7c076d20940/Fashion_PNG_w__transparent_background__All_white_Logo_for_Attribution__-_Yuri_Alexandrov.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-6490c01f3b3ce9e1aaad95be.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "br"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -45137,7 +45007,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -45608,19 +45478,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/7887d400-2355-41eb-9e9f-3ea13b3f949c/Craftsy_logo_color.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-6365779dde08f8eec6c3f21f.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "in"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "698f7631338300003d436270-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -47570,7 +47427,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -47937,19 +47794,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "jp"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -49873,7 +49717,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -50240,19 +50084,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "kr"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -52722,7 +52553,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -53310,19 +53141,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "se"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -55675,7 +55493,7 @@
         "slug": "dr-phil",
         "gridKey": "66e4cbef38de9754b6b13e90",
         "name": "Dr. Phil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a07750e7-11a2-4563-a402-40ad1d9e7392/xPlex_DrPhil_Channel_Logo_v01RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4bb7ff60-6011-4afa-aa7f-70e38e6f4dcf/Plex_BODP_logoWHT_BLUE_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66e4cbef38de9754b6b13e90.m3u8",
         "genres": [
@@ -56224,19 +56042,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/31755abd-d65b-4321-b5fe-20cefeb48031/ELChannel_Logo_whitelogo_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-67294a601055ef3897c73477.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "nl"
-      },
-      "65b80306e5cf85050598aba4": {
-        "id": "5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4",
-        "slug": "made-it-myself-tv",
-        "gridKey": "65b80306e5cf85050598aba4",
-        "name": "Made It Myself TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/89dc782a-d85c-468c-8e3c-a5973d824ec6/MIMTV_Logo_1500x1000_LightBackgrounds.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65b80306e5cf85050598aba4.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
