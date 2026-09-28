@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T21:19:33.105967+00:00",
+  "generated": "2026-09-28T02:14:37.571373+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -457,6 +457,45 @@
         ],
         "region": "us"
       },
+      "6aa73204fc710687a8b4db3f": {
+        "id": "6a1610bebdf296985fd95603-6aa73204fc710687a8b4db3f",
+        "slug": "rookie-blue-2",
+        "gridKey": "6aa73204fc710687a8b4db3f",
+        "name": "Rookie Blue",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/19d7ca0a-bd96-4451-95b4-98f2150bd1e9/RookieBlue_Logo_White_-_Kyle_Van_VonderenRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa73204fc710687a8b4db3f.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
+      "6aa77752fc710687a8b4db43": {
+        "id": "6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43",
+        "slug": "lionsgate-network",
+        "gridKey": "6aa77752fc710687a8b4db43",
+        "name": "Lionsgate Network",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b37f858b-d7d1-4456-bc42-871dd4b9c1d9/Plex_LGNetwork_Logo_Light_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa77752fc710687a8b4db43.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
+      "6aa775d577a95da9cd6a3006": {
+        "id": "6a1610bebdf296985fd95603-6aa775d577a95da9cd6a3006",
+        "slug": "pulse",
+        "gridKey": "6aa775d577a95da9cd6a3006",
+        "name": "Pulse",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/01a708ab-f4f1-4612-aca9-43686348b630/Plex_Pulse_Logo_Light_1500x1000RDXWHT.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa775d577a95da9cd6a3006.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
       "68dcbb869beaa3a402966dba": {
         "id": "6a1610bebdf296985fd95603-68dcbb869beaa3a402966dba",
         "slug": "the-graham-norton-show",
@@ -686,6 +725,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/8e9a9c73-613c-47d4-8400-184fda888fbd/Christmas_PLus_WHITE-_1500x1000rdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
+      "6aa779185ceba459edaf9997": {
+        "id": "6a1610bebdf296985fd95603-6aa779185ceba459edaf9997",
+        "slug": "scandal",
+        "gridKey": "6aa779185ceba459edaf9997",
+        "name": "Scandal",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0813fc98-7d64-4d08-8edb-2e48dc886d36/Plex_SCANDAL_Logo_Light_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa779185ceba459edaf9997.m3u8",
         "genres": [
           "Movies"
         ],
@@ -1450,8 +1502,8 @@
         "slug": "cbs-news-24-7",
         "gridKey": "6571f43a1d2aae780d597196",
         "name": "CBS News 24/7",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87b48057-7bc7-45af-bae8-d3b713a8733d/CBS-News-24-7-WHITE-1500x1000Vert_Stack__1_.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/0/epg/channels/logos/gracenote/0dafe6e1678008304620ef7345c77953.png",
+        "callSign": "CBSNSTR",
         "key": "/library/parts/6a1610bebdf296985fd95603-6571f43a1d2aae780d597196.m3u8",
         "genres": [
           "News"
@@ -1515,8 +1567,8 @@
         "slug": "cbs-news-los-angeles",
         "gridKey": "65970654fca6056ca69e3e41",
         "name": "CBS News Los Angeles",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9ed16f74-c3d5-4a8c-9672-db8482a30a97/PlutoTV_Plex_Logo_DarkBkgd_1500x1000_CBSNews_LosAngeles_v1_-_Katherine_ByramRDX.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/b/epg/channels/logos/gracenote/b7053486071cd57a12227025640fe46d.png",
+        "callSign": "CBSNWLA",
         "key": "/library/parts/6a1610bebdf296985fd95603-65970654fca6056ca69e3e41.m3u8",
         "genres": [
           "News"
@@ -1926,19 +1978,6 @@
         ],
         "region": "us"
       },
-      "695d6d7908f2e5ca97bc2a1d": {
-        "id": "6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d",
-        "slug": "victory",
-        "gridKey": "695d6d7908f2e5ca97bc2a1d",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e0643c5a-eb0b-4aee-b23f-12a143fc6da1/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-695d6d7908f2e5ca97bc2a1d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "69c2a33b77977728f4e71cbd": {
         "id": "6a1610bebdf296985fd95603-69c2a33b77977728f4e71cbd",
         "slug": "slvr-sports-and-entertainment-slvr-socal",
@@ -2290,19 +2329,6 @@
         ],
         "region": "us"
       },
-      "695d6e5fe625040869eaebec": {
-        "id": "6a1610bebdf296985fd95603-695d6e5fe625040869eaebec",
-        "slug": "victory-2",
-        "gridKey": "695d6e5fe625040869eaebec",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e2e7dd5e-7be9-41c5-9a3a-55b1af668062/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-695d6e5fe625040869eaebec.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
       "69b845bb8b510f5b7fff04b2": {
         "id": "6a1610bebdf296985fd95603-69b845bb8b510f5b7fff04b2",
         "slug": "slvr-sports-and-entertainment-slvr",
@@ -2610,19 +2636,6 @@
         "logo": "https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",
         "callSign": "FIGHTNS",
         "key": "/library/parts/6a1610bebdf296985fd95603-606605549dbfca002d2ae877.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "us"
-      },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "6a1610bebdf296985fd95603-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66fbfd67bde73c589ab2af42.m3u8",
         "genres": [
           "Sports"
         ],
@@ -2953,6 +2966,19 @@
         ],
         "region": "us"
       },
+      "64f0d3ddc2bc9b9001d46ea4": {
+        "id": "6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4",
+        "slug": "reelz-famous-and-infamous",
+        "gridKey": "64f0d3ddc2bc9b9001d46ea4",
+        "name": "REELZ Famous & Infamous",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "670694b4836808fbb1561c91": {
         "id": "6a1610bebdf296985fd95603-670694b4836808fbb1561c91",
         "slug": "million-dollar-listing-vault",
@@ -2966,14 +2992,14 @@
         ],
         "region": "us"
       },
-      "6674bc83a9c715b93ca6ca92": {
-        "id": "6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92",
-        "slug": "untold-stories-of-the-er",
-        "gridKey": "6674bc83a9c715b93ca6ca92",
-        "name": "Untold Stories of the ER",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
+      "69d940018061ebfbca58c32c": {
+        "id": "6a1610bebdf296985fd95603-69d940018061ebfbca58c32c",
+        "slug": "medical-incredible",
+        "gridKey": "69d940018061ebfbca58c32c",
+        "name": "Medical Incredible",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d56a778a-d52e-440b-847d-a7e118b1c043/MedicalIncredible_Logo_Dark_1500x1000.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-69d940018061ebfbca58c32c.m3u8",
         "genres": [
           "Reality"
         ],
@@ -2987,32 +3013,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c8f1b6ec-268a-46d3-9b0c-0934c9b89680/Love_Marriage_Logo_Dark_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66a1b02777649467da169f14.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "64275805efc65caa7e9514d6": {
-        "id": "6a1610bebdf296985fd95603-64275805efc65caa7e9514d6",
-        "slug": "mayday-air-disaster-2",
-        "gridKey": "64275805efc65caa7e9514d6",
-        "name": "Mayday: Air Disaster",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64275805efc65caa7e9514d6.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "69d940018061ebfbca58c32c": {
-        "id": "6a1610bebdf296985fd95603-69d940018061ebfbca58c32c",
-        "slug": "medical-incredible",
-        "gridKey": "69d940018061ebfbca58c32c",
-        "name": "Medical Incredible",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d56a778a-d52e-440b-847d-a7e118b1c043/MedicalIncredible_Logo_Dark_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69d940018061ebfbca58c32c.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3122,6 +3122,45 @@
         ],
         "region": "us"
       },
+      "64275805efc65caa7e9514d6": {
+        "id": "6a1610bebdf296985fd95603-64275805efc65caa7e9514d6",
+        "slug": "mayday-air-disaster-2",
+        "gridKey": "64275805efc65caa7e9514d6",
+        "name": "Mayday: Air Disaster",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/56055a21-e529-4b54-8f9e-42cf8fc41bc5/MaydayAirDisaster_Logo_FullColour_1500x1000_-_Patrick_LeeRED.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64275805efc65caa7e9514d6.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "6a1610bebdf296985fd95603-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "67be3cc41a98aab3729899ba": {
+        "id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
+        "slug": "chaos-on-cam-by-aande",
+        "gridKey": "67be3cc41a98aab3729899ba",
+        "name": "Chaos on Cam by A&E",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf5b9071-33cc-4eab-a25d-1b291bbde740/Chaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "66a2d97c94b6a49cb5054d77": {
         "id": "6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77",
         "slug": "rig-tv",
@@ -3130,6 +3169,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cab375d6-3971-46c5-bd2e-66dc640879d2/RIGTV_Logo_White_1500X1000_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66a2d97c94b6a49cb5054d77.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6674bc83a9c715b93ca6ca92": {
+        "id": "6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92",
+        "slug": "untold-stories-of-the-er",
+        "gridKey": "6674bc83a9c715b93ca6ca92",
+        "name": "Untold Stories of the ER",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6674bc83a9c715b93ca6ca92.m3u8",
         "genres": [
           "Reality"
         ],
@@ -3208,19 +3260,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dd9af438-b087-47c9-bd15-d7900fffb640/Plex_LogoWhite_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-635847d0d3a668f1cafc1f9d.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
-      "67be3cc41a98aab3729899ba": {
-        "id": "6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba",
-        "slug": "chaos-on-cam-by-aande",
-        "gridKey": "67be3cc41a98aab3729899ba",
-        "name": "Chaos on Cam by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cf5b9071-33cc-4eab-a25d-1b291bbde740/Chaos_On_Cam_By_AE_channel_logo_4c_1500x1000_-_Laura_Connolly.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-67be3cc41a98aab3729899ba.m3u8",
         "genres": [
           "Reality"
         ],
@@ -4513,19 +4552,6 @@
         ],
         "region": "us"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "6a1610bebdf296985fd95603-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
       "66a2e7fe94b6a49cb5054d7b": {
         "id": "6a1610bebdf296985fd95603-66a2e7fe94b6a49cb5054d7b",
         "slug": "mr-bean",
@@ -4599,19 +4625,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/095a8052-aeaf-4d68-afcb-9454ed96b8ab/PrimetimeSoaps_plex_dark_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66b13a1f4893b3d48c72db19.m3u8",
-        "genres": [
-          "Daytime TV & Games"
-        ],
-        "region": "us"
-      },
-      "64f0d3ddc2bc9b9001d46ea4": {
-        "id": "6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4",
-        "slug": "reelz-famous-and-infamous",
-        "gridKey": "64f0d3ddc2bc9b9001d46ea4",
-        "name": "REELZ Famous & Infamous",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8bcf761d-cf7d-4ee5-84f8-985dcef2cf78/REELZ_Famous_Infamous_1500x1000_Logo_Light_-_Kenneth_Kirtley.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64f0d3ddc2bc9b9001d46ea4.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -5462,6 +5475,19 @@
         ],
         "region": "us"
       },
+      "6a8767b6c0e9ea735da07fd9": {
+        "id": "6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9",
+        "slug": "paranormal-chronicles",
+        "gridKey": "6a8767b6c0e9ea735da07fd9",
+        "name": "Paranormal Chronicles",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5cb43bbc-77b3-45e2-abd1-60128aff6009/ParanormalChronicles_Logo_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8767b6c0e9ea735da07fd9.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
       "6a10ad97b05301ef36a6a8e6": {
         "id": "6a1610bebdf296985fd95603-6a10ad97b05301ef36a6a8e6",
         "slug": "i-shouldnt-be-alive",
@@ -5678,6 +5704,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/09e8c6b6-368e-4275-b974-fe5e1921f64d/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63584a0cf8e2be1350f802a4.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "6a1610bebdf296985fd95603-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -6554,6 +6593,19 @@
         ],
         "region": "us"
       },
+      "6615522e50e81fa51eb0df60": {
+        "id": "6a1610bebdf296985fd95603-6615522e50e81fa51eb0df60",
+        "slug": "sonic-the-hedgehog",
+        "gridKey": "6615522e50e81fa51eb0df60",
+        "name": "Sonic The Hedgehog",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df60.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "us"
+      },
       "65fb337f00433c8a0799ce98": {
         "id": "6a1610bebdf296985fd95603-65fb337f00433c8a0799ce98",
         "slug": "pbs-retro",
@@ -6671,19 +6723,6 @@
         ],
         "region": "us"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "6a1610bebdf296985fd95603-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
       "6449369eb3ff17382cae57ff": {
         "id": "6a1610bebdf296985fd95603-6449369eb3ff17382cae57ff",
         "slug": "filmrise-kids",
@@ -6744,19 +6783,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f8f7c285-f574-4037-84cd-131a22066e57/Channel_Logo_dark_1500x1000_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60d4eddeb2fdec002c141137.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "us"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "6a1610bebdf296985fd95603-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -7022,19 +7048,6 @@
         ],
         "region": "us"
       },
-      "64149ba2d02609d8a7127ee8": {
-        "id": "6a1610bebdf296985fd95603-64149ba2d02609d8a7127ee8",
-        "slug": "anger-management-en-espanol",
-        "gridKey": "64149ba2d02609d8a7127ee8",
-        "name": "Anger Management en español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a663e04f-8322-45f6-a64d-bafe754d4e09/AngrMngmnt_logo_dark_1500x1000_-_Chris_Connors.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64149ba2d02609d8a7127ee8.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "656fa24bdbcce28c3a417415": {
         "id": "6a1610bebdf296985fd95603-656fa24bdbcce28c3a417415",
         "slug": "the-world-poker-tour-3",
@@ -7121,6 +7134,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ac25af2a-e4a5-45a1-a54c-715ab8718060/FilmRise_SeriesGratis_1500x1000_logo_light.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5803.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a3ec58b4ac530f3bac10721": {
+        "id": "6a1610bebdf296985fd95603-6a3ec58b4ac530f3bac10721",
+        "slug": "cindie-tv-3",
+        "gridKey": "6a3ec58b4ac530f3bac10721",
+        "name": "Cindie TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5a65bcc2-33a5-413b-9bd1-75c976269317/Cindie_TV_Horizontal_Attribution_Logo.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a3ec58b4ac530f3bac10721.m3u8",
         "genres": [
           "En Español"
         ],
@@ -8226,19 +8252,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aa882b26-2283-430c-8e7f-8468227ad362/anime247_logo_dark_-_Jason_Hwang.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-686452b8fbd6d9b449de2be3.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
-      "6615522e50e81fa51eb0df60": {
-        "id": "6a1610bebdf296985fd95603-6615522e50e81fa51eb0df60",
-        "slug": "sonic-the-hedgehog",
-        "gridKey": "6615522e50e81fa51eb0df60",
-        "name": "Sonic The Hedgehog",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6615522e50e81fa51eb0df60.m3u8",
         "genres": [
           "Global"
         ],
@@ -9962,19 +9975,6 @@
         ],
         "region": "ca"
       },
-      "65e179f8d581830d25124e1d": {
-        "id": "647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d",
-        "slug": "cbs-news-canada",
-        "gridKey": "65e179f8d581830d25124e1d",
-        "name": "CBS News Canada",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cc6a6428-8c18-4f72-9809-1084e10e7359/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-65e179f8d581830d25124e1d.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "ca"
-      },
       "69b9d2ce370077bcd1525970": {
         "id": "647f8d22a2fc3fadb4721685-69b9d2ce370077bcd1525970",
         "slug": "cbc-news-windsor",
@@ -10048,6 +10048,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "ca"
+      },
+      "668561babc1490a2f408f30c": {
+        "id": "647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c",
+        "slug": "60-minutes",
+        "gridKey": "668561babc1490a2f408f30c",
+        "name": "60 Minutes",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",
+        "callSign": "60MINS",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c.m3u8",
         "genres": [
           "News"
         ],
@@ -10347,19 +10360,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6a10994ab05301ef36a6a8e2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "ca"
-      },
-      "695d6e5fe625040869eaebec": {
-        "id": "647f8d22a2fc3fadb4721685-695d6e5fe625040869eaebec",
-        "slug": "victory-2",
-        "gridKey": "695d6e5fe625040869eaebec",
-        "name": "Victory+",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e2e7dd5e-7be9-41c5-9a3a-55b1af668062/Victory_plus_WHT.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-695d6e5fe625040869eaebec.m3u8",
         "genres": [
           "Sports"
         ],
@@ -10750,19 +10750,6 @@
         "logo": "https://provider-static.plex.tv/f/epg/channels/logos/gracenote/f6e88714b4dae6026720d36ad9de611f.png",
         "callSign": "FIGHTNS",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-606605549dbfca002d2ae877.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "ca"
-      },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "647f8d22a2fc3fadb4721685-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-66fbfd67bde73c589ab2af42.m3u8",
         "genres": [
           "Sports"
         ],
@@ -11192,6 +11179,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6674bc83a9c715b93ca6ca92.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "ca"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "647f8d22a2fc3fadb4721685-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -12198,19 +12198,6 @@
         ],
         "region": "ca"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "ca"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "647f8d22a2fc3fadb4721685-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -12471,6 +12458,19 @@
         ],
         "region": "ca"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "647f8d22a2fc3fadb4721685-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
       "64b719768ec13d5dcb7e6bb4": {
         "id": "647f8d22a2fc3fadb4721685-64b719768ec13d5dcb7e6bb4",
         "slug": "supermarket-sweep",
@@ -12531,6 +12531,19 @@
         "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8c3aad2c9b28628409cee12512aecb32.png",
         "callSign": "GTVGO",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-64d2bdf1b18b113e0c610113.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "ca"
+      },
+      "6a3c23ef776737893b3d488f": {
+        "id": "647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f",
+        "slug": "judge-judy",
+        "gridKey": "6a3c23ef776737893b3d488f",
+        "name": "Judge Judy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",
+        "callSign": "JDGJUDY",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a3c23ef776737893b3d488f.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -12796,6 +12809,19 @@
         ],
         "region": "ca"
       },
+      "6a8767b6c0e9ea735da07fd9": {
+        "id": "647f8d22a2fc3fadb4721685-6a8767b6c0e9ea735da07fd9",
+        "slug": "paranormal-chronicles",
+        "gridKey": "6a8767b6c0e9ea735da07fd9",
+        "name": "Paranormal Chronicles",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5cb43bbc-77b3-45e2-abd1-60128aff6009/ParanormalChronicles_Logo_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8767b6c0e9ea735da07fd9.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "ca"
+      },
       "664292a80e0ec7b4ce5eb28c": {
         "id": "647f8d22a2fc3fadb4721685-664292a80e0ec7b4ce5eb28c",
         "slug": "startalk-tv",
@@ -12973,6 +12999,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-60a9d105d162b9002d05a60c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "ca"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "647f8d22a2fc3fadb4721685-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -13641,6 +13680,19 @@
         ],
         "region": "ca"
       },
+      "6615522e50e81fa51eb0df60": {
+        "id": "647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df60",
+        "slug": "sonic-the-hedgehog",
+        "gridKey": "6615522e50e81fa51eb0df60",
+        "name": "Sonic The Hedgehog",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df60.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "ca"
+      },
       "69a1f84e8d9f2822f6f50639": {
         "id": "647f8d22a2fc3fadb4721685-69a1f84e8d9f2822f6f50639",
         "slug": "beyblade-4",
@@ -13745,19 +13797,6 @@
         ],
         "region": "ca"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "ca"
-      },
       "5f12332eeca6a20040b328e5": {
         "id": "647f8d22a2fc3fadb4721685-5f12332eeca6a20040b328e5",
         "slug": "skwad",
@@ -13831,19 +13870,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "ca"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -14148,6 +14174,19 @@
         ],
         "region": "ca"
       },
+      "6a023b768c3c8db908ecaee4": {
+        "id": "647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4",
+        "slug": "feva-tv",
+        "gridKey": "6a023b768c3c8db908ecaee4",
+        "name": "FEVA TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5c73b746-ef57-4c46-9c93-f5a2f25e03d8/1500_x_1000_PNG_w_transparent_background_-_Johnny_MilesCOLOR_WHIT_TEXT.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "ca"
+      },
       "64b1e1217d4037206787f384": {
         "id": "647f8d22a2fc3fadb4721685-64b1e1217d4037206787f384",
         "slug": "nolly-africa-hd",
@@ -14234,19 +14273,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-62d1a58e520656fda09e609d.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "ca"
-      },
-      "6615522e50e81fa51eb0df60": {
-        "id": "647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df60",
-        "slug": "sonic-the-hedgehog",
-        "gridKey": "6615522e50e81fa51eb0df60",
-        "name": "Sonic The Hedgehog",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6615522e50e81fa51eb0df60.m3u8",
         "genres": [
           "Global"
         ],
@@ -15309,10 +15335,10 @@
       },
       "6648d6f0a16b3a50177f4dc0": {
         "id": "64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0",
-        "slug": "great-romance",
+        "slug": "great-christmas",
         "gridKey": "6648d6f0a16b3a50177f4dc0",
-        "name": "GREAT! romance",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/34f15526-0e8a-4d84-aef9-5b1714bbd3ee/Plex_For_Dark_BG_1500x1000_GREAT_RomanceRDX.png",
+        "name": "GREAT! Christmas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c97af2ba-a804-4761-a65a-064d3fb912e7/Plex_For_Dark_BG_1500x1000_GREAT_christmas__1__-_Nick_FoundoukisWHT_TEXT_W_GREENRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6648d6f0a16b3a50177f4dc0.m3u8",
         "genres": [
@@ -15762,19 +15788,6 @@
         ],
         "region": "gb"
       },
-      "65e17b53d581830d25124e21": {
-        "id": "64305451fc3be5947773c339-65e17b53d581830d25124e21",
-        "slug": "cbs-news-united-kingdom",
-        "gridKey": "65e17b53d581830d25124e21",
-        "name": "CBS News United Kingdom",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ebc60563-a74c-438d-b1a0-6c96cf07a8fa/CBS_WHT3017a837a5b62a0e9cdc8ab8fdd8f134RDX.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-65e17b53d581830d25124e21.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "gb"
-      },
       "60089d90f682a3002c348299": {
         "id": "64305451fc3be5947773c339-60089d90f682a3002c348299",
         "slug": "euronews",
@@ -15783,6 +15796,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/4d63af64-c260-4f5f-aac1-240aeaa36e90/Plex-WURL_Euronews-Logos_EN_-_astrid_collomb.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-60089d90f682a3002c348299.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "gb"
+      },
+      "668561babc1490a2f408f30c": {
+        "id": "64305451fc3be5947773c339-668561babc1490a2f408f30c",
+        "slug": "60-minutes",
+        "gridKey": "668561babc1490a2f408f30c",
+        "name": "60 Minutes",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/82812784b8473a95c27de471925a490c.png",
+        "callSign": "60MINS",
+        "key": "/library/parts/64305451fc3be5947773c339-668561babc1490a2f408f30c.m3u8",
         "genres": [
           "News"
         ],
@@ -16563,19 +16589,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c5d80a41-eddf-465e-8d05-174ad28ea646/Swerve_Womens_Sports_1500X1000_For_Dark_Backgrounds_VerticalRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6a109508cd23e9639dc7e94a.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "gb"
-      },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "64305451fc3be5947773c339-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-66fbfc8ebde73c589ab2af40.m3u8",
         "genres": [
           "Sports"
         ],
@@ -17504,19 +17517,6 @@
         ],
         "region": "gb"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "64305451fc3be5947773c339-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "gb"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "64305451fc3be5947773c339-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -17655,6 +17655,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
+      "6a3c23ef776737893b3d488f": {
+        "id": "64305451fc3be5947773c339-6a3c23ef776737893b3d488f",
+        "slug": "judge-judy",
+        "gridKey": "6a3c23ef776737893b3d488f",
+        "name": "Judge Judy",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0c434858-9cab-4ba6-a5ff-9347b2f337d6/JUDGEJUDY_LIGHT-LOGO_wht.png",
+        "callSign": "JDGJUDY",
+        "key": "/library/parts/64305451fc3be5947773c339-6a3c23ef776737893b3d488f.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -18076,6 +18089,19 @@
         ],
         "region": "gb"
       },
+      "6a8767b6c0e9ea735da07fd9": {
+        "id": "64305451fc3be5947773c339-6a8767b6c0e9ea735da07fd9",
+        "slug": "paranormal-chronicles",
+        "gridKey": "6a8767b6c0e9ea735da07fd9",
+        "name": "Paranormal Chronicles",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5cb43bbc-77b3-45e2-abd1-60128aff6009/ParanormalChronicles_Logo_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a8767b6c0e9ea735da07fd9.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "gb"
+      },
       "6470477fe536e0faaf10be9d": {
         "id": "64305451fc3be5947773c339-6470477fe536e0faaf10be9d",
         "slug": "robot-wars-by-mech",
@@ -18201,6 +18227,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-60a9d105d162b9002d05a60c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "gb"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "64305451fc3be5947773c339-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -18713,6 +18752,19 @@
         ],
         "region": "gb"
       },
+      "6615522e50e81fa51eb0df60": {
+        "id": "64305451fc3be5947773c339-6615522e50e81fa51eb0df60",
+        "slug": "sonic-the-hedgehog",
+        "gridKey": "6615522e50e81fa51eb0df60",
+        "name": "Sonic The Hedgehog",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6615522e50e81fa51eb0df60.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "gb"
+      },
       "65a061008b6d8fe79ee1ddc9": {
         "id": "64305451fc3be5947773c339-65a061008b6d8fe79ee1ddc9",
         "slug": "arthur",
@@ -18895,19 +18947,6 @@
         ],
         "region": "gb"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "64305451fc3be5947773c339-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "gb"
-      },
       "69333216ac5b3f9f53442374": {
         "id": "64305451fc3be5947773c339-69333216ac5b3f9f53442374",
         "slug": "baby-einstein",
@@ -19033,19 +19072,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/d5a022d7-5e4e-45fd-8f2f-8b900b233cc3/RAF_LOGO_FINALArtboard_1_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-5f91c4ea96a391002df9a664.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "gb"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "64305451fc3be5947773c339-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -19306,19 +19332,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2c4c693a-c2c0-4af6-bdd4-643b62163a86/FilmRise_Anime_1500x1000_Light_Logo.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-65ec577b07060fb76a3916bf.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "gb"
-      },
-      "6615522e50e81fa51eb0df60": {
-        "id": "64305451fc3be5947773c339-6615522e50e81fa51eb0df60",
-        "slug": "sonic-the-hedgehog",
-        "gridKey": "6615522e50e81fa51eb0df60",
-        "name": "Sonic The Hedgehog",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6615522e50e81fa51eb0df60.m3u8",
         "genres": [
           "Global"
         ],
@@ -20925,19 +20938,6 @@
         ],
         "region": "au"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "697140a85d851f5e69414688-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "au"
-      },
       "5fd115b8b7ef8d002dcf1817": {
         "id": "697140a85d851f5e69414688-5fd115b8b7ef8d002dcf1817",
         "slug": "waypoint-tv",
@@ -21232,6 +21232,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6578e7b5eef129f30fb38df7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "au"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "697140a85d851f5e69414688-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -21583,19 +21596,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "au"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "697140a85d851f5e69414688-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -22064,6 +22064,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/wildearth_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-60d4edddb2fdec002c141135.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "au"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "697140a85d851f5e69414688-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -22706,6 +22719,19 @@
         ],
         "region": "au"
       },
+      "6615522e50e81fa51eb0df60": {
+        "id": "697140a85d851f5e69414688-6615522e50e81fa51eb0df60",
+        "slug": "sonic-the-hedgehog",
+        "gridKey": "6615522e50e81fa51eb0df60",
+        "name": "Sonic The Hedgehog",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6615522e50e81fa51eb0df60.m3u8",
+        "genres": [
+          "Kids & Family"
+        ],
+        "region": "au"
+      },
       "69a1f84e8d9f2822f6f50639": {
         "id": "697140a85d851f5e69414688-69a1f84e8d9f2822f6f50639",
         "slug": "beyblade-4",
@@ -22797,19 +22823,6 @@
         ],
         "region": "au"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "697140a85d851f5e69414688-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "au"
-      },
       "5f91c4ea96a391002df9a664": {
         "id": "697140a85d851f5e69414688-5f91c4ea96a391002df9a664",
         "slug": "ryan-and-friends",
@@ -22844,19 +22857,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "au"
-      },
-      "69153808ca8cd63ab14ece0d": {
-        "id": "697140a85d851f5e69414688-69153808ca8cd63ab14ece0d",
-        "slug": "kidoodle-tv-2",
-        "gridKey": "69153808ca8cd63ab14ece0d",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4097617a-f708-4414-90f1-c46c89185383/Kidoodle.TV_Channel_Logo1500x1000rdx__1_.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-69153808ca8cd63ab14ece0d.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -23169,19 +23169,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/AfroLandTV_logo_dark_v3.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-60e737a4ebef9d002c4d0a0c.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "au"
-      },
-      "6615522e50e81fa51eb0df60": {
-        "id": "697140a85d851f5e69414688-6615522e50e81fa51eb0df60",
-        "slug": "sonic-the-hedgehog",
-        "gridKey": "6615522e50e81fa51eb0df60",
-        "name": "Sonic The Hedgehog",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dd0dbbb3-6169-4a44-976e-41598a438f2b/channel_logo_1500x1000_dark.png.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-6615522e50e81fa51eb0df60.m3u8",
         "genres": [
           "Global"
         ],
@@ -24073,45 +24060,6 @@
         ],
         "region": "nz"
       },
-      "67f45ef989089d917e1b1634": {
-        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
-        "slug": "unbeaten-2",
-        "gridKey": "67f45ef989089d917e1b1634",
-        "name": "Unbeaten",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
-      "621670feab2095ca85353ad4": {
-        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
-        "slug": "xfc-tv",
-        "gridKey": "621670feab2095ca85353ad4",
-        "name": "XFC TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
-      "62ffc5cfa6cad6f2991745c2": {
-        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
-        "slug": "fuel-tv-3",
-        "gridKey": "62ffc5cfa6cad6f2991745c2",
-        "name": "FUEL TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
       "66ccac69fdf9cd3a568ef135": {
         "id": "5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135",
         "slug": "ufc",
@@ -24125,14 +24073,14 @@
         ],
         "region": "nz"
       },
-      "6a10994ab05301ef36a6a8e2": {
-        "id": "5e20b730f2f8d5003d739db7-6a10994ab05301ef36a6a8e2",
-        "slug": "nfl-super-bowl-champions",
-        "gridKey": "6a10994ab05301ef36a6a8e2",
-        "name": "NFL Super Bowl Champions",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png",
+      "63f914bffe2c3d32e1a7929f": {
+        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
+        "slug": "glory-kickboxing",
+        "gridKey": "63f914bffe2c3d32e1a7929f",
+        "name": "GLORY Kickboxing",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a10994ab05301ef36a6a8e2.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -24159,6 +24107,45 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "67f45ef989089d917e1b1634": {
+        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
+        "slug": "unbeaten-2",
+        "gridKey": "67f45ef989089d917e1b1634",
+        "name": "Unbeaten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "62ffc5cfa6cad6f2991745c2": {
+        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
+        "slug": "fuel-tv-3",
+        "gridKey": "62ffc5cfa6cad6f2991745c2",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "6a10994ab05301ef36a6a8e2": {
+        "id": "5e20b730f2f8d5003d739db7-6a10994ab05301ef36a6a8e2",
+        "slug": "nfl-super-bowl-champions",
+        "gridKey": "6a10994ab05301ef36a6a8e2",
+        "name": "NFL Super Bowl Champions",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ecd94149-87df-46a3-8864-545c91f2d9d1/NFLSuperBowlChampions_Logo_White_1500x1000_-_Harry_Marshall.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a10994ab05301ef36a6a8e2.m3u8",
         "genres": [
           "Sports"
         ],
@@ -24255,6 +24242,19 @@
         ],
         "region": "nz"
       },
+      "656fbbd6dbcce28c3a41741b": {
+        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
+        "slug": "surf-cinema",
+        "gridKey": "656fbbd6dbcce28c3a41741b",
+        "name": "Surf Cinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
       "63ec0b739866d8d2120ac759": {
         "id": "5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759",
         "slug": "pickletv",
@@ -24289,19 +24289,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
-      "63f914bffe2c3d32e1a7929f": {
-        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
-        "slug": "glory-kickboxing",
-        "gridKey": "63f914bffe2c3d32e1a7929f",
-        "name": "GLORY Kickboxing",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -24372,19 +24359,6 @@
         ],
         "region": "nz"
       },
-      "656fbbd6dbcce28c3a41741b": {
-        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
-        "slug": "surf-cinema",
-        "gridKey": "656fbbd6dbcce28c3a41741b",
-        "name": "Surf Cinema",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
       "5fd115bdb7ef8d002dcf1820": {
         "id": "5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820",
         "slug": "hard-knocks",
@@ -24393,6 +24367,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nz"
+      },
+      "621670feab2095ca85353ad4": {
+        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
+        "slug": "xfc-tv",
+        "gridKey": "621670feab2095ca85353ad4",
+        "name": "XFC TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -24593,19 +24580,6 @@
         ],
         "region": "nz"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nz"
-      },
       "5fd115b8b7ef8d002dcf1817": {
         "id": "5e20b730f2f8d5003d739db7-5fd115b8b7ef8d002dcf1817",
         "slug": "waypoint-tv",
@@ -24723,19 +24697,6 @@
         ],
         "region": "nz"
       },
-      "6674bc83a9c715b93ca6ca92": {
-        "id": "5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92",
-        "slug": "untold-stories-of-the-er",
-        "gridKey": "6674bc83a9c715b93ca6ca92",
-        "name": "Untold Stories of the ER",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "nz"
-      },
       "66e8d7600a1c525933947792": {
         "id": "5e20b730f2f8d5003d739db7-66e8d7600a1c525933947792",
         "slug": "four-in-a-bed",
@@ -24822,6 +24783,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/efc30ac1-7d8b-4e2f-9db4-0d03b936ba1a/DuckDynasty-Channel-Logo-_Light_-1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac3ea3e657bab5f7a9b7df.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "nz"
+      },
+      "6674bc83a9c715b93ca6ca92": {
+        "id": "5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92",
+        "slug": "untold-stories-of-the-er",
+        "gridKey": "6674bc83a9c715b93ca6ca92",
+        "name": "Untold Stories of the ER",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/abb455e0-edc7-4b2a-9505-a250550ff145/Plex_FilmRise_UntoldStoriesoftheER_Color_LogoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6674bc83a9c715b93ca6ca92.m3u8",
         "genres": [
           "Reality"
         ],
@@ -25256,19 +25230,6 @@
         ],
         "region": "nz"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "nz"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -25516,19 +25477,6 @@
         ],
         "region": "nz"
       },
-      "65721f23b10e9d22a882bde0": {
-        "id": "5e20b730f2f8d5003d739db7-65721f23b10e9d22a882bde0",
-        "slug": "pbs-history",
-        "gridKey": "65721f23b10e9d22a882bde0",
-        "name": "PBS History",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/578b3975-094b-41e3-b20c-d41cb84afd30/PBS_History_Logo_Stacked_Dark_Backgrounds_1500x1000_-_Antonio_de_la_Torre__Tony_.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-65721f23b10e9d22a882bde0.m3u8",
-        "genres": [
-          "Explore"
-        ],
-        "region": "nz"
-      },
       "66469eecdad45e1759c1c06b": {
         "id": "5e20b730f2f8d5003d739db7-66469eecdad45e1759c1c06b",
         "slug": "pbs-science",
@@ -25771,6 +25719,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a1609442476ab8600b1841c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "nz"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -26426,19 +26387,6 @@
         ],
         "region": "nz"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nz"
-      },
       "5eea605574085f0040ddc794": {
         "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794",
         "slug": "toon-goggles",
@@ -26460,19 +26408,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/891c8cb8-4d1b-4393-8de0-d0e9dd53db92/ABC-kids-logo-light-mode_-_Orange_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69d57b7d629e24fac06ae529.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nz"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -28443,19 +28378,6 @@
         ],
         "region": "mx"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "mx"
-      },
       "621670feab2095ca85353ad4": {
         "id": "608049aefa2b8ae93c2c3a63-621670feab2095ca85353ad4",
         "slug": "xfc-tv",
@@ -28477,6 +28399,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3e935eb3-3c68-41ee-8e2e-5b8c37a1fbf1/023_FAST-RM-latam_LOGO_1500x100-DARK-Plex.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-68dcb497250f81dfec9091d7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "mx"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -28833,19 +28768,6 @@
         ],
         "region": "mx"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "mx"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "608049aefa2b8ae93c2c3a63-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -29101,6 +29023,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6470477fe536e0faaf10be9d.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "mx"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -29673,32 +29608,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/59623ed1-b641-4001-b634-b25e307c3c49/123GO_-_Jonathan_Shrank1500x1000.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63eecb32ac23d1ee072087cb.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "mx"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "mx"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -31864,19 +31773,6 @@
         ],
         "region": "es"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "es"
-      },
       "5fd115b8b7ef8d002dcf1817": {
         "id": "643054b1fc3be59477853717-5fd115b8b7ef8d002dcf1817",
         "slug": "waypoint-tv",
@@ -32184,6 +32080,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-666e1820ce73ed6023b55a11.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "es"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "643054b1fc3be59477853717-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -32579,19 +32488,6 @@
         ],
         "region": "es"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "643054b1fc3be59477853717-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "es"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "643054b1fc3be59477853717-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -32834,6 +32730,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f37684ab-5eb6-48dd-8999-fbb6345689d4/1500x1000-DarkBG.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-614398a08f30fa61e0da7c97.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "es"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "643054b1fc3be59477853717-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -33385,19 +33294,6 @@
         ],
         "region": "es"
       },
-      "5eea605574085f0040ddc79a": {
-        "id": "643054b1fc3be59477853717-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-5eea605574085f0040ddc79a.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "es"
-      },
       "5f123330eca6a20040b328e8": {
         "id": "643054b1fc3be59477853717-5f123330eca6a20040b328e8",
         "slug": "tg-junior",
@@ -33445,19 +33341,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ee175dfe-6f79-415e-a3c1-ce6a9ec831c2/Watchitkid_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-621672612c2627c068e73ad6.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "es"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "643054b1fc3be59477853717-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -35402,19 +35285,6 @@
         ],
         "region": "fr"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "fr"
-      },
       "630fa9e577ec3866def38fa2": {
         "id": "6430aa45fc3be5947780904e-630fa9e577ec3866def38fa2",
         "slug": "womens-sports-network",
@@ -35618,6 +35488,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2c49fafe-3ddd-443d-bdaa-c2ad358146cf/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-666e1820ce73ed6023b55a11.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "fr"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "6430aa45fc3be5947780904e-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -35922,19 +35805,6 @@
         ],
         "region": "fr"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "fr"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "6430aa45fc3be5947780904e-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -36138,6 +36008,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/581aae0f-37f6-43c7-94f0-1540d904b45b/1500_x_1000_PNG_w_transparent_backgroundRDX_white_green_.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6a2325c47928efd63cf15995.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "fr"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "6430aa45fc3be5947780904e-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -36697,19 +36580,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/38d8759c-fb94-4154-ba4d-8450e99662cd/FilmRiseLogo_WigglesClassic_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-68e0371d8bbd79d66c631ab2.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "fr"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "6430aa45fc3be5947780904e-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -37692,6 +37562,32 @@
         ],
         "region": "de"
       },
+      "6aa9c3150832270987394359": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9c3150832270987394359",
+        "slug": "weihnachtskino",
+        "gridKey": "6aa9c3150832270987394359",
+        "name": "Weihnachtskino",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4703c100-a7b6-452e-b34a-3c92cb740c62/Channel_Logo_Weihnachtskino_White_Olivia_BeighRDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9c3150832270987394359.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "de"
+      },
+      "6aa9c1b00832270987394357": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9c1b00832270987394357",
+        "slug": "sparkle-movies",
+        "gridKey": "6aa9c1b00832270987394357",
+        "name": "Sparkle Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4b340b29-a0d6-459c-8d99-4820e01f524f/Plex-SparkleMovies-German-Logo_Erik_MonsonWHT.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9c1b00832270987394357.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "de"
+      },
       "688d222aa6fe30698ab41f67": {
         "id": "635177ecff6cd5445d7f9b0b-688d222aa6fe30698ab41f67",
         "slug": "horror-comedy",
@@ -37744,6 +37640,19 @@
         ],
         "region": "de"
       },
+      "5ef4e1b40d9ad000423c4430": {
+        "id": "635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430",
+        "slug": "maverick-black-cinema",
+        "gridKey": "5ef4e1b40d9ad000423c4430",
+        "name": "Maverick Black Cinema",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "de"
+      },
       "66bfb17c144c201b8b61c10d": {
         "id": "635177ecff6cd5445d7f9b0b-66bfb17c144c201b8b61c10d",
         "slug": "rcm",
@@ -37765,19 +37674,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dfb96456-2197-4b96-8cd4-3c360725528f/documentaryplus_logo_dark_1_WHT.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-614e286b2bac097ffd6fd6ab.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "de"
-      },
-      "5ef4e1b40d9ad000423c4430": {
-        "id": "635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430",
-        "slug": "maverick-black-cinema",
-        "gridKey": "5ef4e1b40d9ad000423c4430",
-        "name": "Maverick Black Cinema",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5ef4e1b40d9ad000423c4430.m3u8",
         "genres": [
           "Movies"
         ],
@@ -37939,6 +37835,45 @@
         ],
         "region": "de"
       },
+      "5fb81660b7ad2d002dcb7335": {
+        "id": "635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335",
+        "slug": "newsmax2",
+        "gridKey": "5fb81660b7ad2d002dcb7335",
+        "name": "Newsmax2",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "69f52ffb6e5708fb20d36d9c": {
+        "id": "635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c",
+        "slug": "the-prof-g-channel",
+        "gridKey": "69f52ffb6e5708fb20d36d9c",
+        "name": "The Prof G Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "68a799722895f21006e758e4": {
+        "id": "635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4",
+        "slug": "tv5monde-info",
+        "gridKey": "68a799722895f21006e758e4",
+        "name": "TV5MONDE Info",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
       "61d73c3ca7b7c7f703418518": {
         "id": "635177ecff6cd5445d7f9b0b-61d73c3ca7b7c7f703418518",
         "slug": "bloomberg-originals",
@@ -37947,6 +37882,45 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a69341a2-fce3-4a05-af2e-469540b25d73/BBOriginals_2023_Plex_Stacked_WHTrdx.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-61d73c3ca7b7c7f703418518.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "5f170f01b898490041b49dd1": {
+        "id": "635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1",
+        "slug": "yahoo-finance",
+        "gridKey": "5f170f01b898490041b49dd1",
+        "name": "Yahoo Finance",
+        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "60df3e18541143002f3b8607": {
+        "id": "635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607",
+        "slug": "usa-today-news",
+        "gridKey": "60df3e18541143002f3b8607",
+        "name": "USA TODAY",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "66bfb2e6144c201b8b61c10f": {
+        "id": "635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f",
+        "slug": "newsworld",
+        "gridKey": "66bfb2e6144c201b8b61c10f",
+        "name": "NewsWorld",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f.m3u8",
         "genres": [
           "News"
         ],
@@ -38017,84 +37991,6 @@
         ],
         "region": "de"
       },
-      "66bfb2e6144c201b8b61c10f": {
-        "id": "635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f",
-        "slug": "newsworld",
-        "gridKey": "66bfb2e6144c201b8b61c10f",
-        "name": "NewsWorld",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66bfb2e6144c201b8b61c10f.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "60df3e18541143002f3b8607": {
-        "id": "635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607",
-        "slug": "usa-today-news",
-        "gridKey": "60df3e18541143002f3b8607",
-        "name": "USA TODAY",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ae42c76a-809f-465b-aed8-cfdc8e33a04b/usatoday_logo_light.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-60df3e18541143002f3b8607.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "5fb81660b7ad2d002dcb7335": {
-        "id": "635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335",
-        "slug": "newsmax2",
-        "gridKey": "5fb81660b7ad2d002dcb7335",
-        "name": "Newsmax2",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f3f74374-7cf6-4fdc-8056-7ef9e8eb989b/N2_logo_color.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5fb81660b7ad2d002dcb7335.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "5f170f01b898490041b49dd1": {
-        "id": "635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1",
-        "slug": "yahoo-finance",
-        "gridKey": "5f170f01b898490041b49dd1",
-        "name": "Yahoo Finance",
-        "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/yahoo-finance.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f170f01b898490041b49dd1.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "68a799722895f21006e758e4": {
-        "id": "635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4",
-        "slug": "tv5monde-info",
-        "gridKey": "68a799722895f21006e758e4",
-        "name": "TV5MONDE Info",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1ac1bf6b-ab6e-4a44-9268-c8c2374befce/TV5MONDE_INFO_WHT_1500x1000_-_Patrice.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68a799722895f21006e758e4.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
-      "69f52ffb6e5708fb20d36d9c": {
-        "id": "635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c",
-        "slug": "the-prof-g-channel",
-        "gridKey": "69f52ffb6e5708fb20d36d9c",
-        "name": "The Prof G Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-69f52ffb6e5708fb20d36d9c.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "de"
-      },
       "69f4f6c2647c1d14cc38677b": {
         "id": "635177ecff6cd5445d7f9b0b-69f4f6c2647c1d14cc38677b",
         "slug": "nfl-channel-3",
@@ -38121,19 +38017,6 @@
         ],
         "region": "de"
       },
-      "64ac687b4192b4e1bab96279": {
-        "id": "635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279",
-        "slug": "pokergo",
-        "gridKey": "64ac687b4192b4e1bab96279",
-        "name": "PokerGO",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "64e6ed5627a915f9b5184e9c": {
         "id": "635177ecff6cd5445d7f9b0b-64e6ed5627a915f9b5184e9c",
         "slug": "wedo-sports",
@@ -38155,6 +38038,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1fd2c9c5-bb62-4de7-8673-5eb611101f54/Marketing_assets_MV_logo_1500X1000_transparent_dark_BGRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-675a39923c1d4ea8298f8f06.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
+      "66ccac69fdf9cd3a568ef135": {
+        "id": "635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135",
+        "slug": "ufc",
+        "gridKey": "66ccac69fdf9cd3a568ef135",
+        "name": "UFC",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135.m3u8",
         "genres": [
           "Sports"
         ],
@@ -38207,6 +38103,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
+      "64ac687b4192b4e1bab96279": {
+        "id": "635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279",
+        "slug": "pokergo",
+        "gridKey": "64ac687b4192b4e1bab96279",
+        "name": "PokerGO",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a2ff31a8-9b9a-4b7b-9aa5-71c0bc166632/1500x1000_LightBG_-_Aidan_Perrizo_white.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-64ac687b4192b4e1bab96279.m3u8",
         "genres": [
           "Sports"
         ],
@@ -38485,19 +38394,6 @@
         ],
         "region": "de"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "635177ecff6cd5445d7f9b0b-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "616df1be2cf008a748c8cb53": {
         "id": "635177ecff6cd5445d7f9b0b-616df1be2cf008a748c8cb53",
         "slug": "slopes",
@@ -38532,6 +38428,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/146827c9-ba03-4f25-86b2-d99c501e8227/wired2fish_white.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-608a2c722957c9002c6a617b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
+      "65e0c8c6d899afe817b9d224": {
+        "id": "635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224",
+        "slug": "cricket-gold",
+        "gridKey": "65e0c8c6d899afe817b9d224",
+        "name": "Cricket Gold",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224.m3u8",
         "genres": [
           "Sports"
         ],
@@ -38615,19 +38524,6 @@
         ],
         "region": "de"
       },
-      "646c0dfbfb58444e4e1e262d": {
-        "id": "635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d",
-        "slug": "pac-12-insider",
-        "gridKey": "646c0dfbfb58444e4e1e262d",
-        "name": "Pac-12 Insider",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
       "63504925a97bd70eaef54f01": {
         "id": "635177ecff6cd5445d7f9b0b-63504925a97bd70eaef54f01",
         "slug": "acl-cornhole-tv-2",
@@ -38654,6 +38550,19 @@
         ],
         "region": "de"
       },
+      "646c0dfbfb58444e4e1e262d": {
+        "id": "635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d",
+        "slug": "pac-12-insider",
+        "gridKey": "646c0dfbfb58444e4e1e262d",
+        "name": "Pac-12 Insider",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a3c09b3c-9f7e-40e9-b14e-5174a45ad551/P12_Insider_blue_-_Sean_Kent.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-646c0dfbfb58444e4e1e262d.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "de"
+      },
       "656fbbd6dbcce28c3a41741b": {
         "id": "635177ecff6cd5445d7f9b0b-656fbbd6dbcce28c3a41741b",
         "slug": "surf-cinema",
@@ -38662,32 +38571,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
-      "66ccac69fdf9cd3a568ef135": {
-        "id": "635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135",
-        "slug": "ufc",
-        "gridKey": "66ccac69fdf9cd3a568ef135",
-        "name": "UFC",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-66ccac69fdf9cd3a568ef135.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "de"
-      },
-      "65e0c8c6d899afe817b9d224": {
-        "id": "635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224",
-        "slug": "cricket-gold",
-        "gridKey": "65e0c8c6d899afe817b9d224",
-        "name": "Cricket Gold",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d041b4b4-65f0-4862-8d26-a0be4c984e2e/Cricket_Gold_Logo_1-1RDX.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-65e0c8c6d899afe817b9d224.m3u8",
         "genres": [
           "Sports"
         ],
@@ -38805,6 +38688,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9ea6fcd5-6337-4609-8b7c-290b0eb74c65/Oprepo_logo_-_James_PatrickRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6578e7b5eef129f30fb38df7.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "de"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "635177ecff6cd5445d7f9b0b-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -39148,19 +39044,6 @@
         ],
         "region": "de"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "635177ecff6cd5445d7f9b0b-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "de"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "635177ecff6cd5445d7f9b0b-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -39434,6 +39317,19 @@
         ],
         "region": "de"
       },
+      "6aaa2279083227098739435f": {
+        "id": "635177ecff6cd5445d7f9b0b-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6aaa2279083227098739435f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "de"
+      },
       "60d4edddb2fdec002c141135": {
         "id": "635177ecff6cd5445d7f9b0b-60d4edddb2fdec002c141135",
         "slug": "wildearth",
@@ -39681,6 +39577,32 @@
         ],
         "region": "de"
       },
+      "6349ed0eb1adc4cfa571fd37": {
+        "id": "635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37",
+        "slug": "speedvision",
+        "gridKey": "6349ed0eb1adc4cfa571fd37",
+        "name": "SPEEDVISION",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
+      "5efe1de6e0b3f5003f5d9f88": {
+        "id": "635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88",
+        "slug": "the-bob-ross-channel",
+        "gridKey": "5efe1de6e0b3f5003f5d9f88",
+        "name": "The Bob Ross Channel",
+        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",
+        "callSign": "TBRCSTR",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
       "67294a601055ef3897c73477": {
         "id": "635177ecff6cd5445d7f9b0b-67294a601055ef3897c73477",
         "slug": "the-emeril-lagasse-channel",
@@ -39694,6 +39616,32 @@
         ],
         "region": "de"
       },
+      "67c2496d45ae99120c071588": {
+        "id": "635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588",
+        "slug": "life-down-under",
+        "gridKey": "67c2496d45ae99120c071588",
+        "name": "Life Down Under",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
+      "68b74890b5b437bf872b6b72": {
+        "id": "635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72",
+        "slug": "tv5monde-chefs",
+        "gridKey": "68b74890b5b437bf872b6b72",
+        "name": "TV5MONDE Chefs",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "de"
+      },
       "5f07e9fdf313eb0041bbecda": {
         "id": "635177ecff6cd5445d7f9b0b-5f07e9fdf313eb0041bbecda",
         "slug": "cooking-panda",
@@ -39702,19 +39650,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/cooking-panda.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-5f07e9fdf313eb0041bbecda.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "6349ed0eb1adc4cfa571fd37": {
-        "id": "635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37",
-        "slug": "speedvision",
-        "gridKey": "6349ed0eb1adc4cfa571fd37",
-        "name": "SPEEDVISION",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9653867c-6eb1-4c68-a494-4d4897c22b96/SV_4C_LOGO_LIGHT_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6349ed0eb1adc4cfa571fd37.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -39785,19 +39720,6 @@
         ],
         "region": "de"
       },
-      "68b74890b5b437bf872b6b72": {
-        "id": "635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72",
-        "slug": "tv5monde-chefs",
-        "gridKey": "68b74890b5b437bf872b6b72",
-        "name": "TV5MONDE Chefs",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9adadebc-556e-4510-a632-ee532eb5863b/LOGO_PLEX_CHEFS_1500X1000_WHITE.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68b74890b5b437bf872b6b72.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
       "68b74a235dc5413c905efd62": {
         "id": "635177ecff6cd5445d7f9b0b-68b74a235dc5413c905efd62",
         "slug": "tv5monde-voyage",
@@ -39806,32 +39728,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1fbf682f-90ba-4318-a649-12c7f89cdc48/LOGO_PLEX_VOYAGE_1500X1000_WHITE.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-68b74a235dc5413c905efd62.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "67c2496d45ae99120c071588": {
-        "id": "635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588",
-        "slug": "life-down-under",
-        "gridKey": "67c2496d45ae99120c071588",
-        "name": "Life Down Under",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/457ba162-d75e-4b43-96b0-125f61a47a44/LDU_Logo_1500_x_1000_Anna.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-67c2496d45ae99120c071588.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "de"
-      },
-      "5efe1de6e0b3f5003f5d9f88": {
-        "id": "635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88",
-        "slug": "the-bob-ross-channel",
-        "gridKey": "5efe1de6e0b3f5003f5d9f88",
-        "name": "The Bob Ross Channel",
-        "logo": "https://provider-static.plex.tv/2/epg/channels/logos/gracenote/280e5bc9b7e116f901b3258fea16c453.png",
-        "callSign": "TBRCSTR",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5efe1de6e0b3f5003f5d9f88.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -39915,19 +39811,6 @@
         ],
         "region": "de"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "635177ecff6cd5445d7f9b0b-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "de"
-      },
       "63eecb32ac23d1ee072087cb": {
         "id": "635177ecff6cd5445d7f9b0b-63eecb32ac23d1ee072087cb",
         "slug": "123go",
@@ -39988,19 +39871,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9d75cf3b-be95-4785-ab5a-3cfdd4994ab7/BratTV_PlexTV_Logo_DarkBG.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-63d6f6c5a9e88ee909e7ee1f.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "de"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "635177ecff6cd5445d7f9b0b-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -41581,19 +41451,6 @@
         ],
         "region": "br"
       },
-      "66fbfd67bde73c589ab2af42": {
-        "id": "646546f35db8ada4c8edd7e5-66fbfd67bde73c589ab2af42",
-        "slug": "pll-network-2",
-        "gridKey": "66fbfd67bde73c589ab2af42",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/3db52a85-5e90-49f6-8d8e-170d71c86b33/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-66fbfd67bde73c589ab2af42.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "br"
-      },
       "652875586425fdb1f32d2169": {
         "id": "646546f35db8ada4c8edd7e5-652875586425fdb1f32d2169",
         "slug": "world-surf-league-24-7",
@@ -42049,6 +41906,19 @@
         ],
         "region": "br"
       },
+      "6aa9bc040832270987394353": {
+        "id": "646546f35db8ada4c8edd7e5-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "br"
+      },
       "63489bc190b96ef5e0eb327c": {
         "id": "646546f35db8ada4c8edd7e5-63489bc190b96ef5e0eb327c",
         "slug": "grjngo-filmes-de-faroeste",
@@ -42387,19 +42257,6 @@
         ],
         "region": "br"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "646546f35db8ada4c8edd7e5-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "br"
-      },
       "67884bd6d37f2fd48d6220db": {
         "id": "646546f35db8ada4c8edd7e5-67884bd6d37f2fd48d6220db",
         "slug": "creator-television",
@@ -42707,6 +42564,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/cd5391da-8949-47b8-8d27-97c9b426ada0/US_STVP_JOURNY_Logo_1248x400_Colour_ForDarkBG_Primary_-_Brett_ShawRDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-60a9d105d162b9002d05a60c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "br"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "646546f35db8ada4c8edd7e5-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -43188,32 +43058,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "br"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "646546f35db8ada4c8edd7e5-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-5eea605574085f0040ddc79a.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "br"
-      },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "646546f35db8ada4c8edd7e5-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-627ec46a92d8e6a705784bd1.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -44898,19 +44742,6 @@
         ],
         "region": "in"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "698f7631338300003d436270-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "in"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "698f7631338300003d436270-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -45010,6 +44841,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/25ed8833-43c9-4e98-b4e0-ffa3b0dadf89/FourInABed_Logo_Jack_ArcherRDX.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-66e8d7600a1c525933947792.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "in"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "698f7631338300003d436270-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -45262,19 +45106,6 @@
         ],
         "region": "in"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "698f7631338300003d436270-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "in"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "698f7631338300003d436270-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -45517,6 +45348,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/518ddf05-c7a3-4c37-aa51-1c0dde8e671b/Logo---white_Ben_Deloughery.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-6470477fe536e0faaf10be9d.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "in"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "698f7631338300003d436270-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -46011,19 +45855,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "in"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "698f7631338300003d436270-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -46915,45 +46746,6 @@
         ],
         "region": "jp"
       },
-      "67f45ef989089d917e1b1634": {
-        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
-        "slug": "unbeaten-2",
-        "gridKey": "67f45ef989089d917e1b1634",
-        "name": "Unbeaten",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
-      "621670feab2095ca85353ad4": {
-        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
-        "slug": "xfc-tv",
-        "gridKey": "621670feab2095ca85353ad4",
-        "name": "XFC TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
-      "62ffc5cfa6cad6f2991745c2": {
-        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
-        "slug": "fuel-tv-3",
-        "gridKey": "62ffc5cfa6cad6f2991745c2",
-        "name": "FUEL TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
       "606605549dbfca002d2ae873": {
         "id": "5e20b730f2f8d5003d739db7-606605549dbfca002d2ae873",
         "slug": "tna-wrestling-channel",
@@ -46975,6 +46767,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "67f45ef989089d917e1b1634": {
+        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
+        "slug": "unbeaten-2",
+        "gridKey": "67f45ef989089d917e1b1634",
+        "name": "Unbeaten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "62ffc5cfa6cad6f2991745c2": {
+        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
+        "slug": "fuel-tv-3",
+        "gridKey": "62ffc5cfa6cad6f2991745c2",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
         "genres": [
           "Sports"
         ],
@@ -47053,6 +46871,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/80fb7204-c306-4759-a0d7-c4e829650c22/StrongmanChampionsLeague_Channel-Logo-Light-1500px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-644b13a3a1c0a5b2024c8403.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "656fbbd6dbcce28c3a41741b": {
+        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
+        "slug": "surf-cinema",
+        "gridKey": "656fbbd6dbcce28c3a41741b",
+        "name": "Surf Cinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
         "genres": [
           "Sports"
         ],
@@ -47149,19 +46980,6 @@
         ],
         "region": "jp"
       },
-      "656fbbd6dbcce28c3a41741b": {
-        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
-        "slug": "surf-cinema",
-        "gridKey": "656fbbd6dbcce28c3a41741b",
-        "name": "Surf Cinema",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
       "5fd115bdb7ef8d002dcf1820": {
         "id": "5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820",
         "slug": "hard-knocks",
@@ -47170,6 +46988,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "jp"
+      },
+      "621670feab2095ca85353ad4": {
+        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
+        "slug": "xfc-tv",
+        "gridKey": "621670feab2095ca85353ad4",
+        "name": "XFC TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -47383,19 +47214,6 @@
         ],
         "region": "jp"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "jp"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -47430,6 +47248,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ae4f38e657bab5f7a9b7ec.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "jp"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -47708,19 +47539,6 @@
         ],
         "region": "jp"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "jp"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -47937,6 +47755,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-693cbba358076a970420f597.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "jp"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -48327,19 +48158,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "jp"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -49231,40 +49049,14 @@
         ],
         "region": "kr"
       },
-      "67f45ef989089d917e1b1634": {
-        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
-        "slug": "unbeaten-2",
-        "gridKey": "67f45ef989089d917e1b1634",
-        "name": "Unbeaten",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
+      "63f914bffe2c3d32e1a7929f": {
+        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
+        "slug": "glory-kickboxing",
+        "gridKey": "63f914bffe2c3d32e1a7929f",
+        "name": "GLORY Kickboxing",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
-      "621670feab2095ca85353ad4": {
-        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
-        "slug": "xfc-tv",
-        "gridKey": "621670feab2095ca85353ad4",
-        "name": "XFC TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
-      "62ffc5cfa6cad6f2991745c2": {
-        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
-        "slug": "fuel-tv-3",
-        "gridKey": "62ffc5cfa6cad6f2991745c2",
-        "name": "FUEL TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49291,6 +49083,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
+      "67f45ef989089d917e1b1634": {
+        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
+        "slug": "unbeaten-2",
+        "gridKey": "67f45ef989089d917e1b1634",
+        "name": "Unbeaten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
+      "62ffc5cfa6cad6f2991745c2": {
+        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
+        "slug": "fuel-tv-3",
+        "gridKey": "62ffc5cfa6cad6f2991745c2",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49374,6 +49192,19 @@
         ],
         "region": "kr"
       },
+      "656fbbd6dbcce28c3a41741b": {
+        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
+        "slug": "surf-cinema",
+        "gridKey": "656fbbd6dbcce28c3a41741b",
+        "name": "Surf Cinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
       "63ec0b739866d8d2120ac759": {
         "id": "5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759",
         "slug": "pickletv",
@@ -49408,19 +49239,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
-      "63f914bffe2c3d32e1a7929f": {
-        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
-        "slug": "glory-kickboxing",
-        "gridKey": "63f914bffe2c3d32e1a7929f",
-        "name": "GLORY Kickboxing",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49478,19 +49296,6 @@
         ],
         "region": "kr"
       },
-      "656fbbd6dbcce28c3a41741b": {
-        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
-        "slug": "surf-cinema",
-        "gridKey": "656fbbd6dbcce28c3a41741b",
-        "name": "Surf Cinema",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
       "5fd115bdb7ef8d002dcf1820": {
         "id": "5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820",
         "slug": "hard-knocks",
@@ -49499,6 +49304,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "kr"
+      },
+      "621670feab2095ca85353ad4": {
+        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
+        "slug": "xfc-tv",
+        "gridKey": "621670feab2095ca85353ad4",
+        "name": "XFC TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -49699,19 +49517,6 @@
         ],
         "region": "kr"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "kr"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -49746,6 +49551,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ae4f38e657bab5f7a9b7ec.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "kr"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -50024,19 +49842,6 @@
         ],
         "region": "kr"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "kr"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -50253,6 +50058,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/e24d3a4c-4948-4155-82c5-b7eec0fa50b8/Cesar_Logo_Transparent_WHTRDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-693cbba358076a970420f597.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "kr"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -50643,19 +50461,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/662671e3-40c9-4ae9-b2e4-59500405b50f/toongoggles_logo_light_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "kr"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -51339,19 +51144,6 @@
         ],
         "region": "se"
       },
-      "69ada0314ea850f6739321e1": {
-        "id": "5e20b730f2f8d5003d739db7-69ada0314ea850f6739321e1",
-        "slug": "intervention-4",
-        "gridKey": "69ada0314ea850f6739321e1",
-        "name": "Intervention",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/447e8e98-4be3-4aa2-8711-13faf6277363/Intervention_COLOR_WIDE_Logo_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69ada0314ea850f6739321e1.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "se"
-      },
       "69864df9f937c5afe5a060d6": {
         "id": "5e20b730f2f8d5003d739db7-69864df9f937c5afe5a060d6",
         "slug": "soap-2",
@@ -51360,6 +51152,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/001a29a5-6f62-486b-992e-8d32e53f96cd/1500x1000_SOAP_Logo__Dark__pino_cormaci.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69864df9f937c5afe5a060d6.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "se"
+      },
+      "69ada0314ea850f6739321e1": {
+        "id": "5e20b730f2f8d5003d739db7-69ada0314ea850f6739321e1",
+        "slug": "intervention-4",
+        "gridKey": "69ada0314ea850f6739321e1",
+        "name": "Intervention",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/447e8e98-4be3-4aa2-8711-13faf6277363/Intervention_COLOR_WIDE_Logo_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69ada0314ea850f6739321e1.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -51425,6 +51230,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "se"
+      },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
         "genres": [
           "Movies"
         ],
@@ -51716,58 +51534,6 @@
         ],
         "region": "se"
       },
-      "69f4f6c2647c1d14cc38677b": {
-        "id": "5e20b730f2f8d5003d739db7-69f4f6c2647c1d14cc38677b",
-        "slug": "nfl-channel-3",
-        "gridKey": "69f4f6c2647c1d14cc38677b",
-        "name": "NFL Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f4f6c2647c1d14cc38677b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
-      "67f45ef989089d917e1b1634": {
-        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
-        "slug": "unbeaten-2",
-        "gridKey": "67f45ef989089d917e1b1634",
-        "name": "Unbeaten",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
-      "621670feab2095ca85353ad4": {
-        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
-        "slug": "xfc-tv",
-        "gridKey": "621670feab2095ca85353ad4",
-        "name": "XFC TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
-      "62ffc5cfa6cad6f2991745c2": {
-        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
-        "slug": "fuel-tv-3",
-        "gridKey": "62ffc5cfa6cad6f2991745c2",
-        "name": "FUEL TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
       "66ccac69fdf9cd3a568ef135": {
         "id": "5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135",
         "slug": "ufc",
@@ -51776,6 +51542,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "63f914bffe2c3d32e1a7929f": {
+        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
+        "slug": "glory-kickboxing",
+        "gridKey": "63f914bffe2c3d32e1a7929f",
+        "name": "GLORY Kickboxing",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -51802,6 +51581,45 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "69f4f6c2647c1d14cc38677b": {
+        "id": "5e20b730f2f8d5003d739db7-69f4f6c2647c1d14cc38677b",
+        "slug": "nfl-channel-3",
+        "gridKey": "69f4f6c2647c1d14cc38677b",
+        "name": "NFL Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/585a58ca-c568-4bb8-bfc7-3000ac8d5fc5/NFL_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-69f4f6c2647c1d14cc38677b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "67f45ef989089d917e1b1634": {
+        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
+        "slug": "unbeaten-2",
+        "gridKey": "67f45ef989089d917e1b1634",
+        "name": "Unbeaten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "62ffc5cfa6cad6f2991745c2": {
+        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
+        "slug": "fuel-tv-3",
+        "gridKey": "62ffc5cfa6cad6f2991745c2",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
         "genres": [
           "Sports"
         ],
@@ -51911,6 +51729,19 @@
         ],
         "region": "se"
       },
+      "656fbbd6dbcce28c3a41741b": {
+        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
+        "slug": "surf-cinema",
+        "gridKey": "656fbbd6dbcce28c3a41741b",
+        "name": "Surf Cinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
       "63ec0b739866d8d2120ac759": {
         "id": "5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759",
         "slug": "pickletv",
@@ -51945,19 +51776,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
-      "63f914bffe2c3d32e1a7929f": {
-        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
-        "slug": "glory-kickboxing",
-        "gridKey": "63f914bffe2c3d32e1a7929f",
-        "name": "GLORY Kickboxing",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -52015,19 +51833,6 @@
         ],
         "region": "se"
       },
-      "656fbbd6dbcce28c3a41741b": {
-        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
-        "slug": "surf-cinema",
-        "gridKey": "656fbbd6dbcce28c3a41741b",
-        "name": "Surf Cinema",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
       "5fd115bdb7ef8d002dcf1820": {
         "id": "5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820",
         "slug": "hard-knocks",
@@ -52036,6 +51841,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "se"
+      },
+      "621670feab2095ca85353ad4": {
+        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
+        "slug": "xfc-tv",
+        "gridKey": "621670feab2095ca85353ad4",
+        "name": "XFC TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -52275,19 +52093,6 @@
         ],
         "region": "se"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "se"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -52340,14 +52145,14 @@
         ],
         "region": "se"
       },
-      "69a51ab83eb39481c7edd561": {
-        "id": "5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561",
-        "slug": "world-of-love-island",
-        "gridKey": "69a51ab83eb39481c7edd561",
+      "6aa72ea2fc710687a8b4db3d": {
+        "id": "5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d",
+        "slug": "world-of-love-island-2",
+        "gridKey": "6aa72ea2fc710687a8b4db3d",
         "name": "World of Love Island",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a3a475ee-8fe6-488a-81b9-b17d0aadf58b/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e62ea5d9-4843-48f9-9374-29ba8b166195/WorldOfLoveIsland_Logo_Colour_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-69a51ab83eb39481c7edd561.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa72ea2fc710687a8b4db3d.m3u8",
         "genres": [
           "Reality"
         ],
@@ -52465,6 +52270,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9de17fb6-49cb-4824-8295-d05349523f45/Dance_Moms_Logo_STACKED_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69ac436be657bab5f7a9b7e1.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "se"
+      },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
         "genres": [
           "Reality"
         ],
@@ -52873,19 +52691,6 @@
         ],
         "region": "se"
       },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "se"
-      },
       "650b5bb3f4b2d9579946a500": {
         "id": "5e20b730f2f8d5003d739db7-650b5bb3f4b2d9579946a500",
         "slug": "mythical-24-7",
@@ -53232,6 +53037,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a1609442476ab8600b1841c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "se"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -53752,19 +53570,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "se"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
@@ -54500,6 +54305,19 @@
       }
     },
     "nl": {
+      "6924d32e16131bf9651354ea": {
+        "id": "5e20b730f2f8d5003d739db7-6924d32e16131bf9651354ea",
+        "slug": "sony-one-or-favorieten",
+        "gridKey": "6924d32e16131bf9651354ea",
+        "name": "Sony One | Favorieten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b7286df7-e59d-42f9-a167-733049745831/NL_FAST_Plex_Faves_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6924d32e16131bf9651354ea.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "nl"
+      },
       "626c1753ffda6789d20a452e": {
         "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
         "slug": "cops",
@@ -54586,6 +54404,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/maverick_maverick_black_cinema_2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5ef4e1b40d9ad000423c4430.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "nl"
+      },
+      "6aa9bf6c0832270987394355": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355",
+        "slug": "sparkle-movies-light-and-love-3",
+        "gridKey": "6aa9bf6c0832270987394355",
+        "name": "Sparkle Movies - Light & Love",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f298b7ea-8fae-4b76-a6aa-5bd4b7b5eb25/SparkleMovies_WhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bf6c0832270987394355.m3u8",
         "genres": [
           "Movies"
         ],
@@ -54851,45 +54682,6 @@
         ],
         "region": "nl"
       },
-      "67f45ef989089d917e1b1634": {
-        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
-        "slug": "unbeaten-2",
-        "gridKey": "67f45ef989089d917e1b1634",
-        "name": "Unbeaten",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
-      "621670feab2095ca85353ad4": {
-        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
-        "slug": "xfc-tv",
-        "gridKey": "621670feab2095ca85353ad4",
-        "name": "XFC TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
-      "62ffc5cfa6cad6f2991745c2": {
-        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
-        "slug": "fuel-tv-3",
-        "gridKey": "62ffc5cfa6cad6f2991745c2",
-        "name": "FUEL TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "66ccac69fdf9cd3a568ef135": {
         "id": "5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135",
         "slug": "ufc",
@@ -54898,6 +54690,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c2e95493-6f98-4a65-be46-d17200ea068a/UFC_logo_WHT_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-66ccac69fdf9cd3a568ef135.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "63f914bffe2c3d32e1a7929f": {
+        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
+        "slug": "glory-kickboxing",
+        "gridKey": "63f914bffe2c3d32e1a7929f",
+        "name": "GLORY Kickboxing",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -54924,6 +54729,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c40e4f88-6f5c-4f2a-8d54-e6812e25771c/wpt_logo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f6b8e7900b0950040d0f2b2.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "67f45ef989089d917e1b1634": {
+        "id": "5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634",
+        "slug": "unbeaten-2",
+        "gridKey": "67f45ef989089d917e1b1634",
+        "name": "Unbeaten",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0b6f4951-d177-464c-aafc-0e35b61b48da/Unbeaten_logo_dark_-_Sam_Neazi.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-67f45ef989089d917e1b1634.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "62ffc5cfa6cad6f2991745c2": {
+        "id": "5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2",
+        "slug": "fuel-tv-3",
+        "gridKey": "62ffc5cfa6cad6f2991745c2",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-62ffc5cfa6cad6f2991745c2.m3u8",
         "genres": [
           "Sports"
         ],
@@ -55020,6 +54851,19 @@
         ],
         "region": "nl"
       },
+      "656fbbd6dbcce28c3a41741b": {
+        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
+        "slug": "surf-cinema",
+        "gridKey": "656fbbd6dbcce28c3a41741b",
+        "name": "Surf Cinema",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
       "63ec0b739866d8d2120ac759": {
         "id": "5e20b730f2f8d5003d739db7-63ec0b739866d8d2120ac759",
         "slug": "pickletv",
@@ -55054,19 +54898,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/704e7af1-90a0-4ad4-94de-af2559c19fa6/1_Tennis_Plus_Logo__Dark_Mode__1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6761f91555e174e95ccc4e4c.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
-      "63f914bffe2c3d32e1a7929f": {
-        "id": "5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f",
-        "slug": "glory-kickboxing",
-        "gridKey": "63f914bffe2c3d32e1a7929f",
-        "name": "GLORY Kickboxing",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/24dfa4e0-5cba-4f17-afce-f325404ba01a/GLORY_Logo_Light_Nicholas_Olsen.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-63f914bffe2c3d32e1a7929f.m3u8",
         "genres": [
           "Sports"
         ],
@@ -55124,19 +54955,6 @@
         ],
         "region": "nl"
       },
-      "656fbbd6dbcce28c3a41741b": {
-        "id": "5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b",
-        "slug": "surf-cinema",
-        "gridKey": "656fbbd6dbcce28c3a41741b",
-        "name": "Surf Cinema",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/a244db09-7052-4237-ab42-58bcb2b56fe1/SurfCinemaStacked-DarkBackground-1500x1000y.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-656fbbd6dbcce28c3a41741b.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "5fd115bdb7ef8d002dcf1820": {
         "id": "5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820",
         "slug": "hard-knocks",
@@ -55145,6 +54963,19 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/hardknocks_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5fd115bdb7ef8d002dcf1820.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "nl"
+      },
+      "621670feab2095ca85353ad4": {
+        "id": "5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4",
+        "slug": "xfc-tv",
+        "gridKey": "621670feab2095ca85353ad4",
+        "name": "XFC TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90cd03c9-281a-4eea-964b-6a9ce5c8d07c/XFCTV_channel_logo_dark_-_Dana_Foster.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-621670feab2095ca85353ad4.m3u8",
         "genres": [
           "Sports"
         ],
@@ -55358,19 +55189,6 @@
         ],
         "region": "nl"
       },
-      "66fbfc8ebde73c589ab2af40": {
-        "id": "5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40",
-        "slug": "pll-network",
-        "gridKey": "66fbfc8ebde73c589ab2af40",
-        "name": "PLL Network",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/69eabe13-68ba-4c3f-ac5d-f7cfb9b057bc/PLLL_WHITE_TEXT_1500x1000_DarkBG.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-66fbfc8ebde73c589ab2af40.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "nl"
-      },
       "646c0dfbfb58444e4e1e262d": {
         "id": "5e20b730f2f8d5003d739db7-646c0dfbfb58444e4e1e262d",
         "slug": "pac-12-insider",
@@ -55488,6 +55306,19 @@
         ],
         "region": "nl"
       },
+      "6aa9bc040832270987394353": {
+        "id": "5e20b730f2f8d5003d739db7-6aa9bc040832270987394353",
+        "slug": "real-emergency",
+        "gridKey": "6aa9bc040832270987394353",
+        "name": "Real Emergency",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1ed26798-0ac2-47f2-b0ef-0c1667b2daf2/Real_Emergency_Logo_1500x1000_Jay_Crossman.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa9bc040832270987394353.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "nl"
+      },
       "635847d0d3a668f1cafc1f9d": {
         "id": "5e20b730f2f8d5003d739db7-635847d0d3a668f1cafc1f9d",
         "slug": "dont-tell-the-bride",
@@ -55550,19 +55381,6 @@
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6578e7b5eef129f30fb38df7.m3u8",
         "genres": [
           "Reality"
-        ],
-        "region": "nl"
-      },
-      "6924d32e16131bf9651354ea": {
-        "id": "5e20b730f2f8d5003d739db7-6924d32e16131bf9651354ea",
-        "slug": "sony-one-or-favorieten",
-        "gridKey": "6924d32e16131bf9651354ea",
-        "name": "Sony One | Favorieten",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b7286df7-e59d-42f9-a167-733049745831/NL_FAST_Plex_Faves_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6924d32e16131bf9651354ea.m3u8",
-        "genres": [
-          "Classics"
         ],
         "region": "nl"
       },
@@ -55821,19 +55639,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3a3b230-a40b-4409-b33f-678c1923bd77/FailArmy_logo_dark_v2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-5f170d62b898490041b4936e.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "nl"
-      },
-      "68d7f9b53b1f329cea126993": {
-        "id": "5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993",
-        "slug": "dude-perfect",
-        "gridKey": "68d7f9b53b1f329cea126993",
-        "name": "Dude Perfect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18c7eba5-bcd4-45bd-9d3a-65d3984fec32/DarkBG_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68d7f9b53b1f329cea126993.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -56185,6 +55990,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/482fe1d5-fb01-416a-857e-ffbf8b6c8cc8/RealWild_Logo_White_-_Simon_Tuquabo.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6a1609442476ab8600b1841c.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "nl"
+      },
+      "6aaa2279083227098739435f": {
+        "id": "5e20b730f2f8d5003d739db7-6aaa2279083227098739435f",
+        "slug": "nomad-travel",
+        "gridKey": "6aaa2279083227098739435f",
+        "name": "Nomad Travel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/89e028d4-8ec3-4060-973e-e575ecada2c6/NOMAD_Logo_AllWhiteRDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aaa2279083227098739435f.m3u8",
         "genres": [
           "Explore"
         ],
@@ -56645,19 +56463,6 @@
         ],
         "region": "nl"
       },
-      "627ec46a92d8e6a705784bd1": {
-        "id": "5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1",
-        "slug": "ninja-kidz-tv",
-        "gridKey": "627ec46a92d8e6a705784bd1",
-        "name": "Ninja Kidz TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/5e2cfd34-f503-4089-bc2b-823c83147ce5/David_Preisman_-_PlexChannel-Logo-rdxpng.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-627ec46a92d8e6a705784bd1.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nl"
-      },
       "5eea605574085f0040ddc794": {
         "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc794",
         "slug": "toon-goggles",
@@ -56679,19 +56484,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/744b401d-502f-4b92-958c-2e50f02947e3/masha_english_logo_RDX.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69a529f77c245b3390e8a4de.m3u8",
-        "genres": [
-          "Kids & Family"
-        ],
-        "region": "nl"
-      },
-      "5eea605574085f0040ddc79a": {
-        "id": "5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a",
-        "slug": "kidoodle-tv",
-        "gridKey": "5eea605574085f0040ddc79a",
-        "name": "Kidoodle TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2b1cb9e9-8059-49c5-a0d7-a6a9bfbd083e/Kidoodle.TV_Channel_Logo1500x1000rdx.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-5eea605574085f0040ddc79a.m3u8",
         "genres": [
           "Kids & Family"
         ],
