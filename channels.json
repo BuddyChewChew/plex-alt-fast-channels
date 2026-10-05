@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T22:42:52.558507+00:00",
+  "generated": "2026-10-05T02:41:37.176184+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -509,32 +509,6 @@
         ],
         "region": "us"
       },
-      "62316e8eb9d292cb4ad7499f": {
-        "id": "6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f",
-        "slug": "western-bound",
-        "gridKey": "62316e8eb9d292cb4ad7499f",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b89e1bed-7f63-46b3-9be4-b72bcf76839a/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "us"
-      },
-      "6995ed8173f56d61dc078f0d": {
-        "id": "6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d",
-        "slug": "circle-country",
-        "gridKey": "6995ed8173f56d61dc078f0d",
-        "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "us"
-      },
       "68db6bc5475aa6420c85f232": {
         "id": "6a1610bebdf296985fd95603-68db6bc5475aa6420c85f232",
         "slug": "filmrise-drama",
@@ -719,10 +693,10 @@
       },
       "634700569d64afa6830d1521": {
         "id": "6a1610bebdf296985fd95603-634700569d64afa6830d1521",
-        "slug": "christmas-plus",
+        "slug": "halloween-plus",
         "gridKey": "634700569d64afa6830d1521",
-        "name": "Christmas Plus",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8e9a9c73-613c-47d4-8400-184fda888fbd/Christmas_PLus_WHITE-_1500x1000rdx.png",
+        "name": "Halloween Plus",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/53e30e47-98a7-4f53-9a2b-3bee3ca37e09/Halloween_plusLogo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521.m3u8",
         "genres": [
@@ -790,6 +764,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/8baf6922-b7a2-45c8-9b38-394487e67a32/SM_Stacked_WHITEandRED_-_Paige_ShermanRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-67ddc2c01d30518241f9249d.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
+      "6abd4e58a9d133322be5f940": {
+        "id": "6a1610bebdf296985fd95603-6abd4e58a9d133322be5f940",
+        "slug": "mgm-presents-horror",
+        "gridKey": "6abd4e58a9d133322be5f940",
+        "name": "MGM Presents: Horror",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/02b4d3c7-5397-46d6-ba78-811367ced717/MPHorror_Plex_Logo_color_wht_textRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6abd4e58a9d133322be5f940.m3u8",
         "genres": [
           "Movies"
         ],
@@ -990,6 +977,19 @@
         ],
         "region": "us"
       },
+      "64aed1e9c6085b5faf20ee1f": {
+        "id": "6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f",
+        "slug": "outflix-movies",
+        "gridKey": "64aed1e9c6085b5faf20ee1f",
+        "name": "OUTFLIX MOVIES",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f95fc27d-0f98-4097-bce5-1ea35a0ce0f0/OUTflix-MOVIES_Logo_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
       "636d46934ea1109a7d205a55": {
         "id": "6a1610bebdf296985fd95603-636d46934ea1109a7d205a55",
         "slug": "free-movies-plus",
@@ -1099,7 +1099,7 @@
         "slug": "cold-case-files-by-aande",
         "gridKey": "63f693a3fff2b53dc9ddc8f4",
         "name": "Cold Case Files by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7908be53-0dc6-46ee-8a4f-a22506e6fb2a/National_Cold_Case_Month_channel_logo_4c_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/66923850-2832-4970-95b5-6a755af11420/Cold_Case_Files_channel_logo_4c_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63f693a3fff2b53dc9ddc8f4.m3u8",
         "genres": [
@@ -1115,19 +1115,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3dfda714-2c2e-409d-a54a-c386f8110a3d/FilmRise_UnsolvedMysteries_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5816.m3u8",
-        "genres": [
-          "True Crime"
-        ],
-        "region": "us"
-      },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
-        "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -1544,19 +1531,6 @@
         "logo": "https://provider-static.plex.tv/9/epg/channels/logos/gracenote/9ab8e371398307f455d0ca348f835792.png",
         "callSign": "BBCWDE",
         "key": "/library/parts/6a1610bebdf296985fd95603-646fab0e43d6d6838db81a6a.m3u8",
-        "genres": [
-          "News"
-        ],
-        "region": "us"
-      },
-      "6377ea0e13bb6b1757e14695": {
-        "id": "6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695",
-        "slug": "livenow-from-fox",
-        "gridKey": "6377ea0e13bb6b1757e14695",
-        "name": "LiveNOW from FOX",
-        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/724a2b5cb46150f051d492f356de5e0f.png",
-        "callSign": "LIVENOW",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6377ea0e13bb6b1757e14695.m3u8",
         "genres": [
           "News"
         ],
@@ -2438,8 +2412,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/6a1610bebdf296985fd95603-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -3200,6 +3174,19 @@
         ],
         "region": "us"
       },
+      "66428faa5116d565e63ae32a": {
+        "id": "6a1610bebdf296985fd95603-66428faa5116d565e63ae32a",
+        "slug": "dog-the-bounty-hunter",
+        "gridKey": "66428faa5116d565e63ae32a",
+        "name": "Dog the Bounty Hunter",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0e40b883-e2d5-4e6e-acd3-86dd89bf68b8/Dog_the_Bounty_Hunter_channel_logo_4c_2250x1500_-_Laura_Connolly__1_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-66428faa5116d565e63ae32a.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "6578e7b5eef129f30fb38df7": {
         "id": "6a1610bebdf296985fd95603-6578e7b5eef129f30fb38df7",
         "slug": "operation-repo",
@@ -3330,14 +3317,14 @@
         ],
         "region": "us"
       },
-      "66428faa5116d565e63ae32a": {
-        "id": "6a1610bebdf296985fd95603-66428faa5116d565e63ae32a",
-        "slug": "dog-the-bounty-hunter",
-        "gridKey": "66428faa5116d565e63ae32a",
-        "name": "Dog the Bounty Hunter",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0e40b883-e2d5-4e6e-acd3-86dd89bf68b8/Dog_the_Bounty_Hunter_channel_logo_4c_2250x1500_-_Laura_Connolly__1_RDX.png",
+      "62316e8eb9d292cb4ad7499f": {
+        "id": "6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f",
+        "slug": "western-bound",
+        "gridKey": "62316e8eb9d292cb4ad7499f",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b89e1bed-7f63-46b3-9be4-b72bcf76839a/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-66428faa5116d565e63ae32a.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f.m3u8",
         "genres": [
           "Classics"
         ],
@@ -3377,6 +3364,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9e7083ff-4606-4660-985a-33f1aef8911f/GreenAcres_logo_light_-_Carl_Hoffelder_PURPLERDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-689fb2c329e3c9f1368c04a3.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "us"
+      },
+      "6995ed8173f56d61dc078f0d": {
+        "id": "6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d",
+        "slug": "circle-country",
+        "gridKey": "6995ed8173f56d61dc078f0d",
+        "name": "Circle Country",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
           "Classics"
         ],
@@ -3650,19 +3650,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3f7bd94d-a610-44a5-b895-609f409644e9/PLEX_Logo_Light_Mode_WHT_TEXT_-_lucas_arechaga.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-69153a4be449c6fdde65a65d.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "us"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "6a1610bebdf296985fd95603-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -6450,19 +6437,6 @@
         ],
         "region": "us"
       },
-      "64aed1e9c6085b5faf20ee1f": {
-        "id": "6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f",
-        "slug": "outflix-movies",
-        "gridKey": "64aed1e9c6085b5faf20ee1f",
-        "name": "OUTFLIX MOVIES",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/f95fc27d-0f98-4097-bce5-1ea35a0ce0f0/OUTflix-MOVIES_Logo_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-64aed1e9c6085b5faf20ee1f.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "us"
-      },
       "632270e3e67cf9cd9011fce1": {
         "id": "6a1610bebdf296985fd95603-632270e3e67cf9cd9011fce1",
         "slug": "at-home-with-family-handyman",
@@ -8036,6 +8010,19 @@
         ],
         "region": "us"
       },
+      "611152a48f945c002c40021a": {
+        "id": "6a1610bebdf296985fd95603-611152a48f945c002c40021a",
+        "slug": "mhz-mysteries",
+        "gridKey": "611152a48f945c002c40021a",
+        "name": "MHz Mysteries",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
       "63dea56a2a2abb171ff6dadf": {
         "id": "6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf",
         "slug": "anime-x-hidive-2",
@@ -8044,6 +8031,32 @@
         "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/666de197b5e5c34842b3a94ae5a12634.png",
         "callSign": "ANIMEH",
         "key": "/library/parts/6a1610bebdf296985fd95603-63dea56a2a2abb171ff6dadf.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
+      "65d90ec99c7a6da8c3ce57eb": {
+        "id": "6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb",
+        "slug": "movieitaly-channel",
+        "gridKey": "65d90ec99c7a6da8c3ce57eb",
+        "name": "Movieitaly Channel",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "us"
+      },
+      "6a023b768c3c8db908ecaee4": {
+        "id": "6a1610bebdf296985fd95603-6a023b768c3c8db908ecaee4",
+        "slug": "feva-tv",
+        "gridKey": "6a023b768c3c8db908ecaee4",
+        "name": "FEVA TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5c73b746-ef57-4c46-9c93-f5a2f25e03d8/1500_x_1000_PNG_w_transparent_background_-_Johnny_MilesCOLOR_WHIT_TEXT.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a023b768c3c8db908ecaee4.m3u8",
         "genres": [
           "Global"
         ],
@@ -8062,19 +8075,6 @@
         ],
         "region": "us"
       },
-      "611152a48f945c002c40021a": {
-        "id": "6a1610bebdf296985fd95603-611152a48f945c002c40021a",
-        "slug": "mhz-mysteries",
-        "gridKey": "611152a48f945c002c40021a",
-        "name": "MHz Mysteries",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1b8e6920-bf10-428e-b603-b2c7b2595857/Plex_MHzMysteries_Logo_White_1500x1000.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-611152a48f945c002c40021a.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
       "60d4edd8b2fdec002c14112f": {
         "id": "6a1610bebdf296985fd95603-60d4edd8b2fdec002c14112f",
         "slug": "rakuten-viki",
@@ -8083,19 +8083,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/rakutenviki_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60d4edd8b2fdec002c14112f.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "us"
-      },
-      "65d90ec99c7a6da8c3ce57eb": {
-        "id": "6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb",
-        "slug": "movieitaly-channel",
-        "gridKey": "65d90ec99c7a6da8c3ce57eb",
-        "name": "Movieitaly Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cd9cec29-1cdc-4cd0-b7c2-cdd8fc377536/Color_White_MI_LOGO1_-_Simona_CampobassoRDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65d90ec99c7a6da8c3ce57eb.m3u8",
         "genres": [
           "Global"
         ],
@@ -9273,6 +9260,19 @@
         ],
         "region": "ca"
       },
+      "6aa777e8fc710687a8b4db45": {
+        "id": "647f8d22a2fc3fadb4721685-6aa777e8fc710687a8b4db45",
+        "slug": "private-eyes",
+        "gridKey": "6aa777e8fc710687a8b4db45",
+        "name": "Private Eyes",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cc4a1f1d-34b5-4700-9234-9d1542eeeb3b/Plex_PrivateEyes_Logo_Light_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6aa777e8fc710687a8b4db45.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "ca"
+      },
       "6087ff3ae99ff1002ce1465b": {
         "id": "647f8d22a2fc3fadb4721685-6087ff3ae99ff1002ce1465b",
         "slug": "nashville",
@@ -9338,14 +9338,14 @@
         ],
         "region": "ca"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "647f8d22a2fc3fadb4721685-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab191a9e7969627826876a8": {
+        "id": "647f8d22a2fc3fadb4721685-6ab191a9e7969627826876a8",
+        "slug": "cops-12",
+        "gridKey": "6ab191a9e7969627826876a8",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8492f371-3e59-4890-926c-9376b1afd018/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ab191a9e7969627826876a8.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -9372,19 +9372,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "ca"
-      },
-      "6995ed8173f56d61dc078f0d": {
-        "id": "647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d",
-        "slug": "circle-country",
-        "gridKey": "6995ed8173f56d61dc078f0d",
-        "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -9702,14 +9689,27 @@
         ],
         "region": "ca"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "647f8d22a2fc3fadb4721685-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
-        "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+      "6a8cc101fc51826f5301a160": {
+        "id": "647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "ca"
+      },
+      "6ab56428177d989ab41dfd3f": {
+        "id": "647f8d22a2fc3fadb4721685-6ab56428177d989ab41dfd3f",
+        "slug": "jail-13",
+        "gridKey": "6ab56428177d989ab41dfd3f",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/67f3c99e-eb9a-4c35-b29f-c91bc4917da0/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ab56428177d989ab41dfd3f.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -10500,8 +10500,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -11392,6 +11392,19 @@
         ],
         "region": "ca"
       },
+      "6995ed8173f56d61dc078f0d": {
+        "id": "647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d",
+        "slug": "circle-country",
+        "gridKey": "6995ed8173f56d61dc078f0d",
+        "name": "Circle Country",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "ca"
+      },
       "61ddcc6023daf618ed44c29f": {
         "id": "647f8d22a2fc3fadb4721685-61ddcc6023daf618ed44c29f",
         "slug": "wanted-dead-or-alive",
@@ -11608,19 +11621,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "ca"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -14135,19 +14135,6 @@
         ],
         "region": "ca"
       },
-      "60d4eddab2fdec002c141131": {
-        "id": "647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131",
-        "slug": "new-k-movies",
-        "gridKey": "60d4eddab2fdec002c141131",
-        "name": "NEW K.MOVIES",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8",
-        "genres": [
-          "Global"
-        ],
-        "region": "ca"
-      },
       "6a023b768c3c8db908ecaee4": {
         "id": "647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4",
         "slug": "feva-tv",
@@ -14156,6 +14143,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5c73b746-ef57-4c46-9c93-f5a2f25e03d8/1500_x_1000_PNG_w_transparent_background_-_Johnny_MilesCOLOR_WHIT_TEXT.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6a023b768c3c8db908ecaee4.m3u8",
+        "genres": [
+          "Global"
+        ],
+        "region": "ca"
+      },
+      "60d4eddab2fdec002c141131": {
+        "id": "647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131",
+        "slug": "new-k-movies",
+        "gridKey": "60d4eddab2fdec002c141131",
+        "name": "NEW K.MOVIES",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/104dadc6-2e18-4bb5-a606-4b32db242f57/newkmovies_logo_dark_v2.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-60d4eddab2fdec002c141131.m3u8",
         "genres": [
           "Global"
         ],
@@ -15216,14 +15216,14 @@
         ],
         "region": "gb"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "64305451fc3be5947773c339-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab19406e7969627826876ae": {
+        "id": "64305451fc3be5947773c339-6ab19406e7969627826876ae",
+        "slug": "cops-15",
+        "gridKey": "6ab19406e7969627826876ae",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/328b5088-1205-4e6e-ad6c-9b387a8b1e7c/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/64305451fc3be5947773c339-6ab19406e7969627826876ae.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -15234,7 +15234,7 @@
         "slug": "sony-one-or-action-hits",
         "gridKey": "692111d750fe592fd6d5b7da",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cd8ecd7d-ec9a-466b-b1ed-0a8b56fe87d9/UK_FAST_Plex_ActionHits_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b7e6dc61-1c07-4ec3-b63e-4d69b5dc8d78/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-692111d750fe592fd6d5b7da.m3u8",
         "genres": [
@@ -15528,14 +15528,27 @@
         ],
         "region": "gb"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "64305451fc3be5947773c339-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
-        "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+      "6a8cc101fc51826f5301a160": {
+        "id": "64305451fc3be5947773c339-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/64305451fc3be5947773c339-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
+      "6ab56a0a177d989ab41dfd53": {
+        "id": "64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53",
+        "slug": "jail-23",
+        "gridKey": "6ab56a0a177d989ab41dfd53",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/78fd3266-e931-4918-9016-525a1f8dd296/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -16547,8 +16560,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/64305451fc3be5947773c339-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -17148,19 +17161,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "gb"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "64305451fc3be5947773c339-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -19833,14 +19833,14 @@
         ],
         "region": "au"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "697140a85d851f5e69414688-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab19f70e7969627826876b4": {
+        "id": "697140a85d851f5e69414688-6ab19f70e7969627826876b4",
+        "slug": "cops-18",
+        "gridKey": "6ab19f70e7969627826876b4",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/decfc889-30bc-4b21-951b-68fe49cd5ec1/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/697140a85d851f5e69414688-6ab19f70e7969627826876b4.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -20054,14 +20054,27 @@
         ],
         "region": "au"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "697140a85d851f5e69414688-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
-        "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+      "6a8cc101fc51826f5301a160": {
+        "id": "697140a85d851f5e69414688-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/697140a85d851f5e69414688-6a8cc101fc51826f5301a160.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "au"
+      },
+      "6ab563ad177d989ab41dfd3d": {
+        "id": "697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d",
+        "slug": "jail-12",
+        "gridKey": "6ab563ad177d989ab41dfd3d",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ed859206-0087-4340-9add-b4419ce55029/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -20774,8 +20787,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/697140a85d851f5e69414688-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -21349,19 +21362,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "au"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "697140a85d851f5e69414688-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -23566,19 +23566,6 @@
         ],
         "region": "nz"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
-        "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "nz"
-      },
       "6087ff3ae99ff1002ce1465b": {
         "id": "5e20b730f2f8d5003d739db7-6087ff3ae99ff1002ce1465b",
         "slug": "nashville",
@@ -23587,6 +23574,19 @@
         "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7ed379f6fe9fb99d36e235c9e315b03f.png",
         "callSign": "NASH",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-6087ff3ae99ff1002ce1465b.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "nz"
+      },
+      "6ab18f57e79696278268769e": {
+        "id": "5e20b730f2f8d5003d739db7-6ab18f57e79696278268769e",
+        "slug": "cops-7",
+        "gridKey": "6ab18f57e79696278268769e",
+        "name": "COPS",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/27c5a930-0fc5-4b74-9242-483beacb64c0/Cops_channel_logo_white_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab18f57e79696278268769e.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -23761,14 +23761,27 @@
         ],
         "region": "nz"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab404b15364aa2377195439": {
+        "id": "5e20b730f2f8d5003d739db7-6ab404b15364aa2377195439",
+        "slug": "jail-8",
+        "gridKey": "6ab404b15364aa2377195439",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/815b495f-3237-45e5-bf52-f427b53c8c52/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab404b15364aa2377195439.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "nz"
+      },
+      "6a8cc101fc51826f5301a160": {
+        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -24403,8 +24416,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -24965,19 +24978,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "nz"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -27065,6 +27065,19 @@
         ],
         "region": "mx"
       },
+      "6ab3fab35364aa2377195423": {
+        "id": "608049aefa2b8ae93c2c3a63-6ab3fab35364aa2377195423",
+        "slug": "cops-en-espanol-3",
+        "gridKey": "6ab3fab35364aa2377195423",
+        "name": "COPS en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f5005232-2087-4db6-a2bc-840d059fee60/Cops_channel_logo_white_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6ab3fab35364aa2377195423.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "mx"
+      },
       "67d4b095c792102dd8ec6c5b": {
         "id": "608049aefa2b8ae93c2c3a63-67d4b095c792102dd8ec6c5b",
         "slug": "z-nation-6",
@@ -27247,14 +27260,14 @@
         ],
         "region": "mx"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab19140e7969627826876a6": {
+        "id": "608049aefa2b8ae93c2c3a63-6ab19140e7969627826876a6",
+        "slug": "cops-11",
+        "gridKey": "6ab19140e7969627826876a6",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/93b42a63-bebc-4948-be5d-3ddcba89f2b9/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6ab19140e7969627826876a6.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -27455,6 +27468,19 @@
         ],
         "region": "mx"
       },
+      "6ab3fd895364aa237719542b": {
+        "id": "608049aefa2b8ae93c2c3a63-6ab3fd895364aa237719542b",
+        "slug": "jail-en-espanol-2",
+        "gridKey": "6ab3fd895364aa237719542b",
+        "name": "JAIL en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/232386fe-c283-4eec-a787-2227cf46bc99/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6ab3fd895364aa237719542b.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "mx"
+      },
       "66842aa2cd6f1d3940941159": {
         "id": "608049aefa2b8ae93c2c3a63-66842aa2cd6f1d3940941159",
         "slug": "sangre-fria",
@@ -27481,14 +27507,14 @@
         ],
         "region": "mx"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "608049aefa2b8ae93c2c3a63-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab56966177d989ab41dfd51": {
+        "id": "608049aefa2b8ae93c2c3a63-6ab56966177d989ab41dfd51",
+        "slug": "jail-22",
+        "gridKey": "6ab56966177d989ab41dfd51",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/39ee5559-7aff-46ee-a95b-37a40ebd4056/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6ab56966177d989ab41dfd51.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -27897,19 +27923,6 @@
         ],
         "region": "mx"
       },
-      "62ffc5cfa6cad6f2991745c2": {
-        "id": "608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2",
-        "slug": "fuel-tv-3",
-        "gridKey": "62ffc5cfa6cad6f2991745c2",
-        "name": "FUEL TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b3f56031-6337-4d19-a487-9edefea3ce28/CHANNEL_LOGO_3X2.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-62ffc5cfa6cad6f2991745c2.m3u8",
-        "genres": [
-          "Sports"
-        ],
-        "region": "mx"
-      },
       "60aeb5cd87f9b1002ce12323": {
         "id": "608049aefa2b8ae93c2c3a63-60aeb5cd87f9b1002ce12323",
         "slug": "nhra-tv",
@@ -27944,6 +27957,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/94b95e02-4cd5-4739-bb43-cd2a26158a85/aym_sports_logo_light_-_Jordan_Warkol.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63f0c8c6a9c2ebc9d406dda0.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "mx"
+      },
+      "6a951958f534d4312a699c27": {
+        "id": "608049aefa2b8ae93c2c3a63-6a951958f534d4312a699c27",
+        "slug": "fuel-tv-6",
+        "gridKey": "6a951958f534d4312a699c27",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/962f9563-b48d-4760-a1d2-dbc6cfb8aae1/FUELTVf3a8f9f9404c975495b093c73598d7baRDRED.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6a951958f534d4312a699c27.m3u8",
         "genres": [
           "Sports"
         ],
@@ -28201,8 +28227,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -28451,19 +28477,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-6674b68af04cf4bb9233c916.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "mx"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "608049aefa2b8ae93c2c3a63-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -30798,6 +30811,19 @@
         ],
         "region": "es"
       },
+      "6ab3fb945364aa2377195427": {
+        "id": "643054b1fc3be59477853717-6ab3fb945364aa2377195427",
+        "slug": "cops-en-espanol-5",
+        "gridKey": "6ab3fb945364aa2377195427",
+        "name": "COPS en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/bf146750-7c0d-4f41-878f-470c7d0d358b/Cops_channel_logo_white_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6ab3fb945364aa2377195427.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "es"
+      },
       "6880001d015fe7e375a1a0a8": {
         "id": "643054b1fc3be59477853717-6880001d015fe7e375a1a0a8",
         "slug": "wedotv-amor-piel-salvaje-3",
@@ -30837,14 +30863,14 @@
         ],
         "region": "es"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "643054b1fc3be59477853717-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab2a5c24d0a0fea95319571": {
+        "id": "643054b1fc3be59477853717-6ab2a5c24d0a0fea95319571",
+        "slug": "cops-23",
+        "gridKey": "6ab2a5c24d0a0fea95319571",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2dddf084-d0b9-454f-b993-925d154dfc6d/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/643054b1fc3be59477853717-6ab2a5c24d0a0fea95319571.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -31110,14 +31136,27 @@
         ],
         "region": "es"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "643054b1fc3be59477853717-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
-        "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+      "6ab3fcd55364aa2377195429": {
+        "id": "643054b1fc3be59477853717-6ab3fcd55364aa2377195429",
+        "slug": "jail-en-espanol",
+        "gridKey": "6ab3fcd55364aa2377195429",
+        "name": "JAIL en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f117aa7d-1a3e-4d49-aa6a-5df7c97566bb/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/643054b1fc3be59477853717-6ab3fcd55364aa2377195429.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "es"
+      },
+      "6ab56313177d989ab41dfd3b": {
+        "id": "643054b1fc3be59477853717-6ab56313177d989ab41dfd3b",
+        "slug": "jail-11",
+        "gridKey": "6ab56313177d989ab41dfd3b",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f1c19736-b2df-4b76-8c29-b1832b1fab5d/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6ab56313177d989ab41dfd3b.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -31869,8 +31908,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/643054b1fc3be59477853717-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -32184,19 +32223,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-6674b68af04cf4bb9233c916.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "es"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "643054b1fc3be59477853717-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -34141,19 +34167,6 @@
         ],
         "region": "fr"
       },
-      "68e03beea4f2aa9b08ed5281": {
-        "id": "6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281",
-        "slug": "les-filles-da-cotes-tv",
-        "gridKey": "68e03beea4f2aa9b08ed5281",
-        "name": "Les filles d’à côtés TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8bb7c0f6-b0d3-447f-afaa-0afe20691452/Logo_suitable_for_dark_backgrounds_Les-Filles-d_a-cote.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68e03beea4f2aa9b08ed5281.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "fr"
-      },
       "63ac5e95c7cce47c86164bca": {
         "id": "6430aa45fc3be5947780904e-63ac5e95c7cce47c86164bca",
         "slug": "motus-la-chaine",
@@ -34180,19 +34193,6 @@
         ],
         "region": "fr"
       },
-      "68e03d842cbc7a5d3189394a": {
-        "id": "6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a",
-        "slug": "generation-sitcoms-tv",
-        "gridKey": "68e03d842cbc7a5d3189394a",
-        "name": "Génération Sitcoms TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c72448e1-59be-4c04-b2c8-461cb3bb5bac/All_White_Generation-Sitcom.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68e03d842cbc7a5d3189394a.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "fr"
-      },
       "6490e6ae18a55242eea95997": {
         "id": "6430aa45fc3be5947780904e-6490e6ae18a55242eea95997",
         "slug": "frequence-novelas",
@@ -34214,19 +34214,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6b9c9fbf-b52f-4a69-8a94-c73329507bcd/TopSciFi_Logo_1500x1000_White.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-69a1f7228d9f2822f6f50637.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "fr"
-      },
-      "68e03cb418c739b4d91a6a59": {
-        "id": "6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59",
-        "slug": "alerte-a-malibu-tv",
-        "gridKey": "68e03cb418c739b4d91a6a59",
-        "name": "Alerte à Malibu TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/fb65dea3-d6c1-403e-830f-361a01204fa1/All_White_Alerte-A-Malibu.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68e03cb418c739b4d91a6a59.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -34310,14 +34297,14 @@
         ],
         "region": "fr"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "6430aa45fc3be5947780904e-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab2a4694d0a0fea9531956d": {
+        "id": "6430aa45fc3be5947780904e-6ab2a4694d0a0fea9531956d",
+        "slug": "cops-21",
+        "gridKey": "6ab2a4694d0a0fea9531956d",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f1af9d4c-c575-445e-93c1-17dcb5b82883/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6ab2a4694d0a0fea9531956d.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -34531,14 +34518,14 @@
         ],
         "region": "fr"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "6430aa45fc3be5947780904e-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab5681e177d989ab41dfd4d": {
+        "id": "6430aa45fc3be5947780904e-6ab5681e177d989ab41dfd4d",
+        "slug": "jail-20",
+        "gridKey": "6ab5681e177d989ab41dfd4d",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1c956b18-3efb-4cb4-9131-f89fc43c8344/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6ab5681e177d989ab41dfd4d.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -35030,8 +35017,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/6430aa45fc3be5947780904e-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -35540,19 +35527,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/0572c2c0-36cd-432f-8f7c-eabecb83f553/Grjngo-Westernfilme_logo_light_-_Toni_Newesil.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-63489a771159f6a5ce819b7b.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "fr"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "6430aa45fc3be5947780904e-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -37354,25 +37328,12 @@
         ],
         "region": "de"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "635177ecff6cd5445d7f9b0b-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
-        "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-626c1753ffda6789d20a452e.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "de"
-      },
       "69212d585028288613484a7e": {
         "id": "635177ecff6cd5445d7f9b0b-69212d585028288613484a7e",
         "slug": "sony-one-or-action-hits-2",
         "gridKey": "69212d585028288613484a7e",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/49fb84e4-2c92-4a06-94a7-a7449b06843a/DE_FAST_Plex_ActionHits_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c2041ce0-e661-46a2-b372-f368232640de/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-69212d585028288613484a7e.m3u8",
         "genres": [
@@ -37440,19 +37401,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/6d0b0148-0862-45be-918e-96843d7dba20/Channel_Logo_Fabella_Color_for_Dark_BG_-_Ricardo_RivasRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-68e9428d141091437e6c4311.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "de"
-      },
-      "688d2376324d7b6bc1161bef": {
-        "id": "635177ecff6cd5445d7f9b0b-688d2376324d7b6bc1161bef",
-        "slug": "deutsche-filme",
-        "gridKey": "688d2376324d7b6bc1161bef",
-        "name": "Deutsche Filme",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/4b70ef8c-7870-4fa5-8d06-c9a0903ebea6/deutschefilme_channellogo_col_whiteeRDX.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-688d2376324d7b6bc1161bef.m3u8",
         "genres": [
           "Movies"
         ],
@@ -37635,19 +37583,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/10f56c38-577d-4e20-b0ff-f570622591a3/crime_scene_tv_white.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-685f158e6c220c4e9e333a02.m3u8",
-        "genres": [
-          "True Crime"
-        ],
-        "region": "de"
-      },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "635177ecff6cd5445d7f9b0b-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
-        "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6448ba1baf92c31f4a190c27.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -38282,8 +38217,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -38740,19 +38675,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6674b68af04cf4bb9233c916.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "de"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "635177ecff6cd5445d7f9b0b-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -40606,14 +40528,27 @@
         ],
         "region": "br"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "646546f35db8ada4c8edd7e5-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
-        "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+      "6ab3fb245364aa2377195425": {
+        "id": "646546f35db8ada4c8edd7e5-6ab3fb245364aa2377195425",
+        "slug": "cops-en-espanol-4",
+        "gridKey": "6ab3fb245364aa2377195425",
+        "name": "COPS en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4ad8424b-0135-4d64-974b-60e23ddc24b8/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6ab3fb245364aa2377195425.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "br"
+      },
+      "6ab195d9e7969627826876b2": {
+        "id": "646546f35db8ada4c8edd7e5-6ab195d9e7969627826876b2",
+        "slug": "cops-17",
+        "gridKey": "6ab195d9e7969627826876b2",
+        "name": "COPS",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/45215d8a-8c68-42e8-8f9a-a128a6cb0fc0/Cops_channel_logo_white_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6ab195d9e7969627826876b2.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -40866,14 +40801,27 @@
         ],
         "region": "br"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "646546f35db8ada4c8edd7e5-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab55db4b527490dcc3a32a4": {
+        "id": "646546f35db8ada4c8edd7e5-6ab55db4b527490dcc3a32a4",
+        "slug": "jail-10",
+        "gridKey": "6ab55db4b527490dcc3a32a4",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dc7f417b-1f3d-456d-947a-34d71f265446/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6ab55db4b527490dcc3a32a4.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "br"
+      },
+      "6ab3fe745364aa237719542f": {
+        "id": "646546f35db8ada4c8edd7e5-6ab3fe745364aa237719542f",
+        "slug": "jail-en-espanol-4",
+        "gridKey": "6ab3fe745364aa237719542f",
+        "name": "JAIL en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/717e0f36-a978-4c37-bc15-f509e3fe322e/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6ab3fe745364aa237719542f.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -41230,6 +41178,19 @@
         ],
         "region": "br"
       },
+      "6a951881f534d4312a699c25": {
+        "id": "646546f35db8ada4c8edd7e5-6a951881f534d4312a699c25",
+        "slug": "fuel-tv-5",
+        "gridKey": "6a951881f534d4312a699c25",
+        "name": "FUEL TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e8d09fea-d56b-462e-9554-2ee9957422e1/FUELTVf3a8f9f9404c975495b093c73598d7baRDRED.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6a951881f534d4312a699c25.m3u8",
+        "genres": [
+          "Sports"
+        ],
+        "region": "br"
+      },
       "60afc726623f2f002c5bb49f": {
         "id": "646546f35db8ada4c8edd7e5-60afc726623f2f002c5bb49f",
         "slug": "poker-night-tv",
@@ -41378,8 +41339,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -41862,19 +41823,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/f2194eb4-c78d-4502-a3ab-616eb2624c7d/FilmRise_DeathValleyDays_White_LogoRDX.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-6674b68af04cf4bb9233c916.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "br"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "646546f35db8ada4c8edd7e5-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -43871,14 +43819,14 @@
         ],
         "region": "in"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "698f7631338300003d436270-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab194ebe7969627826876b0": {
+        "id": "698f7631338300003d436270-6ab194ebe7969627826876b0",
+        "slug": "cops-16",
+        "gridKey": "6ab194ebe7969627826876b0",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d4c33410-8af4-4f78-a367-e37a79ef9964/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/698f7631338300003d436270-6ab194ebe7969627826876b0.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -43949,14 +43897,14 @@
         ],
         "region": "in"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "698f7631338300003d436270-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab405195364aa237719543b": {
+        "id": "698f7631338300003d436270-6ab405195364aa237719543b",
+        "slug": "jail-9",
+        "gridKey": "6ab405195364aa237719543b",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6e374a3d-54dd-4719-b1b4-1c036a337722/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/698f7631338300003d436270-6ab405195364aa237719543b.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -44461,8 +44409,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/698f7631338300003d436270-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -44815,19 +44763,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "in"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "698f7631338300003d436270-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -46369,14 +46304,14 @@
       }
     },
     "jp": {
-      "626c1753ffda6789d20a452e": {
-        "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab184dbe796962782687694": {
+        "id": "5e20b730f2f8d5003d739db7-6ab184dbe796962782687694",
+        "slug": "cops-2",
+        "gridKey": "6ab184dbe796962782687694",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c45ab565-ca8a-404d-9fe6-3c2ab4598cca/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab184dbe796962782687694.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -46421,14 +46356,14 @@
         ],
         "region": "jp"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab5677f177d989ab41dfd4b": {
+        "id": "5e20b730f2f8d5003d739db7-6ab5677f177d989ab41dfd4b",
+        "slug": "jail-19",
+        "gridKey": "6ab5677f177d989ab41dfd4b",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a98e9a23-eeca-4b88-a657-886e9115c5f3/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab5677f177d989ab41dfd4b.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -46933,8 +46868,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -47235,19 +47170,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "jp"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -48659,14 +48581,14 @@
       }
     },
     "kr": {
-      "626c1753ffda6789d20a452e": {
-        "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab190a9e7969627826876a4": {
+        "id": "5e20b730f2f8d5003d739db7-6ab190a9e7969627826876a4",
+        "slug": "cops-10",
+        "gridKey": "6ab190a9e7969627826876a4",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a2153602-5451-4092-a998-8f8ff25090ef/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab190a9e7969627826876a4.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -48711,14 +48633,14 @@
         ],
         "region": "kr"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab565b1177d989ab41dfd45": {
+        "id": "5e20b730f2f8d5003d739db7-6ab565b1177d989ab41dfd45",
+        "slug": "jail-16",
+        "gridKey": "6ab565b1177d989ab41dfd45",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8ed9ddaf-3c8d-48e3-8611-80d268a11cce/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab565b1177d989ab41dfd45.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -49236,8 +49158,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -49525,19 +49447,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "kr"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -50949,14 +50858,14 @@
         ],
         "region": "se"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab18d62e796962782687698": {
+        "id": "5e20b730f2f8d5003d739db7-6ab18d62e796962782687698",
+        "slug": "cops-4",
+        "gridKey": "6ab18d62e796962782687698",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eecf14fb-ad74-4006-8679-1d4e1369b96d/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab18d62e796962782687698.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -51006,7 +50915,7 @@
         "slug": "sony-one-or-action-hits-5",
         "gridKey": "692326cd5cbe620c1f9b6bcd",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/309b2d25-e0e8-4ba3-a79c-691427b95e8a/UK_FAST_Plex_ActionHits_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dcebeb11-e913-4ad3-9051-48b40c33d672/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-692326cd5cbe620c1f9b6bcd.m3u8",
         "genres": [
@@ -51144,14 +51053,27 @@
         ],
         "region": "se"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab403c65364aa2377195435": {
+        "id": "5e20b730f2f8d5003d739db7-6ab403c65364aa2377195435",
+        "slug": "jail-6",
+        "gridKey": "6ab403c65364aa2377195435",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e617f9af-7e0d-417c-b9b7-676ff6bc3b2f/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab403c65364aa2377195435.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "se"
+      },
+      "6a8cc101fc51826f5301a160": {
+        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -51760,8 +51682,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -52270,19 +52192,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "se"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
@@ -54136,14 +54045,14 @@
         ],
         "region": "nl"
       },
-      "626c1753ffda6789d20a452e": {
-        "id": "5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e",
-        "slug": "cops",
-        "gridKey": "626c1753ffda6789d20a452e",
+      "6ab18ea5e79696278268769c": {
+        "id": "5e20b730f2f8d5003d739db7-6ab18ea5e79696278268769c",
+        "slug": "cops-6",
+        "gridKey": "6ab18ea5e79696278268769c",
         "name": "COPS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/41babb58-eb00-4a0d-8a5f-094950a5d8f2/James_Roebuck_-_COPDS-PLEX_CH_LOGO_07.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f5ea4338-e21c-4c54-9f2f-92bdd417ab8a/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-626c1753ffda6789d20a452e.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab18ea5e79696278268769c.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -54279,14 +54188,27 @@
         ],
         "region": "nl"
       },
-      "6448ba1baf92c31f4a190c27": {
-        "id": "5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27",
-        "slug": "jail",
-        "gridKey": "6448ba1baf92c31f4a190c27",
+      "6ab56d8fa432815a8eda68e7": {
+        "id": "5e20b730f2f8d5003d739db7-6ab56d8fa432815a8eda68e7",
+        "slug": "jail-24",
+        "gridKey": "6ab56d8fa432815a8eda68e7",
         "name": "JAIL",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/197deb16-75ae-4d63-8dd5-96060ab49fca/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6448ba1baf92c31f4a190c27.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ab56d8fa432815a8eda68e7.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "nl"
+      },
+      "6a8cc101fc51826f5301a160": {
+        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
+        "slug": "cops-reloaded",
+        "gridKey": "6a8cc101fc51826f5301a160",
+        "name": "COPS Reloaded",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -54869,8 +54791,8 @@
         "slug": "pursuitup",
         "gridKey": "63628eb88e4b18ca22f897dc",
         "name": "PursuitUP",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b6b9b8c8-e821-4f5c-b617-2f2d87dc8d72/Light_Logo_-_Austen_Faulk.png",
-        "callSign": "",
+        "logo": "https://provider-static.plex.tv/8/epg/channels/logos/gracenote/8248dd05395e0b18c87a4a92d5b9cb84.png",
+        "callSign": "PRSTUP",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-63628eb88e4b18ca22f897dc.m3u8",
         "genres": [
           "Sports"
@@ -55301,19 +55223,6 @@
         "logo": "https://provider-static.plex.tv/epg/images/ott_channels/logos/johnnycarsontv_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-60d4edd6b2fdec002c141123.m3u8",
-        "genres": [
-          "Classics"
-        ],
-        "region": "nl"
-      },
-      "68c98e7460586565cc56baab": {
-        "id": "5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab",
-        "slug": "crime-beat-tv",
-        "gridKey": "68c98e7460586565cc56baab",
-        "name": "Crime Beat TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6d933fc7-172f-463f-a4f4-4d08bca2694a/CrimeBeatTV_TT_1500x1000RDX_White_Letters.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-68c98e7460586565cc56baab.m3u8",
         "genres": [
           "Classics"
         ],
