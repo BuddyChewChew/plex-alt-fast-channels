@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T17:52:58.542566+00:00",
+  "generated": "2026-10-19T21:48:33.551551+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -10053,6 +10053,19 @@
         ],
         "region": "ca"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "ca"
+      },
       "668561babc1490a2f408f30c": {
         "id": "647f8d22a2fc3fadb4721685-668561babc1490a2f408f30c",
         "slug": "60-minutes",
@@ -15814,6 +15827,19 @@
         ],
         "region": "gb"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "64305451fc3be5947773c339-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "gb"
+      },
       "60089d90f682a3002c348299": {
         "id": "64305451fc3be5947773c339-60089d90f682a3002c348299",
         "slug": "euronews",
@@ -20197,6 +20223,19 @@
         ],
         "region": "au"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "697140a85d851f5e69414688-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "au"
+      },
       "66be955c8711311880995282": {
         "id": "697140a85d851f5e69414688-66be955c8711311880995282",
         "slug": "gb-news",
@@ -23912,6 +23951,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "nz"
+      },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8",
         "genres": [
           "News"
         ],
@@ -27637,6 +27689,19 @@
         ],
         "region": "mx"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "608049aefa2b8ae93c2c3a63-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "mx"
+      },
       "688b7f47c8caf40b4a62239f": {
         "id": "608049aefa2b8ae93c2c3a63-688b7f47c8caf40b4a62239f",
         "slug": "newsmax-en-espanol",
@@ -31357,6 +31422,19 @@
         ],
         "region": "es"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "643054b1fc3be59477853717-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/643054b1fc3be59477853717-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "es"
+      },
       "60089d90f682a3002c348299": {
         "id": "643054b1fc3be59477853717-60089d90f682a3002c348299",
         "slug": "euronews",
@@ -34778,6 +34856,19 @@
         ],
         "region": "fr"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "6430aa45fc3be5947780904e-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "fr"
+      },
       "6245cd154f27f4e9c76d67e9": {
         "id": "6430aa45fc3be5947780904e-6245cd154f27f4e9c76d67e9",
         "slug": "euronews-portuguese",
@@ -37869,6 +37960,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2be15415-4f0d-4d23-a4d4-3ec22445740a/Plex-WURL_Euronews-Logos_FR_-_astrid_collomb.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-6245f06793b402a3d1097787.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "de"
+      },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "635177ecff6cd5445d7f9b0b-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6abd4743e1b65dffbc995e44.m3u8",
         "genres": [
           "News"
         ],
@@ -41035,6 +41139,19 @@
         ],
         "region": "br"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "646546f35db8ada4c8edd7e5-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "br"
+      },
       "60089d90f682a3002c348299": {
         "id": "646546f35db8ada4c8edd7e5-60089d90f682a3002c348299",
         "slug": "euronews",
@@ -44079,6 +44196,19 @@
         ],
         "region": "in"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "698f7631338300003d436270-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/698f7631338300003d436270-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "in"
+      },
       "60089d90f682a3002c348299": {
         "id": "698f7631338300003d436270-60089d90f682a3002c348299",
         "slug": "euronews",
@@ -46512,6 +46642,19 @@
         ],
         "region": "jp"
       },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "jp"
+      },
       "5eea71d65252710041e0ccbc": {
         "id": "5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc",
         "slug": "the-reuters-60",
@@ -48797,6 +48940,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "kr"
+      },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8",
         "genres": [
           "News"
         ],
@@ -51269,6 +51425,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "se"
+      },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8",
         "genres": [
           "News"
         ],
@@ -54404,6 +54573,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/883ee6c5-8ed3-41ed-b45f-b39af995fe37/TPGC-Logos_97_.ai_-_Steve_Shannon_WHT_TEXTRDX2.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69f52ffb6e5708fb20d36d9c.m3u8",
+        "genres": [
+          "News"
+        ],
+        "region": "nl"
+      },
+      "6abd4743e1b65dffbc995e44": {
+        "id": "5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44",
+        "slug": "newsmax",
+        "gridKey": "6abd4743e1b65dffbc995e44",
+        "name": "NEWSMAX",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/90b1708c-fab8-4016-874a-33afa40fd951/NSMX_dark_base.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6abd4743e1b65dffbc995e44.m3u8",
         "genres": [
           "News"
         ],
