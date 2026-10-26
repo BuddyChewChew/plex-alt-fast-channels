@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T17:46:29.009412+00:00",
+  "generated": "2026-10-26T22:01:14.264952+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -16737,40 +16737,14 @@
         ],
         "region": "gb"
       },
-      "6a5d4a825830ca1b11df3c4b": {
-        "id": "64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b",
-        "slug": "love-after-lockup-2",
-        "gridKey": "6a5d4a825830ca1b11df3c4b",
-        "name": "Love after Lockup",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/de1c07c9-c023-41c1-ad1b-6b84c58358ac/LOVE_AFTER_LOCKUP_1500x1000_LOGO_WHITE.png",
+      "68dcb9f59beaa3a402966db8": {
+        "id": "64305451fc3be5947773c339-68dcb9f59beaa3a402966db8",
+        "slug": "hells-kitchen-2",
+        "gridKey": "68dcb9f59beaa3a402966db8",
+        "name": "Hell's Kitchen",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/dbfb2f5c-2f61-4bc6-a6ce-ba692926421f/HellsKitchen_Logo_White_1500X1000.png",
         "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
-      "6a5d4c8fbfb60c398ce03cd7": {
-        "id": "64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7",
-        "slug": "amc-reality-2",
-        "gridKey": "6a5d4c8fbfb60c398ce03cd7",
-        "name": "AMC Reality",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/81b22af9-7a76-45f1-b13b-1d3ff39c2c33/AMC_REALITY_1500x1000_LOGO_LIGHT.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
-      "6a5d4dde5830ca1b11df3c4d": {
-        "id": "64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d",
-        "slug": "amc-cupid-2",
-        "gridKey": "6a5d4dde5830ca1b11df3c4d",
-        "name": "AMC Cupid",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/cf793ad1-fa4c-4dc5-ad43-73faa32e5355/AMC_CUPID_1500x1000_LOGO_LIGHT.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d.m3u8",
+        "key": "/library/parts/64305451fc3be5947773c339-68dcb9f59beaa3a402966db8.m3u8",
         "genres": [
           "Reality"
         ],
@@ -16797,6 +16771,45 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/91ffbeaa-df66-4074-83d6-94cacb9622fa/Plex_Totem_BondiRescue_Logo_White_-_Rowan_Williams.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-69ae4f38e657bab5f7a9b7ec.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "6a5d4a825830ca1b11df3c4b": {
+        "id": "64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b",
+        "slug": "love-after-lockup-2",
+        "gridKey": "6a5d4a825830ca1b11df3c4b",
+        "name": "Love after Lockup",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/de1c07c9-c023-41c1-ad1b-6b84c58358ac/LOVE_AFTER_LOCKUP_1500x1000_LOGO_WHITE.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d4a825830ca1b11df3c4b.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "69b16dcb87340e48b7b7224b": {
+        "id": "64305451fc3be5947773c339-69b16dcb87340e48b7b7224b",
+        "slug": "hoarders",
+        "gridKey": "69b16dcb87340e48b7b7224b",
+        "name": "Hoarders",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/250474f8-ee4a-406a-bc71-1bd17c1eb1ad/Hoarders_WHITE_WIDE_Logo_WHTRDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-69b16dcb87340e48b7b7224b.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "690cd1fb750b5c46ff424c8e": {
+        "id": "64305451fc3be5947773c339-690cd1fb750b5c46ff424c8e",
+        "slug": "mayday-air-disaster",
+        "gridKey": "690cd1fb750b5c46ff424c8e",
+        "name": "Mayday: Air Disaster",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-690cd1fb750b5c46ff424c8e.m3u8",
         "genres": [
           "Reality"
         ],
@@ -16841,6 +16854,19 @@
         ],
         "region": "gb"
       },
+      "68dcb7c667386a41d59918df": {
+        "id": "64305451fc3be5947773c339-68dcb7c667386a41d59918df",
+        "slug": "the-hotel-inspector",
+        "gridKey": "68dcb7c667386a41d59918df",
+        "name": "The Hotel Inspector",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/86bd263a-b915-4fa8-b7cf-524ce29bea12/Hotel_Inspector_Logo_White_1500X1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-68dcb7c667386a41d59918df.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
       "6a2ec19bb6fce3105a23475e": {
         "id": "64305451fc3be5947773c339-6a2ec19bb6fce3105a23475e",
         "slug": "ax-men-3",
@@ -16849,6 +16875,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/8518dcca-354b-4466-8da4-cab6621496aa/Ax_Men_Logo_WHITE_RDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6a2ec19bb6fce3105a23475e.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "6a5d4c8fbfb60c398ce03cd7": {
+        "id": "64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7",
+        "slug": "amc-reality-2",
+        "gridKey": "6a5d4c8fbfb60c398ce03cd7",
+        "name": "AMC Reality",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/81b22af9-7a76-45f1-b13b-1d3ff39c2c33/AMC_REALITY_1500x1000_LOGO_LIGHT.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d4c8fbfb60c398ce03cd7.m3u8",
         "genres": [
           "Reality"
         ],
@@ -16867,32 +16906,6 @@
         ],
         "region": "gb"
       },
-      "690cd1fb750b5c46ff424c8e": {
-        "id": "64305451fc3be5947773c339-690cd1fb750b5c46ff424c8e",
-        "slug": "mayday-air-disaster",
-        "gridKey": "690cd1fb750b5c46ff424c8e",
-        "name": "Mayday: Air Disaster",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/d4c908f9-fa67-4a24-9413-b2e735726e89/PTV_Mayday_1500x1000px_Logo_Colored.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-690cd1fb750b5c46ff424c8e.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
-      "69b16dcb87340e48b7b7224b": {
-        "id": "64305451fc3be5947773c339-69b16dcb87340e48b7b7224b",
-        "slug": "hoarders",
-        "gridKey": "69b16dcb87340e48b7b7224b",
-        "name": "Hoarders",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/250474f8-ee4a-406a-bc71-1bd17c1eb1ad/Hoarders_WHITE_WIDE_Logo_WHTRDX.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-69b16dcb87340e48b7b7224b.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
       "69aed745e657bab5f7a9b7f2": {
         "id": "64305451fc3be5947773c339-69aed745e657bab5f7a9b7f2",
         "slug": "little-women-la-4",
@@ -16901,32 +16914,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/494c1763-e999-45a3-8588-354908051a56/Little_Women_LA_Logo_STACKED_WHT_COLORRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-69aed745e657bab5f7a9b7f2.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
-      "69dfefffb1533a88c65eac46": {
-        "id": "64305451fc3be5947773c339-69dfefffb1533a88c65eac46",
-        "slug": "chaos-on-cam-2",
-        "gridKey": "69dfefffb1533a88c65eac46",
-        "name": "Chaos on Cam",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/1f70ab34-e675-47d7-8153-e22b07aa806f/Chaos_on_Cam_channel_logo_4c_1500x1000RDX.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-69dfefffb1533a88c65eac46.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
-      "6515fa752ff655e77635c626": {
-        "id": "64305451fc3be5947773c339-6515fa752ff655e77635c626",
-        "slug": "the-osbournes",
-        "gridKey": "6515fa752ff655e77635c626",
-        "name": "The Osbournes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/800e74ab-7d32-40a7-bfcd-46759da46896/TheOsbournes_Logo_White_1500x1000_-_Harry_Marshall.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6515fa752ff655e77635c626.m3u8",
         "genres": [
           "Reality"
         ],
@@ -16945,6 +16932,32 @@
         ],
         "region": "gb"
       },
+      "6a5d4dde5830ca1b11df3c4d": {
+        "id": "64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d",
+        "slug": "amc-cupid-2",
+        "gridKey": "6a5d4dde5830ca1b11df3c4d",
+        "name": "AMC Cupid",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf793ad1-fa4c-4dc5-ad43-73faa32e5355/AMC_CUPID_1500x1000_LOGO_LIGHT.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6a5d4dde5830ca1b11df3c4d.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
+      "6515fa752ff655e77635c626": {
+        "id": "64305451fc3be5947773c339-6515fa752ff655e77635c626",
+        "slug": "the-osbournes",
+        "gridKey": "6515fa752ff655e77635c626",
+        "name": "The Osbournes",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/800e74ab-7d32-40a7-bfcd-46759da46896/TheOsbournes_Logo_White_1500x1000_-_Harry_Marshall.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6515fa752ff655e77635c626.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "gb"
+      },
       "6a300b4d50e72a483a631e71": {
         "id": "64305451fc3be5947773c339-6a300b4d50e72a483a631e71",
         "slug": "i-survived-6",
@@ -16958,14 +16971,14 @@
         ],
         "region": "gb"
       },
-      "68dcb9f59beaa3a402966db8": {
-        "id": "64305451fc3be5947773c339-68dcb9f59beaa3a402966db8",
-        "slug": "hells-kitchen-2",
-        "gridKey": "68dcb9f59beaa3a402966db8",
-        "name": "Hell's Kitchen",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dbfb2f5c-2f61-4bc6-a6ce-ba692926421f/HellsKitchen_Logo_White_1500X1000.png",
+      "69dfefffb1533a88c65eac46": {
+        "id": "64305451fc3be5947773c339-69dfefffb1533a88c65eac46",
+        "slug": "chaos-on-cam-2",
+        "gridKey": "69dfefffb1533a88c65eac46",
+        "name": "Chaos on Cam",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1f70ab34-e675-47d7-8153-e22b07aa806f/Chaos_on_Cam_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-68dcb9f59beaa3a402966db8.m3u8",
+        "key": "/library/parts/64305451fc3be5947773c339-69dfefffb1533a88c65eac46.m3u8",
         "genres": [
           "Reality"
         ],
@@ -16992,19 +17005,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/9ca911d1-d17e-4ed9-9baf-ab3abb4a7fd4/SO_REAL_LOGO_WHITE_Jack_ArcherRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-693cb60258076a970420f595.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "gb"
-      },
-      "68dcb7c667386a41d59918df": {
-        "id": "64305451fc3be5947773c339-68dcb7c667386a41d59918df",
-        "slug": "the-hotel-inspector",
-        "gridKey": "68dcb7c667386a41d59918df",
-        "name": "The Hotel Inspector",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/86bd263a-b915-4fa8-b7cf-524ce29bea12/Hotel_Inspector_Logo_White_1500X1000.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-68dcb7c667386a41d59918df.m3u8",
         "genres": [
           "Reality"
         ],
