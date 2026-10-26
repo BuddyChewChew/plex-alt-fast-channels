@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T21:48:33.551551+00:00",
+  "generated": "2026-10-26T02:02:16.355207+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -1115,6 +1115,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/3dfda714-2c2e-409d-a54a-c386f8110a3d/FilmRise_UnsolvedMysteries_Color_Logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6449369eb3ff17382cae5816.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "us"
+      },
+      "6448ba1baf92c31f4a190c27": {
+        "id": "6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27",
+        "slug": "jail",
+        "gridKey": "6448ba1baf92c31f4a190c27",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/08872b9b-a4a7-4533-a19b-d2c24a7bf2f1/JAIL_-_channel_logo_-_light_-_dark_-_1500x1000.png_James_Roebuck.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6448ba1baf92c31f4a190c27.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -2477,7 +2490,7 @@
         "slug": "bein-sports-xtra",
         "gridKey": "60a53634126de9002e694bc4",
         "name": "beIN SPORTS XTRA",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2bc78162-f4bb-4276-8df3-85c13133df3f/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/df24287c-ba1c-461f-b686-b1842ba47857/beIN_SPORTS_XTRA_LOGO.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-60a53634126de9002e694bc4.m3u8",
         "genres": [
@@ -7495,7 +7508,7 @@
         "slug": "bein-sports-xtra-en-espanol",
         "gridKey": "64a8903d273b89c4e7396553",
         "name": "beIN Sports Xtra en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-64a8903d273b89c4e7396553.m3u8",
         "genres": [
@@ -7646,19 +7659,6 @@
         ],
         "region": "us"
       },
-      "608b7095a09205002da4f295": {
-        "id": "6a1610bebdf296985fd95603-608b7095a09205002da4f295",
-        "slug": "freetv-drama-2",
-        "gridKey": "608b7095a09205002da4f295",
-        "name": "FreeTV Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-608b7095a09205002da4f295.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "608b7095a09205002da4f293": {
         "id": "6a1610bebdf296985fd95603-608b7095a09205002da4f293",
         "slug": "freetv-estelar-2",
@@ -7797,6 +7797,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/fc750061-c748-4016-83e0-9f56a40a493c/Pelimex_red_logo_RDXC2.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-67db3546d66f778a752f7eaa.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6ac7d3f79bc31041616d22a4": {
+        "id": "6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4",
+        "slug": "freetv-drama-3",
+        "gridKey": "6ac7d3f79bc31041616d22a4",
+        "name": "FreeTV Drama",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/46ce7754-f528-420b-b905-5a4ce8c8bd33/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ac7d3f79bc31041616d22a4.m3u8",
         "genres": [
           "En Español"
         ],
@@ -9715,14 +9728,14 @@
         ],
         "region": "ca"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad26caa5374a1e72d13462c": {
+        "id": "647f8d22a2fc3fadb4721685-6ad26caa5374a1e72d13462c",
+        "slug": "cops-reloaded-2",
+        "gridKey": "6ad26caa5374a1e72d13462c",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7c36d88c-eae3-481b-af99-237116545601/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad26caa5374a1e72d13462c.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -13238,6 +13251,19 @@
         ],
         "region": "ca"
       },
+      "6ad25a35b3edba59b49aabbe": {
+        "id": "647f8d22a2fc3fadb4721685-6ad25a35b3edba59b49aabbe",
+        "slug": "carwow",
+        "gridKey": "6ad25a35b3edba59b49aabbe",
+        "name": "Carwow",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/73e31642-ce17-4b41-b286-4d3c7fd4f9cf/CarWow_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad25a35b3edba59b49aabbe.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "ca"
+      },
       "63d6f9b67c3070b6e06e0aad": {
         "id": "647f8d22a2fc3fadb4721685-63d6f9b67c3070b6e06e0aad",
         "slug": "garden-with-monty-don",
@@ -14075,7 +14101,7 @@
         "slug": "bein-sports-xtra-en-espanol",
         "gridKey": "64a8903d273b89c4e7396553",
         "name": "beIN Sports Xtra en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/367f55e2-df38-4fc5-b6cf-c102fd938601/PLEX_XTRA_LOGO_MAIN_-_Mayra_Lopez.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5e247c07-7b64-422a-87e5-b07091c15702/beIN_SPORTS_XTRA_EN_ESPAN__OL_LOGO.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-64a8903d273b89c4e7396553.m3u8",
         "genres": [
@@ -15580,14 +15606,14 @@
         ],
         "region": "gb"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "64305451fc3be5947773c339-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad26e9c5374a1e72d134630": {
+        "id": "64305451fc3be5947773c339-6ad26e9c5374a1e72d134630",
+        "slug": "cops-reloaded-4",
+        "gridKey": "6ad26e9c5374a1e72d134630",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d7b95220-3128-4b81-bbcf-91f5537a4bc8/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad26e9c5374a1e72d134630.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -15601,6 +15627,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/78fd3266-e931-4918-9016-525a1f8dd296/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6ab56a0a177d989ab41dfd53.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "gb"
+      },
+      "6abd525ba9d133322be5f943": {
+        "id": "64305451fc3be5947773c339-6abd525ba9d133322be5f943",
+        "slug": "the-first-48-and-beyond",
+        "gridKey": "6abd525ba9d133322be5f943",
+        "name": "The First 48 & Beyond",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e8480888-bf03-4a20-8723-a3737887db5d/First_48_and_Beyond_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6abd525ba9d133322be5f943.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -18440,6 +18479,32 @@
         ],
         "region": "gb"
       },
+      "6ad26b965374a1e72d13462a": {
+        "id": "64305451fc3be5947773c339-6ad26b965374a1e72d13462a",
+        "slug": "counting-cars-2",
+        "gridKey": "6ad26b965374a1e72d13462a",
+        "name": "Counting Cars+",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/02e08094-4ad5-47b6-8867-57f17652c908/Counting_Cars_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad26b965374a1e72d13462a.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "gb"
+      },
+      "6ad25b115374a1e72d134620": {
+        "id": "64305451fc3be5947773c339-6ad25b115374a1e72d134620",
+        "slug": "carwow-2",
+        "gridKey": "6ad25b115374a1e72d134620",
+        "name": "Carwow",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/2b7aa62a-bb5e-4844-a1c6-549a1bbdeb03/CarWow_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad25b115374a1e72d134620.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "gb"
+      },
       "64704596e536e0faaf10be9b": {
         "id": "64305451fc3be5947773c339-64704596e536e0faaf10be9b",
         "slug": "great-british-menu",
@@ -20132,14 +20197,14 @@
         ],
         "region": "au"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "697140a85d851f5e69414688-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad26d915374a1e72d13462e": {
+        "id": "697140a85d851f5e69414688-6ad26d915374a1e72d13462e",
+        "slug": "cops-reloaded-3",
+        "gridKey": "6ad26d915374a1e72d13462e",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/20d75380-4de4-4ae9-9d57-ff0dc092bcf6/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad26d915374a1e72d13462e.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -20153,6 +20218,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/ed859206-0087-4340-9add-b4419ce55029/Jail_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6ab563ad177d989ab41dfd3d.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "au"
+      },
+      "6ad2667e5374a1e72d134626": {
+        "id": "697140a85d851f5e69414688-6ad2667e5374a1e72d134626",
+        "slug": "after-the-first-48-2",
+        "gridKey": "6ad2667e5374a1e72d134626",
+        "name": "After the First 48",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f67dc3f5-4589-411e-8386-198f9be1d37a/After_the_First_48_channel_logo_white_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad2667e5374a1e72d134626.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -20683,7 +20761,7 @@
         "slug": "bein-sports-xtra-2",
         "gridKey": "669994d717c9985deeb74e3b",
         "name": "beIN SPORTS XTRA",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2188ad12-5a12-4fd1-b1be-8b104513f0ec/BSXtra_logo_fordark_bg_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/f3e76404-6e3d-4bb6-946a-0171ebef788a/beIN_SPORTS_XTRA_LOGO.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-669994d717c9985deeb74e3b.m3u8",
         "genres": [
@@ -22459,6 +22537,32 @@
         ],
         "region": "au"
       },
+      "6ad25babb3edba59b49aabc0": {
+        "id": "697140a85d851f5e69414688-6ad25babb3edba59b49aabc0",
+        "slug": "carwow-3",
+        "gridKey": "6ad25babb3edba59b49aabc0",
+        "name": "Carwow",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/d8e4adb1-d357-4459-9670-647dae6022d6/CarWow_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad25babb3edba59b49aabc0.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "au"
+      },
+      "6ad26abd5374a1e72d134628": {
+        "id": "697140a85d851f5e69414688-6ad26abd5374a1e72d134628",
+        "slug": "counting-cars",
+        "gridKey": "6ad26abd5374a1e72d134628",
+        "name": "Counting Cars+",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/345642f1-edf4-4726-90e9-c6c5b44d3629/Counting_Cars_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad26abd5374a1e72d134628.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "au"
+      },
       "682dfbf4dfc9c452b8f98428": {
         "id": "697140a85d851f5e69414688-682dfbf4dfc9c452b8f98428",
         "slug": "homeful-3",
@@ -23891,14 +23995,14 @@
         ],
         "region": "nz"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad270f45374a1e72d134634": {
+        "id": "5e20b730f2f8d5003d739db7-6ad270f45374a1e72d134634",
+        "slug": "cops-reloaded-6",
+        "gridKey": "6ad270f45374a1e72d134634",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8c0bc90f-9a4f-48f6-b700-44ac69ac16c4/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad270f45374a1e72d134634.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -27559,6 +27663,19 @@
         ],
         "region": "mx"
       },
+      "608b7095a09205002da4f295": {
+        "id": "608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295",
+        "slug": "freetv-drama-2",
+        "gridKey": "608b7095a09205002da4f295",
+        "name": "FreeTV Drama",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+        "callSign": "",
+        "key": "/library/parts/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "mx"
+      },
       "5ef4e1b40d9ad000423c4430": {
         "id": "608049aefa2b8ae93c2c3a63-5ef4e1b40d9ad000423c4430",
         "slug": "maverick-black-cinema",
@@ -30232,19 +30349,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
-      "608b7095a09205002da4f295": {
-        "id": "608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295",
-        "slug": "freetv-drama-2",
-        "gridKey": "608b7095a09205002da4f295",
-        "name": "FreeTV Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-608b7095a09205002da4f295.m3u8",
         "genres": [
           "En Español"
         ],
@@ -37523,6 +37627,19 @@
         ],
         "region": "de"
       },
+      "6ad262c45374a1e72d134624": {
+        "id": "635177ecff6cd5445d7f9b0b-6ad262c45374a1e72d134624",
+        "slug": "cops-24",
+        "gridKey": "6ad262c45374a1e72d134624",
+        "name": "COPS",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/75027b02-54b4-47b6-bf05-4c2f8f69b02d/Cops_channel_logo_4c_1500x100RDX0.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6ad262c45374a1e72d134624.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "de"
+      },
       "69212d585028288613484a7e": {
         "id": "635177ecff6cd5445d7f9b0b-69212d585028288613484a7e",
         "slug": "sony-one-or-action-hits-2",
@@ -37778,6 +37895,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/10f56c38-577d-4e20-b0ff-f570622591a3/crime_scene_tv_white.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-685f158e6c220c4e9e333a02.m3u8",
+        "genres": [
+          "True Crime"
+        ],
+        "region": "de"
+      },
+      "6ad261db5374a1e72d134622": {
+        "id": "635177ecff6cd5445d7f9b0b-6ad261db5374a1e72d134622",
+        "slug": "jail-26",
+        "gridKey": "6ad261db5374a1e72d134622",
+        "name": "JAIL",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5dc3875f-b112-48a3-a39c-4a62fa5bd485/Jail_channel_logo_4c_1500x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/635177ecff6cd5445d7f9b0b-6ad261db5374a1e72d134622.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -40996,6 +41126,19 @@
         ],
         "region": "br"
       },
+      "608b7095a09205002da4f295": {
+        "id": "646546f35db8ada4c8edd7e5-608b7095a09205002da4f295",
+        "slug": "freetv-drama-2",
+        "gridKey": "608b7095a09205002da4f295",
+        "name": "FreeTV Drama",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
+        "callSign": "",
+        "key": "/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "br"
+      },
       "66fd4baab319e182229203b4": {
         "id": "646546f35db8ada4c8edd7e5-66fd4baab319e182229203b4",
         "slug": "crime-e-investigacao",
@@ -43617,19 +43760,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/377dc2cb-53dd-4034-84e1-125be2b086c0/2WHITEaddictaTV_Logo_Transparency-Backgroud-Official-Brand_1500x1000px.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-69d6d88b1790acff6189dea5.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "br"
-      },
-      "608b7095a09205002da4f295": {
-        "id": "646546f35db8ada4c8edd7e5-608b7095a09205002da4f295",
-        "slug": "freetv-drama-2",
-        "gridKey": "608b7095a09205002da4f295",
-        "name": "FreeTV Drama",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/0ce92b6d-7668-409d-88e6-140db5f6ba8e/FreeTVDrama_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-608b7095a09205002da4f295.m3u8",
         "genres": [
           "En Español"
         ],
@@ -51378,14 +51508,14 @@
         ],
         "region": "se"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad280025374a1e72d13463d": {
+        "id": "5e20b730f2f8d5003d739db7-6ad280025374a1e72d13463d",
+        "slug": "cops-reloaded-9",
+        "gridKey": "6ad280025374a1e72d13463d",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/98cc5137-f398-47b3-b359-bc0ecec80dbc/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad280025374a1e72d13463d.m3u8",
         "genres": [
           "True Crime"
         ],
@@ -54539,14 +54669,14 @@
         ],
         "region": "nl"
       },
-      "6a8cc101fc51826f5301a160": {
-        "id": "5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160",
-        "slug": "cops-reloaded",
-        "gridKey": "6a8cc101fc51826f5301a160",
+      "6ad2706d5374a1e72d134632": {
+        "id": "5e20b730f2f8d5003d739db7-6ad2706d5374a1e72d134632",
+        "slug": "cops-reloaded-5",
+        "gridKey": "6ad2706d5374a1e72d134632",
         "name": "COPS Reloaded",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/7eb7b7b9-a430-4142-8836-3afab598bbf9/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/29cc2f34-e5c2-4347-9561-115ece14a268/Cops_Reloaded_channel_logo_4c_1500x1000RDX.png",
         "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-6a8cc101fc51826f5301a160.m3u8",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad2706d5374a1e72d134632.m3u8",
         "genres": [
           "True Crime"
         ],
