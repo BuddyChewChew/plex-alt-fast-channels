@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T22:01:14.264952+00:00",
+  "generated": "2026-11-02T03:01:03.242214+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -735,7 +735,7 @@
         "slug": "magnolia-selects",
         "gridKey": "616df1e90dfa27ee465797fa",
         "name": "Magnolia Selects",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/71746053-763c-4d2d-9f52-ac5faa09d6f6/MagnoliaSelects_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/784721ba-e71b-47d1-9e85-6477441fa673/MagnoliaSelects_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-616df1e90dfa27ee465797fa.m3u8",
         "genres": [
@@ -790,6 +790,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/fa25b8fc-3d7e-428e-af71-6369dd1596a7/SparkTV_logo_darkWHTLETTERS.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-614a11bfa6f839154ee3306d.m3u8",
+        "genres": [
+          "Movies"
+        ],
+        "region": "us"
+      },
+      "6ad29b265374a1e72d134645": {
+        "id": "6a1610bebdf296985fd95603-6ad29b265374a1e72d134645",
+        "slug": "always-christmas",
+        "gridKey": "6ad29b265374a1e72d134645",
+        "name": "Always Christmas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e10faf1a-d8bc-4f61-aac1-0e27f7c1c838/Always_Christmas_Logo_-_1500x1000WHITERDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad29b265374a1e72d134645.m3u8",
         "genres": [
           "Movies"
         ],
@@ -894,19 +907,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/87658f08-b42f-4fff-b2d6-b729fd2dae71/Plex_GravitasMovies_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5efe1de7e0b3f5003f5d9f8e.m3u8",
-        "genres": [
-          "Movies"
-        ],
-        "region": "us"
-      },
-      "65282d2615c307b5dfda8bc4": {
-        "id": "6a1610bebdf296985fd95603-65282d2615c307b5dfda8bc4",
-        "slug": "the-black-effect",
-        "gridKey": "65282d2615c307b5dfda8bc4",
-        "name": "The Black Effect",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/82ad066a-3748-4b64-8e20-d8f976d1c604/dark-mode_-_Brielle_Urssery.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-65282d2615c307b5dfda8bc4.m3u8",
         "genres": [
           "Movies"
         ],
@@ -3361,7 +3361,7 @@
         "slug": "western-bound",
         "gridKey": "62316e8eb9d292cb4ad7499f",
         "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b89e1bed-7f63-46b3-9be4-b72bcf76839a/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/82efd8b8-1dcf-4193-9fdd-4c4d1c4bc476/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-62316e8eb9d292cb4ad7499f.m3u8",
         "genres": [
@@ -4461,19 +4461,6 @@
         ],
         "region": "us"
       },
-      "6348b2cb1159f6a5ce819b89": {
-        "id": "6a1610bebdf296985fd95603-6348b2cb1159f6a5ce819b89",
-        "slug": "trailer-park-boys-the-swearnet-show",
-        "gridKey": "6348b2cb1159f6a5ce819b89",
-        "name": "Trailer Park Boys: The SwearNet Show",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/21d4400e-0933-461b-9850-2f5f1e98fd97/TrailerParkBoys_logo_light_-_Paige_Shermanrdxwhiterdxbad.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6348b2cb1159f6a5ce819b89.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "us"
-      },
       "628ea9fcffe4cec6361f5310": {
         "id": "6a1610bebdf296985fd95603-628ea9fcffe4cec6361f5310",
         "slug": "lol-network-2",
@@ -5428,7 +5415,7 @@
         "slug": "combat-war-channel",
         "gridKey": "65e87f35335524a69e8e0ce1",
         "name": "Combat War Channel",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b376f55c-aa7f-43c5-9c26-c20509874201/combat_war72b13823df22f4e6ea012a4b54cc6b02RDX.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1445e2d7-5d65-433c-8a32-c420b19be511/combat_war72b13823df22f4e6ea012a4b54cc6b02RDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce1.m3u8",
         "genres": [
@@ -5571,7 +5558,7 @@
         "slug": "paranormal-files",
         "gridKey": "65e87f35335524a69e8e0ce0",
         "name": "Paranormal Files",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/49a8a03a-1346-4f3c-981b-47f07fe02ac5/Paranormal4f0624f276e0ec4283e7940c80fc70feRDXWHITE.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/81768ac4-efec-40b6-9b27-1140f7a0ccf0/Paranormal4f0624f276e0ec4283e7940c80fc70feRDXWHITE.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65e87f35335524a69e8e0ce0.m3u8",
         "genres": [
@@ -7425,19 +7412,6 @@
         ],
         "region": "us"
       },
-      "661d6a8db518ef381a85ed60": {
-        "id": "6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60",
-        "slug": "spark-tv-luz-y-amor",
-        "gridKey": "661d6a8db518ef381a85ed60",
-        "name": "Spark TV Luz y Amor",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/332040a1-861c-4db8-b4fa-56cdcf686cb4/Plex_SparkTV_key-art_Spanish-RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-661d6a8db518ef381a85ed60.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "63489eff90b96ef5e0eb3282": {
         "id": "6a1610bebdf296985fd95603-63489eff90b96ef5e0eb3282",
         "slug": "grjngo-peliculas-del-oeste",
@@ -7854,19 +7828,6 @@
         ],
         "region": "us"
       },
-      "60240f57676235002df19f49": {
-        "id": "6a1610bebdf296985fd95603-60240f57676235002df19f49",
-        "slug": "freetv-familia",
-        "gridKey": "60240f57676235002df19f49",
-        "name": "FreeTV Familia",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-60240f57676235002df19f49.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
       "666e1c83d91d13cb4c8cbb71": {
         "id": "6a1610bebdf296985fd95603-666e1c83d91d13cb4c8cbb71",
         "slug": "mi-casa",
@@ -7966,19 +7927,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "6a1610bebdf296985fd95603-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -9398,19 +9346,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/acee4d52-4641-4ccf-bae2-120bec86f481/Intervention_COLOR_WIDE_logo.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-67291ed37f55143b23b66c51.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "ca"
-      },
-      "66fd3a76216b603e031725fc": {
-        "id": "647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -11444,6 +11379,19 @@
         ],
         "region": "ca"
       },
+      "66fd3a76216b603e031725fc": {
+        "id": "647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc",
+        "slug": "western-bound-2",
+        "gridKey": "66fd3a76216b603e031725fc",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-66fd3a76216b603e031725fc.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "ca"
+      },
       "6995ed8173f56d61dc078f0d": {
         "id": "647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d",
         "slug": "circle-country",
@@ -12050,19 +11998,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/949f96f9-49b7-4ca8-b4a2-9f4f9aa6457d/AMCN-PortlandiaIFC_Plex_logo_dark_v01_white_color.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6a206a3e352a41420ef767a7.m3u8",
-        "genres": [
-          "Comedy"
-        ],
-        "region": "ca"
-      },
-      "6348b2cb1159f6a5ce819b89": {
-        "id": "647f8d22a2fc3fadb4721685-6348b2cb1159f6a5ce819b89",
-        "slug": "trailer-park-boys-the-swearnet-show",
-        "gridKey": "6348b2cb1159f6a5ce819b89",
-        "name": "Trailer Park Boys: The SwearNet Show",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/21d4400e-0933-461b-9850-2f5f1e98fd97/TrailerParkBoys_logo_light_-_Paige_Shermanrdxwhiterdxbad.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-6348b2cb1159f6a5ce819b89.m3u8",
         "genres": [
           "Comedy"
         ],
@@ -13082,6 +13017,19 @@
         ],
         "region": "ca"
       },
+      "6ad29fe25374a1e72d134649": {
+        "id": "647f8d22a2fc3fadb4721685-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad29fe25374a1e72d134649.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "ca"
+      },
       "60d324f59adce5002c41dbc5": {
         "id": "647f8d22a2fc3fadb4721685-60d324f59adce5002c41dbc5",
         "slug": "stingray-naturescape",
@@ -13641,6 +13589,19 @@
         ],
         "region": "ca"
       },
+      "6ad29dac5374a1e72d134647": {
+        "id": "647f8d22a2fc3fadb4721685-6ad29dac5374a1e72d134647",
+        "slug": "wedotv-cars",
+        "gridKey": "6ad29dac5374a1e72d134647",
+        "name": "Wedotv Cars",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/347380b0-d74b-425a-88ee-ccb54054203e/wedocars_red_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad29dac5374a1e72d134647.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "ca"
+      },
       "65a061008b6d8fe79ee1ddc9": {
         "id": "647f8d22a2fc3fadb4721685-65a061008b6d8fe79ee1ddc9",
         "slug": "arthur",
@@ -14052,19 +14013,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "ca"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "647f8d22a2fc3fadb4721685-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/647f8d22a2fc3fadb4721685-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -15268,19 +15216,6 @@
         ],
         "region": "gb"
       },
-      "66fd3a76216b603e031725fc": {
-        "id": "64305451fc3be5947773c339-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-66fd3a76216b603e031725fc.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "gb"
-      },
       "69864df9f937c5afe5a060d6": {
         "id": "64305451fc3be5947773c339-69864df9f937c5afe5a060d6",
         "slug": "soap-2",
@@ -16378,7 +16313,7 @@
         "slug": "gfn-football-tv",
         "gridKey": "67c247c345ae99120c071586",
         "name": "GFN Football TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-67c247c345ae99120c071586.m3u8",
         "genres": [
@@ -17135,6 +17070,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2e34b413-32fc-4600-8b29-94562670814c/Hunter_Logo_Dark.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-66f6b6baac1a1890ef197a4b.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "gb"
+      },
+      "66fd3a76216b603e031725fc": {
+        "id": "64305451fc3be5947773c339-66fd3a76216b603e031725fc",
+        "slug": "western-bound-2",
+        "gridKey": "66fd3a76216b603e031725fc",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-66fd3a76216b603e031725fc.m3u8",
         "genres": [
           "Classics"
         ],
@@ -18297,6 +18245,19 @@
         ],
         "region": "gb"
       },
+      "6ad29fe25374a1e72d134649": {
+        "id": "64305451fc3be5947773c339-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad29fe25374a1e72d134649.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "gb"
+      },
       "60a9d105d162b9002d05a60c": {
         "id": "64305451fc3be5947773c339-60a9d105d162b9002d05a60c",
         "slug": "journy-2",
@@ -18565,6 +18526,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-69814bbff871095eafc65925.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "gb"
+      },
+      "6ad29dac5374a1e72d134647": {
+        "id": "64305451fc3be5947773c339-6ad29dac5374a1e72d134647",
+        "slug": "wedotv-cars",
+        "gridKey": "6ad29dac5374a1e72d134647",
+        "name": "Wedotv Cars",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/347380b0-d74b-425a-88ee-ccb54054203e/wedocars_red_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6ad29dac5374a1e72d134647.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -19215,19 +19189,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2230b4ec-e410-4f49-b5b2-8ac4dfd20c5c/combatv_logo_dark_-_Jordan_Warkol.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-63f0ca427b78030ed9990309.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "gb"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "64305451fc3be5947773c339-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/64305451fc3be5947773c339-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -19984,19 +19945,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/decfc889-30bc-4b21-951b-68fe49cd5ec1/Cops_channel_logo_white_1500x1000RDX.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-6ab19f70e7969627826876b4.m3u8",
-        "genres": [
-          "Bingeworthy"
-        ],
-        "region": "au"
-      },
-      "66fd3a76216b603e031725fc": {
-        "id": "697140a85d851f5e69414688-66fd3a76216b603e031725fc",
-        "slug": "western-bound-2",
-        "gridKey": "66fd3a76216b603e031725fc",
-        "name": "Western Bound",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf76048d-3cb0-4994-915f-e65681889de5/WesternBound_IntlEng_Plex_1500x1000_WhtLogo.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-66fd3a76216b603e031725fc.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -21432,6 +21380,19 @@
         ],
         "region": "au"
       },
+      "66fd3a76216b603e031725fc": {
+        "id": "697140a85d851f5e69414688-66fd3a76216b603e031725fc",
+        "slug": "western-bound-2",
+        "gridKey": "66fd3a76216b603e031725fc",
+        "name": "Western Bound",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/c6a9af29-de3a-4b62-ae0d-29514322a6ae/WesternBound_Plex_channel_logo_light_-_Trish_Boothe.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-66fd3a76216b603e031725fc.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "au"
+      },
       "66f6b6baac1a1890ef197a4b": {
         "id": "697140a85d851f5e69414688-66f6b6baac1a1890ef197a4b",
         "slug": "hunter-2",
@@ -22199,6 +22160,19 @@
         ],
         "region": "au"
       },
+      "6ad29fe25374a1e72d134649": {
+        "id": "697140a85d851f5e69414688-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad29fe25374a1e72d134649.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "au"
+      },
       "60d4edddb2fdec002c141135": {
         "id": "697140a85d851f5e69414688-60d4edddb2fdec002c141135",
         "slug": "wildearth",
@@ -22719,6 +22693,19 @@
         ],
         "region": "au"
       },
+      "6ad29dac5374a1e72d134647": {
+        "id": "697140a85d851f5e69414688-6ad29dac5374a1e72d134647",
+        "slug": "wedotv-cars",
+        "gridKey": "6ad29dac5374a1e72d134647",
+        "name": "Wedotv Cars",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/347380b0-d74b-425a-88ee-ccb54054203e/wedocars_red_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6ad29dac5374a1e72d134647.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "au"
+      },
       "6490c01f3b3ce9e1aaad95be": {
         "id": "697140a85d851f5e69414688-6490c01f3b3ce9e1aaad95be",
         "slug": "fashiontv",
@@ -23221,19 +23208,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "au"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "697140a85d851f5e69414688-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/697140a85d851f5e69414688-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -26049,6 +26023,19 @@
         ],
         "region": "nz"
       },
+      "6ad29fe25374a1e72d134649": {
+        "id": "5e20b730f2f8d5003d739db7-6ad29fe25374a1e72d134649",
+        "slug": "mega-machines",
+        "gridKey": "6ad29fe25374a1e72d134649",
+        "name": "Mega Machines",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/368f0a2f-2a0e-4fa5-8704-19a094b408a3/MMC_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad29fe25374a1e72d134649.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "nz"
+      },
       "666e10bece73ed6023b55a0d": {
         "id": "5e20b730f2f8d5003d739db7-666e10bece73ed6023b55a0d",
         "slug": "bon-voyage",
@@ -26382,6 +26369,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a9bf659f-df1c-4572-856c-5b60fbc93467/powernationWhite_Logo__2_.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-69814bbff871095eafc65925.m3u8",
+        "genres": [
+          "Food, Home & Culture"
+        ],
+        "region": "nz"
+      },
+      "6ad29dac5374a1e72d134647": {
+        "id": "5e20b730f2f8d5003d739db7-6ad29dac5374a1e72d134647",
+        "slug": "wedotv-cars",
+        "gridKey": "6ad29dac5374a1e72d134647",
+        "name": "Wedotv Cars",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/347380b0-d74b-425a-88ee-ccb54054203e/wedocars_red_white_logo.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6ad29dac5374a1e72d134647.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -26798,19 +26798,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "nz"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -30029,19 +30016,6 @@
         ],
         "region": "mx"
       },
-      "60240f57676235002df19f49": {
-        "id": "608049aefa2b8ae93c2c3a63-60240f57676235002df19f49",
-        "slug": "freetv-familia",
-        "gridKey": "60240f57676235002df19f49",
-        "name": "FreeTV Familia",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6eaccf07-a855-4636-ae58-bb9405a021f7/FreeTVFamilia_Circle_1500x1000_-_Ralph_Campillo.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-60240f57676235002df19f49.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
       "688d3402a6fe30698ab42007": {
         "id": "608049aefa2b8ae93c2c3a63-688d3402a6fe30698ab42007",
         "slug": "itv-deportes",
@@ -30349,19 +30323,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/b8f2b67e-a131-4b50-9864-dc0b13c3c6ed/channel_logo_1500x1000_light.png.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-666e2178d91d13cb4c8cbb75.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "mx"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -31986,7 +31947,7 @@
         "slug": "gfn-football-tv",
         "gridKey": "67c247c345ae99120c071586",
         "name": "GFN Football TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-67c247c345ae99120c071586.m3u8",
         "genres": [
@@ -33840,19 +33801,6 @@
         ],
         "region": "es"
       },
-      "621674f168c966be92737ce6": {
-        "id": "643054b1fc3be59477853717-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/643054b1fc3be59477853717-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "es"
-      },
       "67a1a8ef2358ef4dd5c3018e": {
         "id": "643054b1fc3be59477853717-67a1a8ef2358ef4dd5c3018e",
         "slug": "lucha-plus",
@@ -35485,7 +35433,7 @@
         "slug": "gfn-football-tv",
         "gridKey": "67c247c345ae99120c071586",
         "name": "GFN Football TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-67c247c345ae99120c071586.m3u8",
         "genres": [
@@ -36866,19 +36814,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/88e0bf85-8b11-4d7d-b67f-5ad11e972b06/Billboard-Espanol-TV_Logo_W.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-6a3c2c8c14e447db7984cc3a.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "fr"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "6430aa45fc3be5947780904e-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/6430aa45fc3be5947780904e-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -38425,7 +38360,7 @@
         "slug": "gfn-football-tv",
         "gridKey": "67c247c345ae99120c071586",
         "name": "GFN Football TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/db267869-c485-4e8d-985a-8876cf62790a/Channel_Logo_-_1500x1000.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0f365a9e-9802-422b-b715-f394a2e411fb/AFNFootballWHITEChannel_Logo_-_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-67c247c345ae99120c071586.m3u8",
         "genres": [
@@ -40170,19 +40105,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/dfe80db0-76d2-4437-bae4-470236b57cfb/1500x1000_dark_-_Irina_Larionova.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-64a355697d24564fba37bab8.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "de"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "635177ecff6cd5445d7f9b0b-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/635177ecff6cd5445d7f9b0b-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -43362,19 +43284,6 @@
         ],
         "region": "br"
       },
-      "621674f168c966be92737ce6": {
-        "id": "646546f35db8ada4c8edd7e5-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "br"
-      },
       "6154a863e3e4d9577f96b31a": {
         "id": "646546f35db8ada4c8edd7e5-6154a863e3e4d9577f96b31a",
         "slug": "nosey-escandalos",
@@ -46185,19 +46094,6 @@
         ],
         "region": "in"
       },
-      "621674f168c966be92737ce6": {
-        "id": "698f7631338300003d436270-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/698f7631338300003d436270-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "in"
-      },
       "65b1568052aa31b8f64da064": {
         "id": "698f7631338300003d436270-65b1568052aa31b8f64da064",
         "slug": "c4-en-alerta",
@@ -48553,19 +48449,6 @@
         ],
         "region": "jp"
       },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "jp"
-      },
       "64a355697d24564fba37bab8": {
         "id": "5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -50851,19 +50734,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "kr"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
@@ -53978,19 +53848,6 @@
         ],
         "region": "se"
       },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "se"
-      },
       "64a355697d24564fba37bab8": {
         "id": "5e20b730f2f8d5003d739db7-64a355697d24564fba37bab8",
         "slug": "ideas-en-5-minutos",
@@ -56900,19 +56757,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/51402fbd-48ad-4307-a1be-a60c692684f6/Logotipo_C4_En_Alerta_1500x1000_for_dark_backgrounds_-_James_Stowe.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-65b1568052aa31b8f64da064.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "nl"
-      },
-      "621674f168c966be92737ce6": {
-        "id": "5e20b730f2f8d5003d739db7-621674f168c966be92737ce6",
-        "slug": "el-conflicto-tv-2",
-        "gridKey": "621674f168c966be92737ce6",
-        "name": "El Conflicto TV",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/ece5a289-3815-4e00-acac-14ac32beccff/ElConflicto_logo_dark.png",
-        "callSign": "",
-        "key": "/library/parts/5e20b730f2f8d5003d739db7-621674f168c966be92737ce6.m3u8",
         "genres": [
           "En Español"
         ],
