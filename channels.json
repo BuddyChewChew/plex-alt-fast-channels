@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T14:00:45.768708+00:00",
+  "generated": "2026-11-09T03:19:17.616573+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -509,6 +509,19 @@
         ],
         "region": "us"
       },
+      "6ae0f2316d548fc748c934b6": {
+        "id": "6a1610bebdf296985fd95603-6ae0f2316d548fc748c934b6",
+        "slug": "eastenders",
+        "gridKey": "6ae0f2316d548fc748c934b6",
+        "name": "Eastenders",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/650a479f-74a1-4712-bd19-1f650759ac04/EastEnders_Logo_WHITE_BLK_BORDERRDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae0f2316d548fc748c934b6.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
       "68db6bc5475aa6420c85f232": {
         "id": "6a1610bebdf296985fd95603-68db6bc5475aa6420c85f232",
         "slug": "filmrise-drama",
@@ -615,10 +628,10 @@
       },
       "63c1e47ef0f132afc3afbab2": {
         "id": "6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2",
-        "slug": "lifetime-movie-favorites",
+        "slug": "lifetime-holiday-movie-favorites",
         "gridKey": "63c1e47ef0f132afc3afbab2",
-        "name": "Lifetime Movie Favorites",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/64ce3127-c379-4c7f-b576-7a4c167c8311/LTMF_channel_logo_4c_1500x1000rdx.png",
+        "name": "Lifetime Holiday Movie Favorites",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/7d61d917-bcb1-48d9-ac16-38a7a6a9ca1b/Lifetime_Holiday_Movie_Favorites_channel_logo_4c_1500x1000.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63c1e47ef0f132afc3afbab2.m3u8",
         "genres": [
@@ -693,10 +706,10 @@
       },
       "634700569d64afa6830d1521": {
         "id": "6a1610bebdf296985fd95603-634700569d64afa6830d1521",
-        "slug": "halloween-plus",
+        "slug": "christmas-plus",
         "gridKey": "634700569d64afa6830d1521",
-        "name": "Halloween Plus",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/53e30e47-98a7-4f53-9a2b-3bee3ca37e09/Halloween_plusLogo.png",
+        "name": "Christmas Plus",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4df1424b-31d8-4c1a-b74d-779782667d2a/Christmas_PLus__33__-_1500x1000rdx.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-634700569d64afa6830d1521.m3u8",
         "genres": [
@@ -2849,19 +2862,6 @@
         ],
         "region": "us"
       },
-      "63f688faf615dc7d3f9071f7": {
-        "id": "6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7",
-        "slug": "duck-dynasty-by-aande",
-        "gridKey": "63f688faf615dc7d3f9071f7",
-        "name": "Duck Dynasty by A&E",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/e37442d3-0104-4006-b6c1-674a8674edb8/Duck_Dynasty_channel_logo_4c_RDX.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7.m3u8",
-        "genres": [
-          "Reality"
-        ],
-        "region": "us"
-      },
       "67a37720786c8a28ae4965bb": {
         "id": "6a1610bebdf296985fd95603-67a37720786c8a28ae4965bb",
         "slug": "storage-wars-by-aande-2",
@@ -2888,6 +2888,32 @@
         ],
         "region": "us"
       },
+      "6ae282fe73700d3e4f499bf3": {
+        "id": "6a1610bebdf296985fd95603-6ae282fe73700d3e4f499bf3",
+        "slug": "pawn-stars-plus-by-history",
+        "gridKey": "6ae282fe73700d3e4f499bf3",
+        "name": "Pawn Stars Plus by History",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/80929aeb-6142-43ef-b7e9-bc964ca846de/Pawn_Stars_Plus_channel_logo_4c_1500x1000whttext.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae282fe73700d3e4f499bf3.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "6ae284312db2c23c6e881095": {
+        "id": "6a1610bebdf296985fd95603-6ae284312db2c23c6e881095",
+        "slug": "american-pickers-plus-by-history",
+        "gridKey": "6ae284312db2c23c6e881095",
+        "name": "American Pickers Plus by History",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/acd1c3b4-3aed-4137-8820-8dcd4f8da8bd/American_Pickers_Plus_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae284312db2c23c6e881095.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
       "6449369eb3ff17382cae580c": {
         "id": "6a1610bebdf296985fd95603-6449369eb3ff17382cae580c",
         "slug": "hells-kitchen-and-kitchen-nightmares",
@@ -2909,6 +2935,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/c3c8801d-fde8-4b88-93a9-206956d39baf/Wetv_GUHH_Yellow_logo.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6a8cb463fc51826f5301a156.m3u8",
+        "genres": [
+          "Reality"
+        ],
+        "region": "us"
+      },
+      "63f688faf615dc7d3f9071f7": {
+        "id": "6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7",
+        "slug": "duck-dynasty-by-aande",
+        "gridKey": "63f688faf615dc7d3f9071f7",
+        "name": "Duck Dynasty by A&E",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/e37442d3-0104-4006-b6c1-674a8674edb8/Duck_Dynasty_channel_logo_4c_RDX.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-63f688faf615dc7d3f9071f7.m3u8",
         "genres": [
           "Reality"
         ],
@@ -4726,7 +4765,7 @@
         "slug": "bouncexl",
         "gridKey": "623d9b0370560b72147a994a",
         "name": "Bounce XL",
-        "logo": "https://provider-static.plex.tv/6/epg/channels/logos/gracenote/67bb1f39c612ac06e49755f639aa08ab.png",
+        "logo": "https://provider-static.plex.tv/7/epg/channels/logos/gracenote/7f3ebd4cce4d92a9ed717f5da4dd42d4.png",
         "callSign": "BOUNSTR",
         "key": "/library/parts/6a1610bebdf296985fd95603-623d9b0370560b72147a994a.m3u8",
         "genres": [
@@ -5275,6 +5314,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/0bbdc4ce-bd60-418c-9c1d-7bf29b98ca14/NATURE_White-BlueRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-63506e7747b2355a27e76e7f.m3u8",
+        "genres": [
+          "Explore"
+        ],
+        "region": "us"
+      },
+      "6ae285042db2c23c6e881097": {
+        "id": "6a1610bebdf296985fd95603-6ae285042db2c23c6e881097",
+        "slug": "historys-mysteries",
+        "gridKey": "6ae285042db2c23c6e881097",
+        "name": "History's Mysteries",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/ef5da37c-19ae-4457-b99b-2bff909f2a38/Historys_Mysteries_channel_logo_4c_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae285042db2c23c6e881097.m3u8",
         "genres": [
           "Explore"
         ],
@@ -5857,7 +5909,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -6036,10 +6088,10 @@
       },
       "64b7139c8ec13d5dcb7e6bb2": {
         "id": "6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2",
-        "slug": "places-and-spaces",
+        "slug": "the-great-christmas-light-fight-on-places-and-spaces",
         "gridKey": "64b7139c8ec13d5dcb7e6bb2",
-        "name": "Places & Spaces",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/93b7eade-14c9-434b-822b-f86ed372481f/PLEX_P_S_LOGOFORDARKBKG_1500X1500_REV_-_Patty_Gopez.png",
+        "name": "The Great Christmas Light Fight on Places & Spaces",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a19d1fe4-a6f3-4f34-b203-4dd55ea1bd9a/TheGreatChristmasLightFight_P_S_Logocolor_white_colorRDX.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-64b7139c8ec13d5dcb7e6bb2.m3u8",
         "genres": [
@@ -6970,27 +7022,14 @@
         ],
         "region": "us"
       },
-      "6a8744fdb1b3d334c851bbc5": {
-        "id": "6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5",
-        "slug": "entravision-ahora",
-        "gridKey": "6a8744fdb1b3d334c851bbc5",
-        "name": "Entravision Ahora",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png",
+      "6ae281bf2db2c23c6e881093": {
+        "id": "6a1610bebdf296985fd95603-6ae281bf2db2c23c6e881093",
+        "slug": "jail-en-espanol-5",
+        "gridKey": "6ae281bf2db2c23c6e881093",
+        "name": "JAIL en Español",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1b52c172-b060-4262-8fee-856215ba36f9/JAIL_-_GreyLettersark_-_1500x1000.png_James_Roebuck.png",
         "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "6a4afa08410e0eea561f76b1": {
-        "id": "6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1",
-        "slug": "adn-noticias",
-        "gridKey": "6a4afa08410e0eea561f76b1",
-        "name": "ADN NOTICIAS",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae281bf2db2c23c6e881093.m3u8",
         "genres": [
           "En Español"
         ],
@@ -7069,6 +7108,32 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f5132e362fe160040f26c15.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a8744fdb1b3d334c851bbc5": {
+        "id": "6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5",
+        "slug": "entravision-ahora",
+        "gridKey": "6a8744fdb1b3d334c851bbc5",
+        "name": "Entravision Ahora",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6a4afa08410e0eea561f76b1": {
+        "id": "6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1",
+        "slug": "adn-noticias",
+        "gridKey": "6a4afa08410e0eea561f76b1",
+        "name": "ADN NOTICIAS",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/223b82fa-afa1-46e5-a7f1-11e0365bc77c/Logo_ADN_NEUTRO.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6a4afa08410e0eea561f76b1.m3u8",
         "genres": [
           "En Español"
         ],
@@ -7802,6 +7867,19 @@
         ],
         "region": "us"
       },
+      "6ae26499c47391f517e43755": {
+        "id": "6a1610bebdf296985fd95603-6ae26499c47391f517e43755",
+        "slug": "comercio-tv-2",
+        "gridKey": "6ae26499c47391f517e43755",
+        "name": "Comercio TV",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/fd19e64d-ee51-48c3-952d-150a57059957/comercioLight_Logo__1__BLUE.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae26499c47391f517e43755.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
       "68c87052da79d98d977dc90e": {
         "id": "6a1610bebdf296985fd95603-68c87052da79d98d977dc90e",
         "slug": "revry-latinx",
@@ -8389,10 +8467,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/6a1610bebdf296985fd95603-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -9197,10 +9275,10 @@
       },
       "657dd21dc7a367074887310a": {
         "id": "647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a",
-        "slug": "super-channel-hearties",
+        "slug": "hearties-christmas",
         "gridKey": "657dd21dc7a367074887310a",
-        "name": "Super Channel Hearties",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/2173769c-8faf-4c88-874f-21e618d7189e/superechannel_Color_RDX.png",
+        "name": "Hearties Christmas",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b4625ff9-8845-4738-80ea-414b0208182d/Hearties_Xmas_logo_light_-_eva_lonoza.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-657dd21dc7a367074887310a.m3u8",
         "genres": [
@@ -13074,7 +13152,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -14514,10 +14592,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -15296,10 +15374,10 @@
       },
       "69bad1dfc68ea9badd9faf5a": {
         "id": "64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a",
-        "slug": "lifetime-movies-2",
+        "slug": "christmas-movies-by-lifetime",
         "gridKey": "69bad1dfc68ea9badd9faf5a",
-        "name": "Lifetime Movies",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/18bab13d-afa7-4df6-8149-c8ddef9dd212/Lifetime_Movies_channel_logo_white_1500x1000.png",
+        "name": "Christmas Movies by Lifetime",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/29e28c9c-081d-42fd-af2a-6f6f3fe8f041/INT_CMBL_logo_Fin_RedRDX.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-69bad1dfc68ea9badd9faf5a.m3u8",
         "genres": [
@@ -17127,6 +17205,19 @@
         ],
         "region": "gb"
       },
+      "6adf8f78cb8d426c748aed33": {
+        "id": "64305451fc3be5947773c339-6adf8f78cb8d426c748aed33",
+        "slug": "bewitched",
+        "gridKey": "6adf8f78cb8d426c748aed33",
+        "name": "Bewitched",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b8459d34-994e-493a-8e56-70aa47a63e51/UK_FAST_Plex_Bewitched_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6adf8f78cb8d426c748aed33.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "gb"
+      },
       "6674b68af04cf4bb9233c916": {
         "id": "64305451fc3be5947773c339-6674b68af04cf4bb9233c916",
         "slug": "death-valley-days",
@@ -18315,7 +18406,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -19664,10 +19755,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "64305451fc3be5947773c339-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/64305451fc3be5947773c339-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -22321,7 +22412,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/697140a85d851f5e69414688-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -23371,10 +23462,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "697140a85d851f5e69414688-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/697140a85d851f5e69414688-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -25989,7 +26080,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -26948,10 +27039,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -29319,7 +29410,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -29387,19 +29478,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/a0aadc76-1caf-419f-83c7-ff8e066355a7/MSChannel_Logo_Light_-_Kimberly_DumerRDX.png",
         "callSign": "",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-672948f0297d4ea7584a2e13.m3u8",
-        "genres": [
-          "Food, Home & Culture"
-        ],
-        "region": "mx"
-      },
-      "65cd2cf397fb4731f54ecae7": {
-        "id": "608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7",
-        "slug": "tastemade-en-espanol-5",
-        "gridKey": "65cd2cf397fb4731f54ecae7",
-        "name": "Tastemade en Español",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40485b2e-5412-4bb8-a309-d73e4a46085b/LogosPLEX_ESPANOL_1500X1000_ForDarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/608049aefa2b8ae93c2c3a63-65cd2cf397fb4731f54ecae7.m3u8",
         "genres": [
           "Food, Home & Culture"
         ],
@@ -30577,10 +30655,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "608049aefa2b8ae93c2c3a63-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/608049aefa2b8ae93c2c3a63-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -32987,7 +33065,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/643054b1fc3be59477853717-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -34050,10 +34128,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "643054b1fc3be59477853717-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/643054b1fc3be59477853717-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -35649,6 +35727,19 @@
         ],
         "region": "fr"
       },
+      "6adf9051cb8d426c748aed35": {
+        "id": "6430aa45fc3be5947780904e-6adf9051cb8d426c748aed35",
+        "slug": "ma-sorciere-bien-aimee",
+        "gridKey": "6adf9051cb8d426c748aed35",
+        "name": "Ma Sorcière Bien-Aimée",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/6e77bb25-1615-4d01-b648-139477dbcfab/FR_FAST_Plex_Bewitched_logo_dark.png",
+        "callSign": "",
+        "key": "/library/parts/6430aa45fc3be5947780904e-6adf9051cb8d426c748aed35.m3u8",
+        "genres": [
+          "Classics"
+        ],
+        "region": "fr"
+      },
       "65847f56d60830ce4d4f303c": {
         "id": "6430aa45fc3be5947780904e-65847f56d60830ce4d4f303c",
         "slug": "cine-western",
@@ -36226,7 +36317,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/6430aa45fc3be5947780904e-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -37393,10 +37484,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "6430aa45fc3be5947780904e-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/6430aa45fc3be5947780904e-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -39504,7 +39595,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -40450,10 +40541,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "635177ecff6cd5445d7f9b0b-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -42756,7 +42847,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -42774,19 +42865,6 @@
         "key": "/library/parts/646546f35db8ada4c8edd7e5-66fd3e25216b603e031725fe.m3u8",
         "genres": [
           "Explore"
-        ],
-        "region": "br"
-      },
-      "65cd522126388de8e0b08271": {
-        "id": "646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271",
-        "slug": "tastemade-4",
-        "gridKey": "65cd522126388de8e0b08271",
-        "name": "Tastemade",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c876ca14-4dff-4354-a89d-3be2c2485cc7/LogosPLEX_FLAGSHIP_1500X1000_ForDarkBackground.png",
-        "callSign": "",
-        "key": "/library/parts/646546f35db8ada4c8edd7e5-65cd522126388de8e0b08271.m3u8",
-        "genres": [
-          "Food, Home & Culture"
         ],
         "region": "br"
       },
@@ -44040,10 +44118,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "646546f35db8ada4c8edd7e5-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/646546f35db8ada4c8edd7e5-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -45540,7 +45618,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/698f7631338300003d436270-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -46291,10 +46369,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "698f7631338300003d436270-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/698f7631338300003d436270-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -47908,7 +47986,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -48581,10 +48659,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -50198,7 +50276,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -50871,10 +50949,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -53190,7 +53268,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -54019,10 +54097,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
@@ -56130,7 +56208,7 @@
         "slug": "stingray-holidayscapes",
         "gridKey": "654eb862dde2222e8ba551f1",
         "name": "Stingray Holidayscapes",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9cb4b15c-8244-4499-ae2c-9a92d4cdff6d/13895_SHS_Plex_Logos_Holidays_1500x1000_Dark-Background.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/eca05bbe-1f4b-4df9-b588-a6e84efe5253/15723_SHS_Holidays2026_Plex_Logos_1500x1000_V01_DarkBackground.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-654eb862dde2222e8ba551f1.m3u8",
         "genres": [
@@ -57011,10 +57089,10 @@
       },
       "61aa97d4113e1e5137fd5325": {
         "id": "5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325",
-        "slug": "stingray-greatest-hits",
+        "slug": "greatest-holiday-hits",
         "gridKey": "61aa97d4113e1e5137fd5325",
-        "name": "Stingray Greatest Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/40e1a688-aa45-4510-8110-53f3657e01d4/13212_SM_Plex_Logos_Greatest-Hits_1500x1000_V01-white_-_Olivia_bronfman.png",
+        "name": "Greatest Holiday Hits",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/9dcf883f-642f-4a03-bc1b-4dfeb845b99e/13895_SM_Plex_Logos_GreatestHolidayHits_1500x1000_Dark-Background.png",
         "callSign": "SM047D",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61aa97d4113e1e5137fd5325.m3u8",
         "genres": [
