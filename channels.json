@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T14:32:34.738182+00:00",
+  "generated": "2026-11-16T03:29:07.025528+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -205,6 +205,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/1b7362dd-d411-4eec-8c39-908896146f79/Weeds_NurseJackie_Logo_1500x1000_DarkBG.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-66915d35086cb6d46eae12c8.m3u8",
+        "genres": [
+          "Bingeworthy"
+        ],
+        "region": "us"
+      },
+      "6ad6416c17d89423b84560a7": {
+        "id": "6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7",
+        "slug": "vikings",
+        "gridKey": "6ad6416c17d89423b84560a7",
+        "name": "Vikings",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/0820055b-733c-405c-85e8-e9a0d1a47778/Vikings_Plex_Logo_Attribution_-_Carl_Hoffelder.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad6416c17d89423b84560a7.m3u8",
         "genres": [
           "Bingeworthy"
         ],
@@ -4968,6 +4981,32 @@
         ],
         "region": "us"
       },
+      "6ae2870f8b2d1b54c8679f87": {
+        "id": "6a1610bebdf296985fd95603-6ae2870f8b2d1b54c8679f87",
+        "slug": "tribunal-justice",
+        "gridKey": "6ae2870f8b2d1b54c8679f87",
+        "name": "Tribunal Justice",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/14fe51b5-659e-4024-89eb-a179c2b021ff/TribunalJustice_Plex_white_text_DarkMode_-_Carl_Hoffelder.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae2870f8b2d1b54c8679f87.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
+      "6ae2860173700d3e4f499bf5": {
+        "id": "6a1610bebdf296985fd95603-6ae2860173700d3e4f499bf5",
+        "slug": "judy-justice",
+        "gridKey": "6ae2860173700d3e4f499bf5",
+        "name": "Judy Justice",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/14db474d-dc83-4fd4-b33a-1111e63ec96d/JudyJustice_Plex_Logo_White-_Carl_Hoffelder.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ae2860173700d3e4f499bf5.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "us"
+      },
       "685f0f5c593aba51f211823b": {
         "id": "6a1610bebdf296985fd95603-685f0f5c593aba51f211823b",
         "slug": "wendy-williams",
@@ -7524,6 +7563,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/65173a39-a2cd-49c3-8944-a4422a8d1fe5/Free-TV_Clasico_1500X1000_dark_and_light.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-691d599684325d49bfa06ab6.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "us"
+      },
+      "6ad2b7bf301d72f12e9d1c03": {
+        "id": "6a1610bebdf296985fd95603-6ad2b7bf301d72f12e9d1c03",
+        "slug": "tock-tock-movies",
+        "gridKey": "6ad2b7bf301d72f12e9d1c03",
+        "name": "Tock Tock Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6ad2b7bf301d72f12e9d1c03.m3u8",
         "genres": [
           "En Español"
         ],
@@ -13966,6 +14018,19 @@
         ],
         "region": "ca"
       },
+      "6ad2b7bf301d72f12e9d1c03": {
+        "id": "647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03",
+        "slug": "tock-tock-movies",
+        "gridKey": "6ad2b7bf301d72f12e9d1c03",
+        "name": "Tock Tock Movies",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/a8cc6c5f-3f6d-4ff0-99f8-6bed9bb9ec9a/TockTock_logo_dark-bg_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/647f8d22a2fc3fadb4721685-6ad2b7bf301d72f12e9d1c03.m3u8",
+        "genres": [
+          "En Español"
+        ],
+        "region": "ca"
+      },
       "6a56bff72ad9d298044c58f8": {
         "id": "647f8d22a2fc3fadb4721685-6a56bff72ad9d298044c58f8",
         "slug": "deal-or-no-deal-5",
@@ -15325,7 +15390,7 @@
         "slug": "sony-one-or-action-hits",
         "gridKey": "692111d750fe592fd6d5b7da",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/b7e6dc61-1c07-4ec3-b63e-4d69b5dc8d78/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/38c931b6-78c7-40a6-aa4d-0cff52ec4214/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-692111d750fe592fd6d5b7da.m3u8",
         "genres": [
@@ -15361,10 +15426,10 @@
       },
       "656fabcfdbcce28c3a417417": {
         "id": "64305451fc3be5947773c339-656fabcfdbcce28c3a417417",
-        "slug": "icon-film-channel-classics",
+        "slug": "icon-film-channel-christmas-classics",
         "gridKey": "656fabcfdbcce28c3a417417",
-        "name": "Icon Film Channel Classics",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/8d6601b1-96e8-4db9-a46c-89fc74e7843b/53236_1_ICON_Film_1500x1000_ATTRIBUTION.png",
+        "name": "Icon Film Channel Christmas Classics",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b2003890-1df8-4140-a136-15f2bf8c3458/54940_ICON_FILM_CHANNEL_CLASSICS_SINGLE_LOGO_V6.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-656fabcfdbcce28c3a417417.m3u8",
         "genres": [
@@ -17772,6 +17837,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/5f489abb-a71e-425f-b276-16d6614f6601/FilmRiseHotOnes_Logo_Color.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6582a1316b91be4547aa153c.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "gb"
+      },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "64305451fc3be5947773c339-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/64305451fc3be5947773c339-6aa776a1fc710687a8b4db41.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -21952,6 +22030,19 @@
         ],
         "region": "au"
       },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "697140a85d851f5e69414688-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/697140a85d851f5e69414688-6aa776a1fc710687a8b4db41.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "au"
+      },
       "6a8786c4fa0d0293e2681b7c": {
         "id": "697140a85d851f5e69414688-6a8786c4fa0d0293e2681b7c",
         "slug": "growthday-network",
@@ -25693,6 +25784,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "nz"
+      },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
@@ -37671,7 +37775,7 @@
         "slug": "sony-one-or-action-hits-2",
         "gridKey": "69212d585028288613484a7e",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/c2041ce0-e661-46a2-b372-f368232640de/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/8d0d98ec-71d9-4c13-9048-6122a626906c/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/635177ecff6cd5445d7f9b0b-69212d585028288613484a7e.m3u8",
         "genres": [
@@ -51305,7 +51409,7 @@
         "slug": "sony-one-or-action-hits-5",
         "gridKey": "692326cd5cbe620c1f9b6bcd",
         "name": "Sony One | Action Hits",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/dcebeb11-e913-4ad3-9051-48b40c33d672/UK_FAST_Plex_ActionHits_Halloween_logo_dark.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/5c8c6693-dcdb-4b02-9969-0c54b59bf090/Sony_Action_UK_FAST_Plex_ActionHits_logo_dark.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-692326cd5cbe620c1f9b6bcd.m3u8",
         "genres": [
@@ -52972,6 +53076,19 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/2a86a06c-8a32-4a88-bf69-831a26032698/trailers-from-hellCircle.png",
         "callSign": "",
         "key": "/library/parts/5e20b730f2f8d5003d739db7-61d738b5a7b7c7f703418514.m3u8",
+        "genres": [
+          "Daytime TV & Games"
+        ],
+        "region": "se"
+      },
+      "6aa776a1fc710687a8b4db41": {
+        "id": "5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41",
+        "slug": "q-with-tom-power",
+        "gridKey": "6aa776a1fc710687a8b4db41",
+        "name": "Q With Tom Power",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/cf1686ce-71c2-46fb-a233-d9bde1c7d35d/CBC-Q-WithTomPower_Plex_LOGO-WHITE_791x1000RDX.png",
+        "callSign": "",
+        "key": "/library/parts/5e20b730f2f8d5003d739db7-6aa776a1fc710687a8b4db41.m3u8",
         "genres": [
           "Daytime TV & Games"
         ],
