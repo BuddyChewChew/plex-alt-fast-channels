@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T14:08:28.673237+00:00",
+  "generated": "2026-11-23T04:23:01.379457+00:00",
   "channels": {
     "us": {
       "66635fc0ca7b22f4c3a2d743": {
@@ -3465,7 +3465,7 @@
         "slug": "circle-country",
         "gridKey": "6995ed8173f56d61dc078f0d",
         "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1bbe4043-dc4c-4534-9ae4-c0ad8694754e/circleLight_Logo__3_.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
@@ -4276,6 +4276,19 @@
         "key": "/library/parts/6a1610bebdf296985fd95603-621671d05abdd3d5556a1baf.m3u8",
         "genres": [
           "Adrenaline & Sci-Fi"
+        ],
+        "region": "us"
+      },
+      "6af4b7a7367b6ced1fe30616": {
+        "id": "6a1610bebdf296985fd95603-6af4b7a7367b6ced1fe30616",
+        "slug": "ghosts",
+        "gridKey": "6af4b7a7367b6ced1fe30616",
+        "name": "Ghosts",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/24eb2e18-7f25-4df0-8378-bd53345815ea/Plex_GHOSTS_Logo_Color_1500x1000.png",
+        "callSign": "",
+        "key": "/library/parts/6a1610bebdf296985fd95603-6af4b7a7367b6ced1fe30616.m3u8",
+        "genres": [
+          "Comedy"
         ],
         "region": "us"
       },
@@ -7147,19 +7160,6 @@
         "logo": "https://provider-static.plex.tv/epg/cms/production/158f2ae8-032e-4f0e-8143-b9939c2fd5a2/Runtime_USH_Light_Logo_-_JP_Garcia.png",
         "callSign": "",
         "key": "/library/parts/6a1610bebdf296985fd95603-5f5132e362fe160040f26c15.m3u8",
-        "genres": [
-          "En Español"
-        ],
-        "region": "us"
-      },
-      "6a8744fdb1b3d334c851bbc5": {
-        "id": "6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5",
-        "slug": "entravision-ahora",
-        "gridKey": "6a8744fdb1b3d334c851bbc5",
-        "name": "Entravision Ahora",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/26b9f118-779a-42a1-bff4-2fa0c41d0f53/EA_COLOR_1500X1000RDXwWHTLETTERS.png",
-        "callSign": "",
-        "key": "/library/parts/6a1610bebdf296985fd95603-6a8744fdb1b3d334c851bbc5.m3u8",
         "genres": [
           "En Español"
         ],
@@ -11527,7 +11527,7 @@
         "slug": "circle-country",
         "gridKey": "6995ed8173f56d61dc078f0d",
         "name": "Circle Country",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/87241472-e99a-4908-8953-72a4b173f04a/CircleWhite_Logo__2_.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/1bbe4043-dc4c-4534-9ae4-c0ad8694754e/circleLight_Logo__3_.png",
         "callSign": "",
         "key": "/library/parts/647f8d22a2fc3fadb4721685-6995ed8173f56d61dc078f0d.m3u8",
         "genres": [
@@ -15624,7 +15624,7 @@
         "slug": "evidence-of-evil",
         "gridKey": "6888e66c57acf2ceb6121ea8",
         "name": "Evidence of Evil",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/bf9ff678-d3cf-4a9b-8095-eed2752bcb01/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/b22dbf0a-61e9-4e1b-ac2f-2f6cbfb08bbb/EVIDENCE_OF_EVIL_PLEX_LOGO_COLOUR_-_Tanya_Ranasinghe.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6888e66c57acf2ceb6121ea8.m3u8",
         "genres": [
@@ -15663,7 +15663,7 @@
         "slug": "true-crime-uk",
         "gridKey": "6888e72c053adc1e3a34e40e",
         "name": "True Crime UK",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/9b2e24be-ea1a-4d23-8a0e-d2c1ae742e01/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/4aa7cf2f-b85b-486a-89f4-b9689d2c2610/TRUE_CRIME_UK_PLEX_LOGO_COLOUR_NEGATIVE_-_Tanya_Ranasinghe.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6888e72c053adc1e3a34e40e.m3u8",
         "genres": [
@@ -15767,7 +15767,7 @@
         "slug": "bloodline-detectives",
         "gridKey": "6888e5c7d7b56a61e6e2643c",
         "name": "Bloodline Detectives",
-        "logo": "https://provider-static.plex.tv/epg/cms/production/6cdc7f1d-3755-4ad7-9193-fa6606c2873e/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png",
+        "logo": "https://provider-static.plex.tv/epg/cms/production/22e03bff-9d69-42c3-a578-3e9e29962537/BLOODLINE_DETECTIVES_PLEX_LOGO_WHITE_-_Tanya_Ranasinghe.png",
         "callSign": "",
         "key": "/library/parts/64305451fc3be5947773c339-6888e5c7d7b56a61e6e2643c.m3u8",
         "genres": [
